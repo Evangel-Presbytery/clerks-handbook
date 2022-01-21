@@ -1,3 +1,104 @@
-# Church Discipline (Lucas)
+# Church Discipline
 
-feel the pain.
+The Evangel Presbytery Book of Church Order addresses church discipline in chapters 30-49 (see [here](https://evangel.pressbooks.com/chapter/30-discipline-its-nature-subjects-and-ends/)). It is essential for clerks to understand both the theoretical and practical aspects of church discipline, and there is no substitute for carefully reading the entire section on church discipline in our BCO.
+
+The point of this chapter is to be a help and a short-hand reference for clerks where *judicial process* is necessary (see [BCO 30.1](https://evangel.pressbooks.com/chapter/30-discipline-its-nature-subjects-and-ends/)). It pertains, in other words, to church discipline that is *formal* rather than *informal*. In general, the duties of a clerk, whether he be the clerk of a particular session or the stated clerk of the Presbytery, are:
+
+* 
+* to be a 
+
+The following sections, taken in order as they are found in the BCO, highlight the responsibilities of clerks in the case of judicial process.
+
+### 32. Offenses
+
+An offense, the proper object of judicial process, is anything in the principles or practice of a church member professing faith in Christ, which is contrary to the Word of God. Offenses are either personal or general, private or public.
+
+### 33. Church Censures
+
+The censures which may be inflicted by church courts are:
+
+* admonition, 
+* suspension from the Sacraments, 
+* suspension from office, 
+* deposition from office, and 
+* excommunication. 
+
+### 34. The Parties in Cases of Process
+
+The original and only parties in a case of process are the accuser and the accused. The accuser is always Evangel Presbytery, whose honor and purity are to be maintained.
+
+```
+(NOTE: This is to say that the accuser is never an individual person, even when the charge comes from an individual. Should double-check this. ldw)
+```
+
+Every indictment shall begin: “In the name of Evangel Presbytery” and shall conclude, “against the peace, unity and purity of the Church, and the honor and majesty of the Lord Jesus Christ as the King and Head thereof.” In every case the Church is the injured and accusing party, against the accused.
+
+### 35. General Provisions Applicable to All Cases of Process
+
+All charges brought before either the Session or Presbytery must be reduced to writing.
+
+The moderator and/or the clerk must call the attention of the parties to the Rules of Discipline. It is common in judicial proceedings for the session to appoint a Judicial Committee whose duty will be to digest and arrange all the papers, and to prescribe, under the direction of the court, the whole order of the proceedings. The clerk should work closely with the committee to ensure that all papers and correspondence pertaining to the proceedings are recorded properly.
+
+**The First Meeting**
+
+Nothing should be done at the first meeting of the court, unless by consent of parties, except to:
+
+* appoint a prosecutor, 
+* write up the indictment,
+* create a list of witnesses who support the indictment,
+* send the indictment, and the list of supporting witnesses, to the accused and cite all parties and their witnesses to appear and be heard at another meeting, which shall not be sooner than ten days after such citation. 
+
+Indictments and citations shall be delivered in person or in another manner providing verification of the date of receipt. In drawing the indictment, the times, places, and circumstances should, if possible, be particularly stated, that the accused may have an opportunity to make his defense.
+
+```
+**Duties of the Clerk**
+
+* Issue and sign the citations to the accused in the name of the court
+* Issue citations to all witnesses as either party nominate
+
+```
+
+**Second Meeting**
+
+At the second meeting of the court:
+
+* the charges shall be read to the accused, if present, and he shall be called upon to say whether he be guilty or not. If he confess, the court may deal with him according to its discretion; if he plead and take issue, the trial shall be scheduled and all parties and their witnesses cited to appear.
+* The trial shall not be sooner than fourteen (14) days after such citation. 
+* Accused parties may plead in writing when they cannot be personally present.
+* Parties necessarily absent should have counsel assigned to them.
+
+35.15 When a court of first resort proceeds to the trial of a cause, the following order shall be observed: 1, The Moderator shall charge the court. 2, The indictment shall be read, and the answer of the accused heard. 3, The witnesses for the prosecutor and then those for the accused shall be examined. 4, The parties shall be heard; first, the prosecutor, and then the accused, and the prosecutor shall close. 5, The roll shall be called, and the members may express their opinion in the cause. 6, The vote shall be taken, the verdict announced and judgment entered on the records. - Not obvious to me that this is the duty of the clerk.
+
+***35.18 Minutes of the trial shall be kept by the Clerk, which shall exhibit the charges, the answer, all the testimony, and all such acts, orders, and decisions of the court relating to the case, as either party may desire, and also the judgment. The Clerk shall, without delay, assemble the Record of the Case which shall consist of the charges, the answer, the citations and returns thereto, and the minutes herein required to be kept. The parties shall be allowed copies of the Record of the Case at their own expense when they demand them. When a case is removed by appeal or complaint, the lower court shall transmit “the record” thus prepared to the higher court with the addition of the notice of appeal or complaint, and the reasons thereof, if any shall have been filed. Nothing which is not contained in this “record” shall be taken into consideration in the higher court. On the final decision of a case in a higher court, its judgment shall be sent down to the court in which the case originated.
+
+36. Special Rules Pertaining to Process before Sessions
+37. Special Rules Pertaining to Process against a Minister
+38. Evidence
+39. The Infliction of Church Censures
+40. The Removal of Censure
+41. Cases without Process
+42. Modes in Which the Proceedings of Lower Courts Come Under the Supervision of Higher Courts
+43. General Review and Control
+44. References
+45. Appeals
+46. Complaints
+47. Voting in Appeals and Complaints
+48. Dissents, Protests, and Objections
+49. Jurisdiction
+
+
+37.10 Whenever a Minister of the Gospel shall habitually fail to be engaged in the regular discharge of his official functions, it shall be the duty of the Presbytery, at a stated meeting, to inquire into the cause of such dereliction, and if necessary, to institute judicial proceedings against him for breach of his covenant engagement. If it shall appear that his neglect proceeds only from his lack of acceptance by the church (i.e., the people do not accept him), Presbytery may, upon the same principle upon which it withdraws license from a licentiate for want of evidence of the divine call, divest him of his office without censure, even against his will, a majority of two-thirds being necessary for this purpose.
+
+In such a case, the Clerk shall, under the order of the Presbytery, forthwith deliver to the individual concerned a written notice that, at the next stated meeting, the question of his being so dealt with is to be considered. This notice shall distinctly state the grounds for this proceeding. The party thus notified shall be heard in his own defense; and if the decision pass against him he may appeal, as if he had been tried after the usual forms.
+
+This principle may apply, with any necessary changes, to Ruling Elders and Deacons.
+
+The key is written notices.
+
+38.8 - The records of a court, or any part of them, whether original or transcribed, if regularly authenticated by the Moderator and Clerk, or by either of them, shall be deemed good and sufficient evidence in every other court.
+
+Written records.
+
+44.4 Notice of appeal may be given the court before its adjournment. Written notice of appeal, with supporting reasons, shall be filed by the appellant with both the clerk of the lower court and the clerk of the higher court, within thirty days of notification of the last court’s decision.Notification shall be deemed to have occurred on the day of mailing (if certified, registered or express mail of a national postal service or any private service where verifying receipt is utilized), the day of hand delivery, or the day of confirmed receipt in the case of e-mail or facsimile. Furthermore, compliance with such requirements shall be deemed to have been fulfilled if a party cannot be located after diligent inquiry or if a party refuses to accept delivery. No attempt should be made to circularize the courts to which appeal is being made by either party before the case is heard.
+
+44.5 It shall be the duty of the clerk of the lower court to file with the clerk of the higher court, not more than thirty (30) days after receipt of notice of appeal, a copy of all proceedings in connection with the case, including the notice of appeal and reasons therefor, the response of the lower court, the evidence, and any papers bearing on the case, which together shall be known as “the Record of the Case”, and the higher court shall not admit or consider anything not found in this “Record” without the consent of the parties in the case. Should new evidence come to light the case shall be remanded to the lower court from which the appeal was made, unless both parties consent to admit the new evidence and proceed with the case (cf. BCO 38.14).
