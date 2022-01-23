@@ -1,5 +1,4 @@
-this-section-is-in-the-index.rmd-file
-intro
+introduction
 overview-alex
 helpful-resources-daniel
 keeping-minutes-alex
