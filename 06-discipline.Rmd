@@ -6,17 +6,17 @@ Clerks have specific duties in cases of discipline, and those duties are outline
 
 ## General Principles
 
-**Jurisdiction**
+### Jurisdiction
 
-Original jurisdiction in relation to Ministers of the Gospel pertains exclusively to the Presbytery, and in relation to other church members to the Session, unless the Session shall be unable to try the person or persons accused, in which case the Presbytery shall have the right of jurisdiction.
+Original jurisdiction in relation to Ministers of the Gospel pertains exclusively to the Presbytery, and in relation to other church members to the Session, unless the Session is unable to try the person or persons accused, in which case the Presbytery has the right of jurisdiction.
 
-**Offenses**
+### Offenses
 
-An offense, the proper object of judicial process, is anything in the principles or practice of a church member professing faith in Christ, which is contrary to the Word of God. Offenses are either personal or general, private or public.
+An [offense](https://evangel.pressbooks.com/chapter/32-offenses/), the proper object of judicial process, is anything in the principles or practice of a church member professing faith in Christ, which is contrary to the Word of God. Offenses are either personal or general, private or public.
 
-**Church Censures**
+### Church Censures
 
-The censures which may be inflicted by church courts are:
+The [censures](https://evangel.pressbooks.com/chapter/33-church-censures/) which may be inflicted by church courts are:
 
 * admonition, 
 * suspension from the Sacraments, 
@@ -24,13 +24,13 @@ The censures which may be inflicted by church courts are:
 * deposition from office, and 
 * excommunication. 
 
-**The Parties in Cases of Process**
+### The Parties in Cases of Process
 
 The original and only parties in a case of process are the accuser and the accused. The accuser is always Evangel Presbytery, whose honor and purity are to be maintained.
 
 Every indictment shall begin: “In the name of Evangel Presbytery” and shall conclude, “against the peace, unity and purity of the Church, and the honor and majesty of the Lord Jesus Christ as the King and Head thereof.” In every case the Church is the injured and accusing party, against the accused.
 
-**Duties of the Clerk**
+### Duties of the Clerk
 
 Overall, the Clerk's responsibility is to assemble the **Record of the Case** without delay. That record should include:
 
@@ -43,9 +43,9 @@ Overall, the Clerk's responsibility is to assemble the **Record of the Case** wi
 
 All charges brought before either the Session or Presbytery must be reduced to writing.
 
-It is common in judicial proceedings for the session to appoint a Judicial Committee whose duty will be to digest and arrange all the papers, and to prescribe, under the direction of the court, the whole order of the proceedings. The clerk should work closely with the committee to ensure that all papers and correspondence pertaining to the proceedings are recorded properly.
+It is common in judicial proceedings for the session to appoint a Judicial Committee whose duty will be to digest and arrange all the papers, and to prescribe, under the direction of the court, the whole order of the proceedings. The clerk should work closely with the Judicial Committee to ensure that all papers and correspondence pertaining to the proceedings are recorded and stored properly.
 
-**The First Meeting**
+### The First Meeting
 
 Nothing should be done at the first meeting of the court, unless by consent of parties, except to:
 
@@ -56,7 +56,7 @@ Nothing should be done at the first meeting of the court, unless by consent of p
 
 Indictments and citations shall be delivered in person or in another manner providing verification of the date of receipt. In drawing the indictment, the times, places, and circumstances should, if possible, be particularly stated, that the accused may have an opportunity to make his defense.
 
-**Second Meeting**
+### Second Meeting
 
 At the second meeting of the court:
 
@@ -65,7 +65,7 @@ At the second meeting of the court:
 * Accused parties may plead in writing when they cannot be personally present.
 * Parties necessarily absent should have counsel assigned to them.
 
-**The Trial**
+### The Trial
 
 The following order shall be observed at any trial: 
 
@@ -76,7 +76,7 @@ The following order shall be observed at any trial:
 5. The roll shall be called, and the members may express their opinion in the cause. 
 6. The vote shall be taken, the verdict announced and judgment entered on the records.
 
-The clerk must keep a record of the minutes of the trial. Those minutes should include:
+**The clerk must keep a record of the minutes of the trial.** Those minutes should include:
 
 * the charges, 
 * the answer, 
@@ -84,7 +84,7 @@ The clerk must keep a record of the minutes of the trial. Those minutes should i
 * all such acts, orders, and decisions of the court relating to the case, as either party may desire, and 
 * the judgment. 
 
-**Appeals**
+### Appeals
 
 An appeal is the transfer to a higher court of a judicial case on which judgment has been rendered in a lower court, and is allowable only to the party against whom the decision has been rendered.
 
