@@ -9,6 +9,6 @@ github-repo: Evangel-Presbytery/clerks-handbook
 description: "This is a handbook for Evangel Presbytery clerks."
 ---
 
-# This section is in the Index.Rmd file
+# Introduction
 
-I'm not really sure what should go here. perhaps some kind of introduction?
+The introduction, if there is any, should be put here. This is what people will see first when they land on this book.
