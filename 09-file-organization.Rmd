@@ -1,0 +1,58 @@
+# Organization of Files
+
+## Meeting Minutes
+
+**Suggested File Organization and Naming:**
+
+* Meeting Minutes
+  * Session Minutes
+    * Approved Minutes
+      * 2020
+      * 2019
+        * YYYY.MM.DD - [Church Name or Abbreviation] [Body and Meeting]
+        * 2019.05.13 - TRC Session Meeting Minutes
+      * 2018
+    * Awaiting Session Approval
+  * Deacons Meeting Minutes
+  * Congregational Meeting Minutes
+
+
+---------------------
+
+**Notes:**
+
+Keep in location near other important church documents:
+Bylaws
+Statistical Reports
+Position Papers
+Membership Documents
+Legal and Tax Documents
+Budget
+…
+
+
+Keep Backups
+
+Recommended Backup Methods
+Dropbox
+Backblaze (backblaze.com)
+External Hard Drive
+
+----------------------
+
+Miscellaneous Session Docs
+Staff Minutes
+Trial Minutes
+
+
+2018.09.13 - For Meeting with Central Indiana Presbytery.pdf
+Annual Clerk Reports
+Disciplinary Cases
+Docs to Submit to Evangel Presbytery
+Letters
+Letters Received
+Membership
+My Templates
+Officer Rotations.xlsx
+OLD Correspondance
+The Church Register (OLD)
