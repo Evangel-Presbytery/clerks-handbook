@@ -1,5 +1,20 @@
 # Keeping Minutes (Alex)
 
+*Notes from Lucas that you may consider using:*
+
+The most important regular record-keeping you do as a *clerk of session* is to keep meeting minutes. Meeting minutes are very important. The are the official record of the decisions of a deliberative body. Once approved, they are the final word on what happened and what was decided at a meeting.
+
+A church has many committees that meet regularly, and many of those committees will choose to take minutes, but it's not necessary for a clerk of session to have a permanent record of all those minutes. Instead, a clerk of session should be sure to have a permanent record of the following:
+
+* Session Meeting Minutes (both regular and special)
+* Trials
+* Deacon Meeting Minutes
+* Congregational Meeting Minutes
+
+You can find some helpful suggestions on how to organize your minutes [here](08-file-organization.Rmd).
+
+------------------
+
 [From Evangel Presbytery Bylaws](https://docs.google.com/document/d/1WZ4PrWPCNPNsUEmfXLPNXCNJz5qaB09T3HXnCkPh2ak/edit?usp=sharing)
 
 APPENDIX 1: GUIDELINES FOR KEEPING SESSION MINUTES
