@@ -1,56 +1,71 @@
 # Organization of Files
 
+Overall, it's a good idea to keep all important files together in one area.
+
 ## Meeting Minutes
 
-**Suggested File Organization and Naming:**
+It's important to be consistent with your files names. We suggest the following: 
+
+YYYY.MM.DD - Church Name or Abbreviation | Body and Meeting
+
+So, for instance: "2022.02.03 - TRC Session Meeting Minutes" or "2021.09.23 - TRC Specially Called Session Meeting Minutes".
+
+To organize your files, we suggest the following:
 
 * Meeting Minutes 
   * Session Minutes
-    * Approved Minutes 
-      * 2020
-      * 2019 -> YYYY.MM.DD - Church Name or Abbreviation | Body and Meeting
-      * 2018
-    * Awaiting Session Approval
-  * Deacons Meeting Minutes
+    * 2020
+    * 2019
+    * 2018
+  * Deacon Meeting Minutes
   * Congregational Meeting Minutes
 
+To ensure that there is one and only one *official* version of any minutes, we discourage including temporary folders such as "Waiting for Session Approval" in the file structure listed above for the permanent record. 
 
----------------------
+If you follow our [guidelines for keeping minutes](keeping-minutes.html), then minutes which are in the process of being approved will be sent out by email. Everyone who had a part in the meeting will then have a time-stamped record of the minutes. Once final changes are made and minutes have been approved, however, they should be added to the permanent record.
 
-**Notes:**
+### Attachments
 
-Keep in location near other important church documents:
-Bylaws
-Statistical Reports
-Position Papers
-Membership Documents
-Legal and Tax Documents
-Budget
-…
+At times, attachments will need to be added to approved minutes. When added to the permanent record, those attachements should be included in the file containing the minutes and *not* left as a separate file.
 
+## Trials
 
-Keep Backups
+The overall duties of a clerk of session regarding official church discipline are described [here](church-discipline.html). As stated [here](church-discipline.html#duties-of-the-clerk), the clerk must ensure that there is a permanent, official record of the following:
 
-Recommended Backup Methods
-Dropbox
-Backblaze (backblaze.com)
-External Hard Drive
+* the charges,
+* the answer,
+* the citations and responses to the citations, and
+* the minutes of the court proceedings
 
-----------------------
+The minutes of a court proceeding should include:
 
-Miscellaneous Session Docs
-Staff Minutes
-Trial Minutes
+* the charges,
+* the answer,
+* all the testimony,
+* all such acts, orders, and decisions of the court relating to the case, as either party may desire, and
+* the judgment.
 
+## Miscellaneous
 
-2018.09.13 - For Meeting with Central Indiana Presbytery.pdf
-Annual Clerk Reports
-Disciplinary Cases
-Docs to Submit to Evangel Presbytery
-Letters
-Letters Received
-Membership
-My Templates
-Officer Rotations.xlsx
-OLD Correspondance
-The Church Register (OLD)
+A clerk of session should work closely with a member of the church staff to organize and maintain the following additional documents:
+
+* Bylaws
+* Annual Clerks Reports
+* Church Position Papers
+* Membership Records and Forms
+* Legal and Tax Documents
+* Annual Budgets
+* Documents Submitted to Evangel Presbytery for Review
+* *etc.*
+
+## Backups
+
+Most minutes are kept digitally these days, and so it's important that you maintain backups of your important files. A good backup plan will ensure that there are always 3 copies of your files at all times.
+
+For instance:
+
+1. Files are on your computer, and
+2. Files are being synced regularly with a cloud service like [Google Drive](https://drive.google.com) or [Dropbox](https://dropbox.com), and
+3. Files are being backed up regularly with a service like [Backblaze](https://www.backblaze.com).
+
+For added security, you can also connect to a hard drive on your local network to run regular backups.
