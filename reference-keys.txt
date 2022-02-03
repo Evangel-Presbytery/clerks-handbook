@@ -16,5 +16,6 @@ second-meeting
 the-trial
 appeals
 church-statistical-reports-josh
-church-budgets-lucas
 presbytery-records-review-alex
+organization-of-files
+meeting-minutes
