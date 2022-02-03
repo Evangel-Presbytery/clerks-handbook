@@ -4,13 +4,11 @@
 
 **Suggested File Organization and Naming:**
 
-* Meeting Minutes
+* Meeting Minutes 
   * Session Minutes
-    * Approved Minutes
+    * Approved Minutes 
       * 2020
-      * 2019
-        * YYYY.MM.DD - [Church Name or Abbreviation] [Body and Meeting]
-        * 2019.05.13 - TRC Session Meeting Minutes
+      * 2019 -> YYYY.MM.DD - Church Name or Abbreviation | Body and Meeting
       * 2018
     * Awaiting Session Approval
   * Deacons Meeting Minutes
