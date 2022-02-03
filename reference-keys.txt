@@ -1,8 +1,8 @@
 introduction
-overview-alex
-helpful-resources-daniel
-keeping-minutes-alex
-church-membership-josh
+overview
+helpful-resources
+keeping-minutes
+church-membership
 church-discipline
 general-principles
 jurisdiction
@@ -15,7 +15,11 @@ the-first-meeting
 second-meeting
 the-trial
 appeals
-church-statistical-reports-josh
-presbytery-records-review-alex
+church-statistical-reports
+presbytery-records-review
 organization-of-files
 meeting-minutes
+attachments
+trials
+miscellaneous
+backups
