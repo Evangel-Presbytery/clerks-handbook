@@ -1,7 +1,5 @@
-introduction
 overview
-helpful-resources
-keeping-minutes
+governing-documents
 church-membership
 church-discipline
 general-principles
@@ -16,10 +14,12 @@ second-meeting
 the-trial
 appeals
 church-statistical-reports
-presbytery-records-review
+keeping-minutes
 organization-of-files
 meeting-minutes
 attachments
 trials
 miscellaneous
 backups
+presbytery-records-review
+helpful-resources
