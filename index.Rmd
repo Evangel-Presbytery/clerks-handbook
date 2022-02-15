@@ -1,16 +1,54 @@
 --- 
 title: "A Handbook for Evangel Presbytery Clerks"
-author: "Office of the Stated Clerk"
+author: "Office of the Stated Clerk of Evangel Presbytery"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
 github-repo: Evangel-Presbytery/clerks-handbook
-description: "This is a handbook for Evangel Presbytery clerks."
+description: "This is a handbook for Evangel Presbytery clerks of session."
 ---
 
 # Overview
 
-**Assignment: Alex**
+Welcome to Evangel Presbytery's handbook for clerks of session. This resource is not part of Evangel's officially adopted governing documents. It is simply intended to make the work of clerks of session easier, more efficient, and more reliable. It consolidates information from Evangel's [Book of Church Order](https://evangel.pressbooks.com/) (BCO) and [Bylaws](https://evangelpresbytery.com/documents/) as they pertain specifically to clerks of session. Additionally, this handbook offers practical resources and guidance for carrying out the clerk's duties.
 
-The introduction, if there is any, should be put here. This is what people will see first when they land on this book.
+## The Importance of Keeping Good Records
+
+The officers of Christ's church are called by the Lord to carry out justice among His people. Central to this work is the keeping of faithful records. The prophet Isaiah gives us a glimpse of the importance of this in the church:
+
+>Woe to those who enact evil statutes  
+And to those who constantly record unjust decisions,  
+So as to deprive the needy of justice  
+And rob the poor of My people of their rights,  
+So that widows may be their spoil  
+And that they may plunder the orphans.
+
+God cares about the records we keep. The recording of truth helps ensure that the poor and the needy are well cared for in the church.
+
+## The Stated Clerk Defined
+
+The BCO organizes Evangel Presbytery's government into "courts": "These courts are church Sessions and Presbyteries" ([BCO 12.1–2](https://evangel.pressbooks.com/chapter/12-church-courts-in-general/)). Each of these courts must have a stated clerk who is responsible for the court's records. The presbytery as a whole has a stated clerk, and each church session is responsible for electing its own stated clerk ([BCO 6.3](https://evangel.pressbooks.com/chapter/6-the-organization-of-a-particular-church/)).
+
+"Stated clerk" is a general term for the officially elected clerk of any court in the presbytery. When he is elected by a session to keep the records of that session, he is often referred to as the "clerk of session." As such, he is responsible for keeping, organizing, understanding, and furnishing the church's records:
+
+>It is the duty of the Clerk, besides recording the transactions, to preserve the records carefully, and to grant extracts from them whenever properly required. Such extracts, under the hand of the Clerk, shall be evidence to any ecclesiastical court, and to every part of the Church. ([BCO 12.4](https://evangel.pressbooks.com/chapter/12-church-courts-in-general/))
+
+## Areas of Responsibility
+
+This handbook is organized according to the stated clerk's areas of responsibility. These typically include (but are not necessarily limited to) the following:
+
+* Governing Documents
+* Keeping Minutes
+* Membership Records
+* Church Discipline Records
+* Records Organization
+* Submission of Records to Presbytery
+
+## The Clerk's Help
+
+It is common for the stated clerk to delegate some of his duties to other individuals, especially in the context of a larger church or session, where the keeping of records is more complex. In particular, the task of keeping minutes is often delegated to a *recording clerk*, or *clerk pro tem*, as it can be difficult to participate in a meeting while also recording the meeting's proceedings.
+
+The clerk will also often employ other individuals in keeping records for committees, subcommittees, or other boards of the church. For instance, the clerk should normally rely on the secretary of the board of deacons to keep good records for the deacons.
+
+Even when help from others is utilized, the stated clerk is still finally responsible for compiling the records kept and for ensuring their accuracy. He should make sure to review all records, including those which are kept by someone he has delegated.
