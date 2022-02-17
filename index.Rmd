@@ -11,7 +11,7 @@ description: "This is a handbook for Evangel Presbytery clerks of session."
 
 # Overview
 
-Welcome to Evangel Presbytery's handbook for clerks of session. This resource is not part of Evangel's officially adopted governing documents. It is simply intended to make the work of clerks of session easier, more efficient, and more reliable. It consolidates information from Evangel's [Book of Church Order](https://evangel.pressbooks.com/) (BCO) and [Bylaws](https://evangelpresbytery.com/documents/) as they pertain specifically to clerks of session. Additionally, this handbook offers practical resources and guidance for carrying out the clerk's duties.
+Welcome to Evangel Presbytery's handbook for clerks of session. This resource is not part of Evangel's officially adopted governing documents; it is simply intended to make the work of clerks of session easier, more efficient, and more reliable. It consolidates information from Evangel's [Book of Church Order](https://evangel.pressbooks.com/) (BCO) and [Bylaws](https://evangelpresbytery.com/documents/) as they pertain specifically to clerks of session. Additionally, this handbook offers practical resources and guidance for carrying out the clerk's duties.
 
 ## The Importance of Keeping Good Records
 
@@ -28,7 +28,7 @@ God cares about the records we keep. The recording of truth helps ensure that th
 
 ## The Stated Clerk Defined
 
-The BCO organizes Evangel Presbytery's government into "courts": "These courts are church Sessions and Presbyteries" ([BCO 12.1–2](https://evangel.pressbooks.com/chapter/12-church-courts-in-general/)). Each of these courts must have a stated clerk who is responsible for the court's records. The presbytery as a whole has a stated clerk, and each church session is responsible for electing its own stated clerk ([BCO 6.3](https://evangel.pressbooks.com/chapter/6-the-organization-of-a-particular-church/)).
+The BCO organizes Evangel Presbytery's government into two types of "court," church sessions and presbyteries ([BCO 12.1–2](https://evangel.pressbooks.com/chapter/12-church-courts-in-general/)). Each of these courts must have a stated clerk who is responsible for its records. The presbytery as a whole has a stated clerk, and each church session is responsible for electing its own stated clerk ([BCO 6.3](https://evangel.pressbooks.com/chapter/6-the-organization-of-a-particular-church/)).
 
 "Stated clerk" is a general term for the officially elected clerk of any court in the presbytery. When he is elected by a session to keep the records of that session, he is often referred to as the "clerk of session." As such, he is responsible for keeping, organizing, understanding, and furnishing the church's records:
 
@@ -38,16 +38,16 @@ The BCO organizes Evangel Presbytery's government into "courts": "These courts a
 
 This handbook is organized according to the stated clerk's areas of responsibility. These typically include (but are not necessarily limited to) the following:
 
-* Governing Documents
-* Keeping Minutes
-* Membership Records
-* Church Discipline Records
-* Records Organization
-* Submission of Records to Presbytery
+* [Governing Documents]
+* [Keeping Minutes]
+* [Membership Records]
+* [Church Discipline Records]
+* [Records Organization]
+* [Submission of Records to Presbytery]
 
 ## The Clerk's Help
 
-It is common for the stated clerk to delegate some of his duties to other individuals, especially in the context of a larger church or session, where the keeping of records is more complex. In particular, the task of keeping minutes is often delegated to a *recording clerk*, or *clerk pro tem*, as it can be difficult to participate in a meeting while also recording the meeting's proceedings.
+It is common for the stated clerk to delegate some of his duties to other individuals, especially in the context of a larger church or session where the keeping of records is more complex. In particular, the task of keeping minutes is often delegated to a *recording clerk*, or *clerk pro tem*, as it can be difficult to participate in a meeting while also recording that meeting's proceedings.
 
 The clerk will also often employ other individuals in keeping records for committees, subcommittees, or other boards of the church. For instance, the clerk should normally rely on the secretary of the board of deacons to keep good records for the deacons.
 

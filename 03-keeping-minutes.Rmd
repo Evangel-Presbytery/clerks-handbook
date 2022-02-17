@@ -1,10 +1,26 @@
 # Keeping Minutes
 
-**Assignment: Alex**
+Evangel Presbytery's official standards for keeping minutes can be found in [Appendix 1 of the presbytery's bylaws](https://docs.google.com/document/d/1WZ4PrWPCNPNsUEmfXLPNXCNJz5qaB09T3HXnCkPh2ak/edit?usp=sharing). The information included in this section of the handbook is not required 
 
-*Notes from Lucas that you may consider using:*
+## Overview
 
-Meeting minutes are very important. The are the official record of the decisions of a deliberative body. Once approved, they are the final word on what happened and what was decided at a meeting.
+### The Importance of Good Minutes
+
+Meeting minutes are the official record of the decisions of a deliberative body. Once approved, they are the final word on what happened and what was decided at a meeting. The keeping of minutes is also typically the clerk's most consistent and frequent area of responsibility. In short, minutes must be kept with utmost care. Good minutes help promote integrity and accountability, and they act as a practical reference for future discussions and decisions of the session.
+
+### Principles for Keeping Good Minutes
+
+#### Clarity
+
+Put yourself in the shoes of a session member reading your minutes ten years from now. Ask yourself, will they have enough information to clearly understand what decision was made, who was involved, and why that decision was made?
+
+#### Concision
+
+Minutes are intended to record essential information. They should not to be a detailed play-by-play record of delibertaion. The most important thing to record in minutes is any official action taken by the session.
+
+#### Consistency
+
+## What Minutes Should Be Kept?
 
 A church has many committees that meet regularly, and many of those committees will choose to take minutes. It's not necessary for a clerk of session to have a permanent record of all those minutes. Instead, a clerk of session should be sure to have a permanent record of both regular and specially-called meeting minutes of the following groups:
 
@@ -12,42 +28,86 @@ A church has many committees that meet regularly, and many of those committees w
 * Deacon Meeting Minutes
 * Congregational Meeting Minutes
 
-You can find some helpful suggestions on how to organize your minutes [here](organization-of-files.html).
+## Adoption Process for Session Minutes
 
-------------------
+## Examples
 
-[From Evangel Presbytery Bylaws](https://docs.google.com/document/d/1WZ4PrWPCNPNsUEmfXLPNXCNJz5qaB09T3HXnCkPh2ak/edit?usp=sharing)
+### Basic Minutes Template
 
-APPENDIX 1: GUIDELINES FOR KEEPING SESSION MINUTES
+We recommend clerks come to each meeting with a basic minutes outline already prepared.…
 
-A. Session Minutes must include the following: 
+### Sample Set of Session Meeting Minutes (download)
 
-A statement of the date, time, place, and purpose of the meeting (Stated, Called, adjourned stated, etc.) 
-If the meeting is a called meeting the minutes must include the portion of the call that indicates the purpose of the meeting.
-That the meeting was opened and closed with prayer. 
-The names of all in attendance or absent from the meeting. 
-That a quorum was present for the meeting. 
-Communications received, and any action taken because of the communications. 
-Approval of minutes from previous meetings. 
-A statement that indicates the review and approval of the Diaconate minutes.
-A statement that indicates the receiving of the Treasurer’s report as information. 
-The actions of the Session including all the motions adopted and business transacted. 
+### Sample Set of Congregational Meeting Minutes (download)
 
-B. When applicable, the minutes shall include the following:
+## Organizing Your Session's Minutes
 
-A record of all covenant baptisms, baptisms upon profession of faith, and dates of the celebration of the Lord’s Supper.
-Election of commissioners to presbytery. 
-A record of the call and purpose for each congregational or corporation meeting.
-A motion calling for the nomination and election of church officers.
-A record of the officers nominated, trained and examined by the Session.
-The December or the following January minutes must include a statement that records the pastor’s annual housing allowance approved by the Session.
-The BCO requires Sessions to “...keep a fair record of baptisms, of those admitted to the Lord’s table, of non-communing members, and of the births, marriages, deaths, and dismissions of church members and of any baptisms and marriage ceremonies presided over by the pastors of the church outside its bounds” (BCO 14.8).
-A copy of the approved operating budget and the yearly statistical report should be attached to December’s minutes. 
+You can find some helpful suggestions on how to organize your minutes [here][Records-Organization].
 
-All minutes should be typed. They should be simple in word and in formatting. Email should be used when circulating minutes among members of the Session. The minutes should be included in the body of the email and not as an attachment. Once minutes have been officially adopted by the Session, they should be archived digitally using the PDF file format. To archive newly approved minutes, they should be added to the existing PDF archive. The pages should be consecutively numbered, leaving no blank pages between meetings and no records left out. As with all important digital documents, great care should be taken to ensure that Session minute archives have both local and remote backups. Sessions may keep a physical hard copy of their minutes in addition to their digital copy. If they choose to do so, however, they must ensure that the physical archives do not conflict with the digital ones.
+## Optional Guidelines
 
-C. After the Meeting:
+For clerks who want to follow a more thorough set of standards for session minutes, we've provided the set of guidelines below. We note, however, that these guidelines are *not* required by the presbytery. They are simply offered as an optional aid for ensuring clarity, concision, and consistency.
 
-Complete any necessary correspondence as required by actions taken by the Session.
-Send transfer of the communicant’s membership certificates to other churches.
-Update the church membership records as required by action of the Session (Additions, removals, etc.).
+1. Write all minutes in the body of an email, rather than in Microsoft Word or another word processing application. Email programs allow basic text formatting (bold, italics) without the problems associated with attachments. The principle is to avoid attachments because they clutter up hard drives and can't be searched as easily as email may be. So keep your minutes simple in wording and formatting, and always write and circulate them in the body of an email.
+
+2. At the beginning of each set of minutes, place a header on the left side, in the following format:
+
+Name of Institution
+Type of Meeting (including the specific body meeting)
+Time, Month, Date, YYYY
+Location of meeting (or name of software used if meeting was held virtually, e.g., "via Zoom")
+
+For a regular session meeting at Trinity Reformed Church, the header would be as follows:
+
+Trinity Reformed Church, Bloomington, IN
+Regular Scheduled Session Meeting
+October 11, 2012, 7:00pm
+at Trinity Reformed Church
+
+3. Below the header (one line intervening), type “Present:”, followed by a list of all individuals in attendance at some point during the meeting. After each individual, put in parentheses his position/function in relation to the body meeting; for men with the same position, this may be put after all their names. Separate entries with a semicolon where it separates distinct positions; use a comma between names of the same position. Note these practices in the following example:
+
+Present: John Owen (moderator); John Bunyan, Richard Baxter (associate pastors); Jeremy Taylor, Richard Sibbes, Jeremiah Burroughs (assistant pastors); Martin Luther, John Calvin, William Tyndale (elders); Philip Melanchthon (chairman, deacons board); Theodore Beza, Zacharias Ursinus, Jan Hus (deacons); Joshua Congrove (recording clerk); Thomas Aquinas, Clement of Rome (guests of session)
+
+4. Below the previous list, type “Excused Absences:”, followed by a list of all regular session members whose absences were excused by the moderator. If desired, type another line beginning with “Other Absences:” in which you list all absences not explicitly excused.
+
+5. Below the prefatory material, and before enumeration of each item, place a paragraph summarizing when the meeting began, as well as the presenter, Scripture reference, and theme of the devotions. No summary of the devotions is needed. Then indicate who opened the meeting in prayer.
+
+6. Minutes should be numbered according to topic. Sometimes, when multiple discussions or decisions happen on one topic, it’s best to use a general heading (e.g., "Baptism issues" or "Financial matters"), and then specific subheadings to organize the information. Other times, simply provide a sentence or two summarizing the discussion, and then place any action items beneath the relevant section.
+
+Note: When the minutes are compiled and revised, they should be grouped according to their proper topic, even if this does not match the chronology in which they occurred. For example, if discussion in the early part of the meeting concerned the financial matters of Bloomington Christian Schoolhouse, and discussion later on dealt with appointments to the Schoolhouse board, these notes should be combined under an appropriate heading. Rarely, it’s useful to keep the notes separate if preserving the chronological order in which they were discussed is absolutely essential; but usually, it's least confusing to gather similar elements together.
+
+7. The cardinal rule of taking minutes is to write enough, but not more. Crucial to include are action items (see below), motions, and resolutions. Helpful to include are sentences summarizing reports made by members (e.g., the financial report), and a brief (one- or two-sentence) statement of what was discussed. Since minutes are properly intended to record only official actions of the board, please do not include opinions or consensus of the board or its individuals. The exception to this rule is when a member of the board would like his opposition to the session’s decision recorded in the minutes as a protest. In this case, however, he then needs to inform the entire board of his wish to record his opposition, and the moderator will help the recorder of the minutes to handle it properly.
+
+In addition, many decisions will be declared by the moderator to be "by consensus." Such decisions are to be recorded as official actions of the board, and should be prefaced "By consensus" (see below). Unless so directed, do not write down the details of the discussion, nor the individual points made in the process. Record where the board finally arrives, not how they got there.
+
+8. Below the relevant topic, indicate tasks assigned to individuals in the following format:
+—NEW ACTION ITEM: Joe Schmoe will write a valediction to his name (copying elder Bob Smith on it), expressing his joy at being able to acquire a new designation.
+
+9. Record the names of anyone who takes significant action, to include motions, of course, but also action such as opening or closing in prayer. Often, if the action taken is informal or unanimous, you may also use "M/S/A" or "by consensus", depending on the nature of the action (and on whether you’re able to record the names fast enough!)
+
+10. Votes in the negative do not need to be recorded unless requested by the voter, or unless the moderator so directs.
+
+11. When recording names of individuals, always give the first and last name, unless that individual has been mentioned in a previous sentence of the same numbered item. (For Jürgen von Hagen, spell his name thus.)
+
+12. Do not hesitate to remind the moderator of his various duties if he overlooks them, particularly if they bear directly upon the minutes. Such duties include prayer at the open and close of the meeting, assigning action items to specific members of the board, ensuring that initial motions are given and seconded before proceeding with a vote, setting the time and place of the next meeting and who will give devotions, and so on.
+ 
+13. If there is any more than one instance of orders of the day, I sum the total number of minutes granted in aggregate, and express this in a single motion, e.g., "M/S/A for orders of the day for 45 minutes, in totality."
+
+14. Supplemental documents: Documents that are approved by the board should only be referenced within the minutes themselves, and then appended inline below the body of the minutes. If documents are especially long or dependent upon formatting that may be lost in email form, you may also attach the original document in .pdf form; regardless, documents must also be included inline.
+
+15. Abbreviations for organizations or ministries of the church should only be used when clear and stated in full prior to their use. For example: The session received a report on New Geneva Academy (NGA) from pastor Smith. He explained that NGA is working on…
+
+16. Style: In general, our standard is Chicago Manual of Style. For commas, use the Oxford comma (i.e., including a comma before the final item in a list). Use only one space between sentences.
+
+Be scrupulous in your sentence structure, vocabulary, and style. Your goal is to produce a document in which the moderator will find nothing needing change. Likely you’ll never achieve that, but it’s something to aim for!
+
+17. Concluding matter: Always include a statement about when and where the next meeting will be, and who will provide devotions. Then indicate when the meeting was adjourned, and by whose motion and prayer.
+
+18. Below the body of the minutes, but before any supplemental documents, write the closing signature as follows:
+
+Respectfully submitted,
+
+Your name, clerk pro tempore
+for Session clerk, clerk of session
+
+Separate the minutes proper from any supplemental appended documents with a row of asterisks or hyphens.
