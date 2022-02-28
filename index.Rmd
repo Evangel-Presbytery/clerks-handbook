@@ -1,5 +1,5 @@
 --- 
-title: "A Handbook for Evangel Presbytery Clerks"
+title: "Handbook for Evangel Presbytery Clerks"
 author: "Office of the Stated Clerk of Evangel Presbytery"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -47,8 +47,8 @@ This handbook is organized according to the stated clerk's areas of responsibili
 
 ## The Clerk's Help
 
-It is common for the stated clerk to delegate some of his duties to other individuals, especially in the context of a larger church or session where the keeping of records is more complex. In particular, the task of keeping minutes is often delegated to a *recording clerk*, or *clerk pro tem*, as it can be difficult to participate in a meeting while also recording that meeting's proceedings.
+It is common for the stated clerk to delegate some of his duties to other individuals, especially in the context of a larger church or session where the keeping of records is more complex. In particular, the task of keeping minutes is often delegated to a *recording clerk*, or *clerk pro tempore* (*clerk pro tem* for short), as it can be difficult to participate in a meeting while also recording the meeting's proceedings.
 
-The clerk will also often employ other individuals in keeping records for committees, subcommittees, or other boards of the church. For instance, the clerk should normally rely on the secretary of the board of deacons to keep good records for the deacons.
+The clerk will also often utilize other individuals in keeping records for committees, subcommittees, or other boards of the church. For instance, the clerk should normally rely on the secretary of the board of deacons to keep good records for the deacons.
 
-Even when help from others is utilized, the stated clerk is still finally responsible for compiling the records kept and for ensuring their accuracy. He should make sure to review all records, including those which are kept by someone he has delegated.
+Even when help from others is utilized, the stated clerk is still finally responsible for compiling the records kept, and for ensuring their accuracy.
