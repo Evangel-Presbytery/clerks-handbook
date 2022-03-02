@@ -9,8 +9,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: setup bookdown
-      - uses: warhornmedia/custom-actions/setup-bookdown@v0.2
+      - name: Setup bookdown environment
+        uses: warhornmedia/custom-actions/setup-bookdown@v0.2
 
       - name: Build the book
         uses: warhornmedia/custom-actions/build-book@v0.2
