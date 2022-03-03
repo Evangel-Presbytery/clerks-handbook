@@ -1,5 +1,7 @@
 bookdown::bs4_book:
-  repo: https://github.com/Evangel-Presbytery/clerks-handbook
+  repo:
+    base: https://github.com/Evangel-Presbytery/clerks-handbook
+    branch: main
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
