@@ -11,10 +11,10 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Setup bookdown environment
-        uses: warhornmedia/custom-actions/setup-bookdown@v0.3
+        uses: warhornmedia/custom-actions/setup-bookdown@HEAD
 
       - name: Build the book
-        uses: warhornmedia/custom-actions/build-book@v0.3
+        uses: warhornmedia/custom-actions/build-book@HEAD
 
       - name: deploy to github pages
         uses: JamesIves/github-pages-deploy-action@4.0.0
