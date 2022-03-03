@@ -1,13 +1,5 @@
-bookdown::gitbook:
-  css: style.css
-  config:
-    toc:
-      before: |
-        <li><a href="./">A Handbook for Evangel Presbytery Clerks</a></li>
-      after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/Evangel-Presbytery/clerks-handbook/edit/master/%s
-    download: ["pdf", "epub"]
+bookdown::bs4_book:
+  repo: https://github.com/Evangel-Presbytery/clerks-handbook
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
@@ -15,4 +7,3 @@ bookdown::pdf_book:
   citation_package: natbib
   keep_tex: yes
 bookdown::epub_book: default
-bookdown::bs4_book: default
