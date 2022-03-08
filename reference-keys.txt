@@ -5,7 +5,6 @@ areas-of-responsibility
 the-clerks-help
 governing-documents
 keeping-minutes
-overview-1
 principles-for-keeping-good-minutes
 what-minutes-should-be-kept
 adoption-process-for-session-minutes
