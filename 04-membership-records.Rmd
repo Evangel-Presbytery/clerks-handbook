@@ -3,3 +3,49 @@
 **Assignment: Josh**
 
 NOTE: Include annual statistical reports in this section.
+
+## Types of membership 
+
+Church membership in congregations of Evangel Presbytery consists of two types: communicant and non-communicant membership. The former is all those who have been made a credible profession of faith, been baptized, and been accepted by the session for membership; the latter comprises the children of communicant members. 
+
+Within these, individual congregations may specify further distinctions through their bylaws; for example, commonly a church will restrict voting to communicant members over the age of 18. Or, churches may provide for associate members, who have all the privileges of full members except for voting.
+
+## Clerk's responsibilities
+
+As the clerk is charged with keeping the rolls and registers of the church, it falls to him to handle many membership processes. One such common process is the adding or removal of members to the rolls of the church. Particular steps will differ by individual church, but a good guideline for procedure is as follows:
+
+** A typical membership approval process
+<ol> 
+  <li> Individual expresses interest in membership.
+  <li> Inquiry sent by individual to former church, asking for letter of good standing.
+  <li> Membership interview takes place; if letter of good standing not yet received, elders inquire of home church.
+  <li> If interviewing elders recommend membership, membership recommended to full session.
+  <li> Session votes whether to approve membership (decision recorded in minutes).
+  <li> Office notified; either office or interviewing elders inform member of decision.
+  <li> Members give vows in front of congregation.
+  <li> Letter of transfer sent to former church.
+  <li> Clerk updates registers.
+    </ol>
+
+Importance of sync between paper records and electronic databases
+
+C. Typical membership removal (non-transfer) process 
+Member requests removal
+Session determines whether removal valid (i.e., if discipline process underway) (see BCO 41.3 for other factors)
+Session votes on removal
+Clerk sends letter to former member.
+Clerk updates registers
+
+D. Membership removal in case of excommunication
+Judicatory recommends excommunication to full session (or carries it out itself, as a commission)
+If required, session votes on excommunication.
+Letter sent to former member. 
+Clerk updates the register.
+Announcement made to congregation.
+
+E. Membership removal without process in cases of non-attendance (BCO 41.4)
+Session remind member of his vows and warn him of erasure from roll.
+If no response after inquiry and due delay, session votes to erase member from roll.
+Clerk sends letter to former member.
+Clerk updates the register.  
+
