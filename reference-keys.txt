@@ -7,13 +7,12 @@ governing-documents
 keeping-minutes
 principles-for-keeping-good-minutes
 what-minutes-should-be-kept
+where-to-take-minutes
 adoption-process-for-session-minutes
+the-permanent-record
 examples
 basic-minutes-template
-sample-set-of-session-meeting-minutes-download
-sample-set-of-congregational-meeting-minutes-download
-organizing-your-sessions-minutes
-optional-guidelines
+sample-sets-of-meeting-minutes-from-churches-in-evangel-presbytery
 membership-records
 church-discipline-records
 general-principles
@@ -34,4 +33,8 @@ trials
 miscellaneous
 backups
 submission-of-records-to-presbytery
+what-to-include
+what-not-to-include
+formatting
+the-sessional-records-committee-src
 helpful-resources
