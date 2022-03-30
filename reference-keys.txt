@@ -16,6 +16,7 @@ sample-sets-of-meeting-minutes-from-churches-in-evangel-presbytery
 membership-records
 types-of-membership
 clerks-responsibilities
+statistical-reports
 church-discipline-records
 general-principles
 jurisdiction
