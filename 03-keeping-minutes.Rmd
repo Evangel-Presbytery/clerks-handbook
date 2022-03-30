@@ -16,7 +16,7 @@ Minutes are intended to record essential information only. They should not be a 
 
 ### 3. Consistency {-}
 
-There are many different ways to approach spelling, punctuation, abbreviations, outline structure, etc. The most important thing is to be consistent in how you handle such matters of formatting and style. Consistency helps minutes to be more clear, and it also makes minutes more useful as a reference. For example, it is common to use a computer program to search the minutes for all mentions of a particular name. Being careful to spell names correctly and consistently helps ensure that you will be able to find the information you need.
+There are many different ways to approach spelling, punctuation, abbreviations, outline structure, etc. The most important thing is to be consistent in how you handle such matters of formatting and style. Consistency helps minutes to be more clear, and it makes minutes more useful as a reference. For example, it is common to use a computer program to search the minutes for all mentions of a particular name. Being careful to spell names correctly and consistently helps ensure that you will be able to find the information you need.
 
 ## What Minutes Should Be Kept?
 
@@ -24,27 +24,29 @@ A clerk of session should be sure to have a permanent record of both regular and
 
 * **The session**, a.k.a. the board of elders.
 * **Session-appointed commissions**. "A Commission is authorized to deliberate upon and conclude the business referred to it. It shall keep a full record of its proceedings, which shall be submitted to the court appointing it, entered on its minutes, and regarded and treated as the action of the court" ([BCO 17.1](https://evangel.pressbooks.com/chapter/17-ecclesiastical-commissions/)).
-* **The board of deacons**. Deacons' minutes do not need to be submitted to the presbytery for review, but they do need to be submitted to the session ([BCO 11.4](https://evangel.pressbooks.com/chapter/11-the-deacon/)). The clerk of session will most often rely on the secretary of the board of deacons to keep minutes for deacons meetings, but it is still the clerk's responsibility to ensure these minutes are accurate, well organized, and available for review.
-* **The congregation**. There are some special considerations for keeping good congregational meeting minutes, as the size of the body meeting can make proceedings more complicated.
+* **The board of deacons**. While deacons' minutes do not need to be submitted to the presbytery for review, they do need to be submitted to the *session* ([BCO 11.4](https://evangel.pressbooks.com/chapter/11-the-deacon/)). The clerk of session will most often rely on the secretary of the board of deacons to keep minutes for deacons meetings, but it is still the clerk's responsibility to ensure these minutes are accurate, well organized, and available for review.
+* **The congregation**. Because of the size of the body meeting, congregational meetings are often more formal in their proceedings than session meetings. Minutes for congregational meetings are just as important as session meetings and should adhere to the same principles as session minutes.
 
-A church may have many committees that meet regularly, and many of those committees will choose to take minutes. However, it is not necessary for a clerk of session to have a permanent record of all committees' minutes.
+A church may have many committees that meet regularly, and many of those committees will choose to take minutes. However, it is not necessary for the clerk of session to have a permanent record of all committees' minutes.
 
 ## Adoption Process for Session Minutes
 
 The following is a recommended (not required) process for ensuring that minutes get properly reviewed and adopted by the session in a timely manner. After taking minutes…
 
-1. Edit and proofread the minutes shortly after the meeting.
-2. Send edited minutes to the moderator for review and correction. (Note: It is good for the clerk to work hard to understand the personality, working habits, and preferences of the moderator, so as to ensure the effectiveness of his leadership of the session. In general, the stated clerk should seek to accomplish any minutes-related tasks which are helpful to the moderator in this regard. For example, it may be helpful for the clerk to make a practice of reminding session members of their assigned action items between meetings.)
-3. Send moderator-reviewed minutes to session members for review before the meeting at which they will be adopted. Provide sufficient time for review. Avoid sending minutes out the day of the meeting where they are to be adopted. It is best to give a few days or a week for session members to review minutes and to provide you with any additional corrections prior to the meeting where they are to be adopted. When exactly you send minutes may depend on the preferences of the members and/or the moderator of your particular session.
-4. Provide a copy of reviewed minutes to the session at the meeting where they are to be adopted.
-5. Help ensure that the session votes to adopt the reviewed minutes.
-6. File newly adopted minutes with the permanent record of adopted minutes immediately after the meeting where they are officially adopted. For good filing practices, see **filing link…**
+1. **Edit and proofread the minutes shortly after the meeting.**
+2. **Send edited minutes to the moderator for review and correction.** It is good for the clerk to work hard to understand the personality, working habits, and preferences of the moderator, so as to ensure the effectiveness of his leadership of the session. In general, the stated clerk should seek to accomplish any minutes-related tasks which are most helpful to the moderator. For example, it may be helpful for the clerk to make a practice of reminding session members of their assigned action items between meetings.
+3. **Send moderator-reviewed minutes to session members for review before the meeting at which they will be adopted.** Provide sufficient time for review. Avoid sending minutes out the day of the meeting where they are to be adopted. It is best to give a few days or a week for session members to review minutes and to provide you with any additional corrections prior to the meeting where they are to be adopted. When exactly you send minutes may depend on the preferences of the members and/or the moderator of your particular session.
+4. **Provide a copy of the reviewed minutes to the session at the meeting where they are to be adopted.**
+5. **Help ensure that the session votes to adopt the reviewed minutes.** This most often happens at the beginning of a session meeting. It may occasionally happen via email.
+6. **File newly adopted minutes with the permanent record of minutes immediately after the meeting where they are officially adopted.** For good filing practices, see **filing link…**
 
 ## Examples
 
 ### Basic Minutes Template
 
-We recommend clerks come to each meeting with a basic minutes outline already prepared. This will save time and distraction in the meeting itself. Here is a template which will be helpful as a starting point. **Full template here or just a download?**
+We recommend clerks come to each meeting with a basic minutes outline already prepared. This will save time and distraction in the meeting itself. It is common for the clerk to help the moderator prepare the agenda for each meeting. When he does so, it is a good practice for him to then prepare a minutes outline based on that meeting's planned agenda.
+
+Here is a template which will be helpful as a starting point. **Full template here or just a download or both?**
 
    Name of Church, Board, Committee, Commission, etc.
    Purpose of Meeting, often “Regular Scheduled Session Meeting”
@@ -55,41 +57,27 @@ We recommend clerks come to each meeting with a basic minutes outline already pr
    
    Excused absences: Name (position related to the body meeting), …
    
+   1. ——— led devotions from ———, [brief summary]. ——— opened the meeting in prayer at #:## am/pm.
+   2. Clerk’s Business
+      a. Establishment of quorum
+      b. Adoption of previous meeting minutes
+      c. Attendance, membership, statistics, etc.
+   3. Action Item Review
+   4. Treasurer’s Report
+   5. Pastoral Care
+      a. ———
+      b. ———
    
-   \1. ______ led devotions from _______, [brief summary]. ______ opened the meeting in prayer at _____ am/pm.
+   \#. …
    
+   \#. Next meeting set for [Time, Date, Year], at [Location]. ——— will lead devotions.
    
-   \2. Clerk’s Business
-       
-       \a. Establishment of Quorum (BCO 14.1)
-       
-       \b. Adoption of previous meeting minutes
-       
-       \c. Attendance, membership, statistics, etc.
-   
-   \3. Action Item Review
-   
-   
-   \4. Treasurer’s Report
-   
-   
-   \5. Pastoral Care
-   
-   
-   #. …
-   
-   
-   #. Next meeting set for [Time, Date, Year], at [Location]. ________ will lead devotions.
-   
-   
-   Meeting adjourned at ____ am/pm.
-   
+   Meeting adjourned at #:## am/pm.
    
    Respectfully submitted,
-   _________
+   ———
    Stated Clerk (or Clerk pro tem)
    Name of Body Meeting
-
 
 ### Sample Set of Session Meeting Minutes (download)
 
