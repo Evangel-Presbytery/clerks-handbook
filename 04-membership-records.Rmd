@@ -14,7 +14,7 @@ Within these, individual congregations may specify further distinctions through 
 
 As the clerk is charged with keeping the rolls and registers of the church, it falls to him to handle many membership processes. One such common process is the adding or removal of members to the rolls of the church. Particular steps will differ by individual church, but a good guideline for procedure is as follows:
 
-**A typical membership approval process
+**A typical membership approval process**
 <ol> 
   <li> Individual expresses interest in membership.
   <li> Inquiry sent by individual to former church, asking for letter of good standing.
@@ -28,7 +28,7 @@ As the clerk is charged with keeping the rolls and registers of the church, it f
     </ol>
 
 
-**A typical membership removal (non-transfer) process 
+**A typical membership removal (non-transfer) process** 
 <ol>
   <li> Member requests removal.
   <li> Session determines whether removal valid (i.e., if discipline process underway) (see BCO 41.3 for other factors).
@@ -37,7 +37,7 @@ As the clerk is charged with keeping the rolls and registers of the church, it f
   <li> Clerk updates registers.
     </ol>
     
-**Membership removal in case of excommunication
+**Membership removal in case of excommunication**
 
 <ol>
   <li> Judicatory recommends excommunication to full session (or carries it out itself, as a commission).
@@ -47,7 +47,7 @@ As the clerk is charged with keeping the rolls and registers of the church, it f
   <li> Announcement made to congregation.
 </ol>
 
-**Membership removal without process in cases of non-attendance (BCO 41.4)
+**Membership removal without process in cases of non-attendance (BCO 41.4)**
 
 <ol>
   <li>Session reminds member of his vows and warn him of erasure from roll.
@@ -56,15 +56,15 @@ As the clerk is charged with keeping the rolls and registers of the church, it f
   <li> Clerk updates the register.  
     </ol>
 
-**Sending letters
+**Sending letters**
 
 To speed the process of sending letters in the above procedure, a clerk may wish to use templates for commonly sent letters such as inquiries about good standing, transfer letters, dismissal letters, inquiries about membership status for members who relocate, or exhortations toward church attendance. Examples of such templates may be found later in this handbook.
 
-**Note:
+**Note:**
 
 A variety of methods may be used for keeping the rolls and registers. In all cases, however, care must be taken that the various methods are synchronized: that is, that changes are made among them all. If, for example, a church's roll is kept in a Microsoft Excel file but the church also uses a person management software, the clerk must ensure that a change to the roll in one location is carried out in the other as well. Changes are also to be kept in the minutes, which serve as the final and most authoritative record. 
 
-# Statistical reports
+## Statistical reports
 
 Evangel's BCO requires that, once per year, each member church send along with its complete session minutes and annual budget a statistical report. This report must include the following items:
 <ul>
