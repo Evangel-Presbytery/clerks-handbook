@@ -29,9 +29,30 @@ A clerk of session should be sure to have a permanent record of both regular and
 
 A church may have many committees that meet regularly, and many of those committees will choose to take minutes. However, it is not necessary for the clerk of session to have a permanent record of all committees' minutes.
 
+## Where to Take Minutes
+
+We strongly recommend taking and circulating minutes for review and approval in the body of an email.
+
+- Email programs allow basic text formatting (bold, italics, lists, etc.) without the problems associated with attachments. Attachments clutter up hard drives and can't be searched as easily as email can be.
+- Taking minutes in the body of an email helps reduce conflicting versions of minutes.
+
+We recommend using a consistent pattern in subject lines of emails with minutes. It is best to include
+
+* the church name (or abbreviation)
+* the type of meeting and the name of the body meeting (e.g., "Session Meeting", "Congregational Meeting", etc.)
+* the word "minutes"
+* the date of the meeting
+* the status of the minutes being circulated (e.g., "FOR REVIEW", "FOR APPROVAL", "CORRECTED" etc.)
+
+For example:
+
+> TPC Special Called Session Meeting Minutes 2022.03.30 – FOR REVIEW
+
+Following a consistent pattern in subject lines will make it much easier to search for minutes in your email app.
+
 ## Adoption Process for Session Minutes
 
-The following is a recommended (not required) process for ensuring that minutes get properly reviewed and adopted by the session in a timely manner. After taking minutes…
+The following is a recommended (but not required) process for ensuring that minutes get properly reviewed and adopted by the session in a timely manner. After taking minutes…
 
 1. **Edit and proofread the minutes shortly after the meeting.**
 2. **Send edited minutes to the moderator for review and correction.** It is good for the clerk to work hard to understand the personality, working habits, and preferences of the moderator, so as to ensure the effectiveness of his leadership of the session. In general, the stated clerk should seek to accomplish any minutes-related tasks which are most helpful to the moderator. For example, it may be helpful for the clerk to make a practice of reminding session members of their assigned action items between meetings.
@@ -40,13 +61,19 @@ The following is a recommended (not required) process for ensuring that minutes 
 5. **Help ensure that the session votes to adopt the reviewed minutes.** This most often happens at the beginning of a session meeting. It may occasionally happen via email.
 6. **File newly adopted minutes with the permanent record of minutes immediately after the meeting where they are officially adopted.** For good filing practices, see **filing link…**
 
+The same process outlined above can be used by the session to review and approve congregational meeting minutes as well.
+
+## The Permanent Record
+
+Once minutes are officially approved by the session, they need to be added to a permanent record which is stored on a computer. Minutes from each meeting should be stored in word processing files or PDF files, and they should be well organized. See the chapter on [Records Organization] for guidance on organizing your approved minutes.
+
 ## Examples
 
 ### Basic Minutes Template
 
-We recommend clerks come to each meeting with a basic minutes outline already prepared. This will save time and distraction in the meeting itself. It is common for the clerk to help the moderator prepare the agenda for each meeting. When he does so, it is a good practice for him to then prepare a minutes outline based on that meeting's planned agenda.
+We recommend clerks come to each meeting with a basic minutes outline already prepared. This will save time and distraction in the meeting itself. If the clerk has access to a meeting's agenda before the meeting, it is a good practice for him to prepare an outline for minutes based on that agenda.
 
-Here is a template which will be helpful as a starting point. **Full template here or just a download or both?**
+The following template will be a helpful starting point:
 
 ::::: {.special}
 Name of Church, Board, Committee, Commission, etc.  
@@ -62,7 +89,7 @@ Excused absences: Name (position related to the body meeting), …
 2. Clerk’s business
    a. Establishment of quorum
    b. Adoption of previous meeting minutes
-   c. Record any actions taken by email between meetings, if applicable.
+   c. Recording of any actions taken by email between meetings, if applicable
    d. Attendance, membership, statistics, etc.
    e. Celebration of sacraments
       i. Lord's Supper
@@ -85,41 +112,34 @@ Stated Clerk (or Clerk pro tem)
 Name of Body Meeting
 :::::
 
-### Sample Set of Session Meeting Minutes (download)
+### Sample Sets of Meeting Minutes from Churches in Evangel Presbytery
 
-Click **here** to download a sample set of session meeting minutes from a church in Evangel Presbytery.
+1. Click **here** to download a sample set of **session meeting minutes**.
+2. Click **here** to download a sample set of **congregational meeting minutes**.
 
-### Sample Set of Congregational Meeting Minutes (download)
-
-Click **here** to download a sample set of congregational meeting minutes from a church in Evangel Presbytery.
-
-## Organizing Your Session's Minutes
-
-You can find some helpful suggestions on how to organize your minutes [here](Records-Organization).
+<!--- 
 
 ## Optional Guidelines
 
 For clerks (or moderators) who want to follow a more thorough set of standards for session minutes, we've provided the guidelines below. We note, however, that these guidelines are *not* required by the presbytery. They are simply offered as an optional aid for ensuring clarity, concision, and consistency.
 
-1. Write all minutes in the body of an email, rather than in Microsoft Word or another word processing application. Email programs allow basic text formatting (bold, italics, lists, etc.) without the problems associated with attachments. The principle is to avoid attachments, because they clutter up hard drives and can't be searched as easily as email may be. So keep your minutes simple in wording and formatting, and always write and circulate them in the body of an email.
+1. At the beginning of each set of minutes, place a header on the left side, in the following format:
 
-2. At the beginning of each set of minutes, place a header on the left side, in the following format:
-
-      Name of Institution  
+      > Name of Institution  
       Type of Meeting (including the specific body meeting)  
       Month, Date, YYYY, Time  
       Location of meeting (or name of software used if meeting was held virtually, e.g., "via Zoom")
 
    For a regular session meeting at Holy Trinity Reformed Church, the header would be as follows:
 
-      Holy Trinity Reformed Church  
+      > Holy Trinity Reformed Church  
       Regular Scheduled Session Meeting  
       October 11, 2012, 7:00pm  
       at Holy Trinity Reformed Church
 
 3. Below the header (one line intervening), type “Present:”, followed by a list of all individuals in attendance at some point during the meeting. After each individual, put in parentheses his position/function in relation to the body meeting; for men with the same position, this may be put after all their names. Separate entries with a semicolon where it separates distinct positions; use a comma between names of the same position. Note these practices in the following example:
 
-   Present: John Owen (moderator); John Bunyan, Richard Baxter (associate pastors); Jeremy Taylor, Richard Sibbes, Jeremiah Burroughs (assistant pastors); Martin Luther, John Calvin, William Tyndale (elders); Philip Melanchthon (chairman, deacons board); Theodore Beza, Zacharias Ursinus, Jan Hus (deacons); Joshua Congrove (recording clerk); Thomas Aquinas, Clement of Rome (guests of session)
+   > Present: John Owen (moderator); John Bunyan, Richard Baxter (associate pastors); Jeremy Taylor, Richard Sibbes, Jeremiah Burroughs (assistant pastors); Martin Luther, John Calvin, William Tyndale (elders); Philip Melanchthon (chairman, deacons board); Theodore Beza, Zacharias Ursinus, Jan Hus (deacons); Joshua Congrove (recording clerk); Thomas Aquinas, Clement of Rome (guests of session)
 
 4. Below the previous list, type “Excused absences:”, followed by a list of all regular session members whose absences were excused by the moderator. If desired, type another line beginning with “Other absences:”, in which you list all absences not explicitly excused.
 
@@ -135,15 +155,15 @@ For clerks (or moderators) who want to follow a more thorough set of standards f
 
 8. Below the relevant topic, indicate tasks assigned to individuals in the following format:
 
-   —NEW ACTION ITEM: Joe Schmoe will write a valediction to his name (copying elder Bob Smith on it), expressing his joy at being able to acquire a new designation.
+   > —NEW ACTION ITEM: Joe Schmoe will write a valediction to his name (copying elder Bob Smith on it), expressing his joy at being able to acquire a new designation.
    
    Make sure that action items contain all the necessary information for carrying out the assigned task. For example, an action item should never read as follows:
    
-      —NEW ACTION ITEM: Elder Jonathan Johnson will do the same as above.
+   > —NEW ACTION ITEM: Elder Jonathan Johnson will do the same as above.
       
    Instead, fully write out what Elder Jonathan Johnson is supposed to do, even if it means copying and pasting from another action item.
 
-9. Record the names of anyone who takes significant action, to include motions, of course, but also action such as opening or closing in prayer. Often, if the action taken is informal or unanimous, you may also use "M/S/A" or "by consensus", depending on the nature of the action (and on whether you’re able to record the names fast enough!)
+9. Record the names of anyone who takes significant action, to include motions, of course, but also action such as opening or closing in prayer. Often, if the action taken is informal or unanimous, you may also use "M/S/A" or "by consensus," depending on the nature of the action (and on whether you’re able to record the names fast enough!)
 
 10. Votes in the negative do not need to be recorded unless requested by the voter, or unless the moderator so directs.
 
@@ -159,14 +179,17 @@ For clerks (or moderators) who want to follow a more thorough set of standards f
 
 16. Style: In general, our standard is Chicago Manual of Style. For commas, use the Oxford comma (i.e., including a comma before the final item in a list). Use only one space between sentences.
 
-   Be scrupulous in your sentence structure, vocabulary, and style. Your goal is to produce a document in which the moderator will find nothing needing change. Likely you’ll never achieve that, but it’s something to aim for!
+    Be scrupulous in your sentence structure, vocabulary, and style. Your goal is to produce a document in which the moderator will find nothing needing change. Likely you’ll never achieve that, but it’s something to aim for!
 
 17. Concluding matter: Always include a statement about when and where the next meeting will be, and who will provide devotions. Then indicate when the meeting was adjourned, and by whose motion and prayer.
 
 18. Below the body of the minutes, but before any supplemental documents, write the closing signature as follows:
 
-      Respectfully submitted,
-      Your Name, Title
-      Name of Body Meeting
+    > Respectfully submitted,  
+    Your Name
+    Clerk of Session (or Clerk pro tem) 
+    Name of Body Meeting
    
 19. Separate the minutes proper from any supplemental appended documents with a row of asterisks or hyphens.
+
+-->
