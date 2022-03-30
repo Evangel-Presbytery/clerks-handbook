@@ -49,9 +49,9 @@ We recommend clerks come to each meeting with a basic minutes outline already pr
 Here is a template which will be helpful as a starting point. **Full template here or just a download or both?**
 
 ::::: {.special}
-Name of Church, Board, Committee, Commission, etc.
-Purpose of Meeting, often “Regular Scheduled Session Meeting”
-Time, Date, Year
+Name of Church, Board, Committee, Commission, etc.  
+Purpose of Meeting, often “Regular Scheduled Session Meeting”  
+Time, Date, Year  
 Location (and/or virtual app used for meeting remotely)
 
 Present: Name (position related to body meeting), …
@@ -79,9 +79,9 @@ Excused absences: Name (position related to the body meeting), …
 
 Meeting adjourned at #:## am/pm.
 
-Respectfully submitted,
-———
-Stated Clerk (or Clerk pro tem)
+Respectfully submitted,  
+———  
+Stated Clerk (or Clerk pro tem)  
 Name of Body Meeting
 :::::
 
