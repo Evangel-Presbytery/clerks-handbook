@@ -14,6 +14,8 @@ examples
 basic-minutes-template
 sample-sets-of-meeting-minutes-from-churches-in-evangel-presbytery
 membership-records
+types-of-membership
+clerks-responsibilities
 church-discipline-records
 general-principles
 jurisdiction
