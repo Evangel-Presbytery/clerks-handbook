@@ -105,16 +105,16 @@ For clerks (or moderators) who want to follow a more thorough set of standards f
 
 2. At the beginning of each set of minutes, place a header on the left side, in the following format:
 
-      Name of Institution
-      Type of Meeting (including the specific body meeting)
-      Month, Date, YYYY, Time
+      Name of Institution  
+      Type of Meeting (including the specific body meeting)  
+      Month, Date, YYYY, Time  
       Location of meeting (or name of software used if meeting was held virtually, e.g., "via Zoom")
 
    For a regular session meeting at Holy Trinity Reformed Church, the header would be as follows:
 
-      Holy Trinity Reformed Church
-      Regular Scheduled Session Meeting
-      7:00pm, October 11, 2012
+      Holy Trinity Reformed Church  
+      Regular Scheduled Session Meeting  
+      October 11, 2012, 7:00pm  
       at Holy Trinity Reformed Church
 
 3. Below the header (one line intervening), type “Present:”, followed by a list of all individuals in attendance at some point during the meeting. After each individual, put in parentheses his position/function in relation to the body meeting; for men with the same position, this may be put after all their names. Separate entries with a semicolon where it separates distinct positions; use a comma between names of the same position. Note these practices in the following example:
@@ -129,13 +129,14 @@ For clerks (or moderators) who want to follow a more thorough set of standards f
 
    Note: When the minutes are compiled and revised, they should be grouped according to their proper topic, even if this does not match the chronology in which they occurred. For example, if discussion in the early part of the meeting concerned the financial matters of a particular committee of the church, and discussion later on dealt with appointments to that committee, these notes should be combined under an appropriate heading. Rarely, it’s useful to keep the notes separate if preserving the chronological order in which they were discussed is absolutely essential; but usually, it's least confusing to gather similar elements together.
 
-7. The cardinal rule of taking minutes is to write enough, but not more. Crucial to include are action items (see below), motions, and resolutions. Helpful to include are sentences summarizing reports made by members (e.g., the financial report), and a brief statement of what was discussed (one or two sentences). Since minutes are properly intended to record only official actions of the board, please do not include opinions or consensus of the board or its individuals. The exception to this rule is when a member of the board would like his opposition to the session’s decision recorded in the minutes as a protest. In this case, however, he then needs to inform the entire board of his wish to record his opposition, and the moderator will help the recorder of the minutes to handle it properly.
+7. The cardinal rule of taking minutes is to write enough, but not more. Crucial to include are **action items** (see below), **motions**, and **resolutions**. Helpful to include are sentences summarizing reports made by members (e.g., the financial report), and a brief statement of what was discussed (one or two sentences). Since minutes are properly intended to record only official actions of the board, please do not include opinions or consensus of the board or its individuals. The exception to this rule is when a member of the board would like his opposition to the session’s decision recorded in the minutes as a protest. In this case, however, he then needs to inform the entire board of his wish to record his opposition, and the moderator will help the recorder of the minutes to handle it properly.
 
    In addition, many decisions will be declared by the moderator to be "by consensus." Such decisions are to be recorded as official actions of the board, and should be prefaced with "By consensus" (see below). Unless so directed, do not write down the details of the discussion, nor the individual points made in the process. Record where the board finally arrives, not how they got there.
 
 8. Below the relevant topic, indicate tasks assigned to individuals in the following format:
-—NEW ACTION ITEM: Joe Schmoe will write a valediction to his name (copying elder Bob Smith on it), expressing his joy at being able to acquire a new designation.
 
+   —NEW ACTION ITEM: Joe Schmoe will write a valediction to his name (copying elder Bob Smith on it), expressing his joy at being able to acquire a new designation.
+   
    Make sure that action items contain all the necessary information for carrying out the assigned task. For example, an action item should never read as follows:
    
       —NEW ACTION ITEM: Elder Jonathan Johnson will do the same as above.
