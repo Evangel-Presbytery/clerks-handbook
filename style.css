@@ -12,3 +12,14 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+blockquote {
+    padding-left: 0em;
+    margin-left: 0em;
+}
+
+.special {
+    margin: 0 0 1rem;
+    padding: .625rem 1.25rem;
+    background-color: #eee;
+}
