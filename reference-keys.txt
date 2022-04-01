@@ -41,3 +41,10 @@ what-not-to-include
 formatting
 the-sessional-records-committee-src
 helpful-resources
+roberts-rules-of-order
+minutes-and-amended-motions
+orders-of-the-day
+motion-to-adjourn
+agenda
+small-boards-under-about-12-men
+customs
