@@ -1,5 +1,37 @@
 # Helpful Resources
 
-**Assignment: Daniel**
+## Robert's Rules of Order
 
-Helpful!
+It is common for a church's bylaws to specify that elders' board meetings will be run according to the latest edition of Robert's Rules of Order. As clerk of session you will generally be the de facto parliamentarian - the person who has enough familiarity with Robert's Rules to help the moderator navigate situations where he is unsure of the proper steps.
+
+There is much groaning and gnashing of teeth about Robert's Rules of Order. But the purpose is not to put up unnecessary hurdles making it difficult for a board to accomplish what it is trying to do. The purpose - and it is an important one - is to protect the *will* of the majority and the *voice* of the minority.  As clerk you have an important role in helping the moderator make this a reality.
+
+Here are helps for some situations that you may encounter:
+
+### Minutes and amended motions
+
+    * For motions that are amended, you almost never need to record the original version of the motion in the minutes. You just record the version you ended up with just before the final vote, and then if it is adopted you say, "Adopted as amended." (cite)
+
+    * Occasionally the elders board may have a motion with an amendment (and possibly an amendment of the amendment) pending and the board decides that it no longer wants to deal with the main motion or its amendments. In this case a motion is in order to "postpone to a definite time" (say next elders' meeting) or to "postpone indefinitely." If such a motion is approved, it dismisses the previous main motion *and all of its pending amendments* with that one vote. In such a case, the minutes will need to record the current state of the motion and all pending amendments. This is one of the only times you ever need to record the contents of amendments and other than the final version of a motion in the minutes.
+
+
+### Orders of the day
+Some boards have a standard ending time. This is called "Orders of the Day" (cite) Don't necessarily yell it out on the minute it happens. Be sensitive to the conversation that's going on.
+
+### Motion to adjourn
+The moderator should generally ask for a motion to adjourn rather than simply adjourning the meeting on his own authority (see e.g. RONR (12th ed.) 21:14-15). Asking for a motion to adjourn gives anyone who needs to a chance to bring up important business before the meeting is over. A motion to adjourn is not debatable or amendable - if the body doesn't want to do it the motion simply gets voted down and you proceed with business.
+
+### Agenda
+Members of the board generally have the privilege of introducing new items of business during the "New Business" section of a meeting (RONR (12th ed.) 41:27). If there is an agenda that determines what business is in order for the meeting, that agenda must be approved by the board (typically at the beginning of the meeting) to be binding (RONR (12th ed.) 41:61-62). The important thing here is you want to preserve the ability of a board member to bring up a topic (the voice of the minority). 
+
+### Small boards (under about 12 men)
+
+Robert's Rules makes explicit allowance for the permissibility and even necessity of operating more informally when the board is small (under about 12 men):
+
+    * A second is not necessary
+    * TODO: Others
+
+### Customs
+
+It is not against Robert's Rules for a board to have its own customs. (cite) It can be good to vote on these to get them entered into the minutes and thus documented as a decision of the board. (TODO: example).
+
