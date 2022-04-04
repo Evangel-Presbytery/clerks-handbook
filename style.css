@@ -32,3 +32,17 @@ a:hover {
     color: #686868;
     text-decoration: none !important;
 }
+
+.btn-outline-primary {
+    color: #ceaa68;
+    border-color: #ceaa68;
+}
+
+.btn-outline-primary:hover {
+    background-color: #ceaa68;
+    border-color: #ceaa68;
+}
+
+.bg-primary {
+    background-color: #686868 !important;
+}
