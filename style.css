@@ -1,8 +1,11 @@
 header div h1 a[href="index.html"]:before {
     display: block;
-    content: url(../logo.png);
+    content: url(logo.png);
     padding: 10px 15px;
     width: 100%;
+}
+.sidebar li {
+    break-inside: avoid-column;
 }
 p.caption {
   color: #777;
