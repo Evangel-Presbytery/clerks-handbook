@@ -9,20 +9,25 @@ header div h1 a[href="index.html"]::before {
     margin-top: -10px;
     margin-bottom: 10px;
 }
+
 .sidebar li {
     break-inside: avoid-column;
 }
+
 p.caption {
   color: #777;
   margin-top: 10px;
 }
+
 p code {
   white-space: inherit;
 }
+
 pre {
   word-break: normal;
   word-wrap: normal;
 }
+
 pre code {
   white-space: inherit;
 }
@@ -44,7 +49,6 @@ blockquote {
     background-color: #f0f0f0;
 }
 
-/*
 a {
     color: #ceaa68;
 }
@@ -66,4 +70,4 @@ a:hover {
 
 .bg-primary {
     background-color: #686868 !important;
-}*/
+}
