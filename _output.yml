@@ -2,6 +2,10 @@ bookdown::bs4_book:
   repo:
     base: https://github.com/Evangel-Presbytery/clerks-handbook
     branch: main
+  config:
+    toc:
+      before: |
+        <li><a href="https://evangelpresbytery.com"><img src="logo.png" width="210"></a></li>
   css: "style.css"
 bookdown::pdf_book:
   includes:

@@ -3,12 +3,6 @@ title: "Handbook for Evangel Presbytery Clerks"
 author: "Office of the Stated Clerk of Evangel Presbytery"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: 
-    bookdown::bs4_book:
-        config:
-            toc:
-                before:
-                    <li><a href="https://evangelpresbytery.com"><img src="logo.png" width="210"></a></li>
 documentclass: book
 github-repo: Evangel-Presbytery/clerks-handbook
 description: "This is a handbook for Evangel Presbytery clerks of session."
