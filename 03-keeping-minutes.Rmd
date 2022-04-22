@@ -89,19 +89,19 @@ Excused absences: Name (position related to the body meeting), …
 
 2.\ Clerk’s business
    
-   a.\ Establishment of quorum
+  a.\ Establishment of quorum
    
-   b.\ Adoption of previous meeting minutes
+  b.\ Adoption of previous meeting minutes
    
-   c.\ Recording of any actions taken by email between meetings, if applicable
+  c.\ Recording of any actions taken by email between meetings, if applicable
    
-   d.\ Attendance, membership, statistics, etc.
+  d.\ Attendance, membership, statistics, etc.
    
-   e.\ Celebration of sacraments
+  e.\ Celebration of sacraments
       
-      i.\ Lord's Supper
+    i.\ Lord's Supper
       
-      ii.\ Baptisms
+    ii.\ Baptisms
 
 3.\ Action item review
 
