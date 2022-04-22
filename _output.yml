@@ -2,12 +2,9 @@ bookdown::bs4_book:
   repo:
     base: https://github.com/Evangel-Presbytery/clerks-handbook
     branch: main
-  config:
-    toc:
-        before: |
-            <li><a href="https://evangelpresbytery.com"><img src="logo.png" width="210"></a></li>
-        after: |
   css: "style.css"
+  theme:
+    primary: "#ceaa68"
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

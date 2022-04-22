@@ -6,6 +6,12 @@ site: bookdown::bookdown_site
 documentclass: book
 github-repo: Evangel-Presbytery/clerks-handbook
 description: "This is a handbook for Evangel Presbytery clerks of session."
+output:
+  bookdown::bs4_book:
+    config:
+      toc:
+        before: |
+          <li><a href="https://evangelpresbytery.com"><img src="logo.png" width="210"></a>test text</li>
 ---
 
 # Overview
