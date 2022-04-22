@@ -1,9 +1,14 @@
+/*
 header div h1 a[href="index.html"]:before {
     display: block;
-    content: url(logo.png);
-    padding: 10px 15px;
+    content: '\00a0';
+    background-image: url(logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
     width: 100%;
+    height: 100px;
 }
+*/
 .sidebar li {
     break-inside: avoid-column;
 }
