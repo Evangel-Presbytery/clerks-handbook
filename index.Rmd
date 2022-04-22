@@ -4,7 +4,7 @@ author: "Office of the Stated Clerk of Evangel Presbytery"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: 
-    bookdown::bs4_book
+    bookdown::bs4_book:
         config:
             toc:
                 before:
