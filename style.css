@@ -18,6 +18,12 @@ blockquote {
     padding: .625rem 1.25em;
 }
 
+.poetry blockquote p {
+    padding-left: 2em;
+    text-indent: -2em;
+    margin-bottom: 0;
+}
+
 .special {
     margin: 0 0 1rem;
     padding: 1.25rem 1.25rem;
