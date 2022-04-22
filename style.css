@@ -1,3 +1,9 @@
+header div h1 a[href="index.html"]:before {
+    display: block;
+    content: url(../logo.png);
+    padding: 10px 15px;
+    width: 100%;
+}
 p.caption {
   color: #777;
   margin-top: 10px;
