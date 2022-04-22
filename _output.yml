@@ -4,8 +4,9 @@ bookdown::bs4_book:
     branch: main
   config:
     toc:
-      before: |
-        <li><a href="https://evangelpresbytery.com"><img src="logo.png" width="210"></a></li>
+        before: |
+            <li><a href="https://evangelpresbytery.com"><img src="logo.png" width="210"></a></li>
+        after: |
   css: "style.css"
 bookdown::pdf_book:
   includes:
