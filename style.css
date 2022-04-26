@@ -43,19 +43,22 @@ blockquote {
     margin-bottom: 0;
 }
 
-.special {
+.copyable {
     margin: 0 0 1rem;
     padding: 1.25rem 1.25rem;
     background-color: #f0f0f0;
 }
 
-.special p {
+.copyable p {
     margin: 0;
 }
 
-.special p:not(:first-child)::before {
-    content: '\00a0';
-    display: block;
+.copyable p.indent1 {
+    margin-left: 1em;
+}
+
+.copyable p.indent2 {
+    margin-left: 2em;
 }
 
 a {
