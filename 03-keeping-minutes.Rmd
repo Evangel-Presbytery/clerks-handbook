@@ -75,55 +75,55 @@ We recommend clerks come to each meeting with a basic minutes outline already pr
 
 The following template will be a helpful starting point:
 
-::::: {.special}
-Name of Church, Board, Committee, Commission, etc.  
-Purpose of Meeting, often “Regular Scheduled Session Meeting”  
-Time, Date, Year  
-Location (and/or virtual app used for meeting remotely)
+<div class="copyable">
+<p>Name of Church, Board, Committee, Commission, etc.<br />
+Purpose of Meeting, often “Regular Scheduled Session Meeting”<br />
+Time, Date, Year<br />
+Location (and/or virtual app used for meeting remotely)<br /></p>
 
-Present: Name (position related to body meeting), …
+<p>Present: Name (position related to body meeting), …<br /></p>
 
-Excused absences: Name (position related to the body meeting), …
+<p>Excused absences: Name (position related to the body meeting), …<br /></p>
 
-1.\ ——— led devotions from ———, [brief summary]. ——— opened the meeting in prayer at #:## am/pm.
+<p>1. ——— led devotions from ———, [brief summary]. ——— opened the meeting in prayer at #:## am/pm.<br /></p>
 
-2.\ Clerk’s business
+<p>2. Clerk’s business<br /></p>
 
-a.\ Establishment of quorum
+<p class="indent1">a. Establishment of quorum<br /></p>
 
-b.\ Adoption of previous meeting minutes
+<p class="indent1">b. Adoption of previous meeting minutes<br /></p>
 
-c.\ Recording of any actions taken by email between meetings, if applicable
+<p class="indent1">c. Recording of any actions taken by email between meetings, if applicable<br /></p>
 
-d.\ Attendance, membership, statistics, etc.
+<p class="indent1">d. Attendance, membership, statistics, etc.<br /></p>
 
-e.\ Celebration of sacraments
+<p class="indent1">e. Celebration of sacraments<br /></p>
 
-i.\ Lord's Supper
+<p class="indent2">i. Lord's Supper<br /></p>
 
-ii.\ Baptisms
+<p class="indent2">ii. Baptisms<br /></p>
 
-3.\ Action item review
+<p>3. Action item review<br /></p>
 
-4.\ Treasurer’s report
+<p>4. Treasurer’s report<br /></p>
 
-5.\ Pastoral care
+<p>5. Pastoral care<br /></p>
 
-a.\ …
+<p class="indent1">a. …<br /></p>
 
-b.\ …
+<p class="indent1">b. …<br /></p>
 
-\#. …
+<p>#. …<br /></p>
 
-\#. Next meeting set for [Time, Date, Year], at [Location]. ——— will lead devotions.
+<p>#. Next meeting set for [Time, Date, Year], at [Location]. ——— will lead devotions.<br /></p>
 
-Meeting adjourned at #:## am/pm.
+<p>Meeting adjourned at #:## am/pm.<br /></p>
 
-Respectfully submitted,  
-———  
-Stated Clerk (or Clerk pro tem)  
-Name of Body Meeting
-:::::
+<p>Respectfully submitted,<br />
+———<br />
+Stated Clerk (or Clerk pro tem)<br />
+Name of Body Meeting</p>
+</div>
 
 ### Sample Sets of Meeting Minutes from Churches in Evangel Presbytery
 
