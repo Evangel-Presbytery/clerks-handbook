@@ -1,10 +1,12 @@
 # Submission of Records to Presbytery
 
-Each session is required by the [BCO](https://evangel.pressbooks.com/chapter/43-general-review-and-control/) to submit its minutes to the presbytery once per year for review. This review is handled through Evangel's permanent Sessional Records Committee (SRC). The presbytery has established official standards for submitting records which can be found in the [bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf), which also include more detailed information about the work of the SRC. The following information is provided as an extra resource to help you understand the process of submitting records, and to help reduce errors in the preparation and submission of records.
+Each session is required by the [BCO](https://evangel.pressbooks.com/chapter/43-general-review-and-control/) to submit its minutes to the presbytery once per year for review. This review is handled through Evangel's permanent Sessional Records Committee (SRC). The SRC sets a rotating schedule for when each church is assigned to submit its records and will commuicate with you about when your records are due.
+
+The presbytery has established official standards for submitting records which can be found in the [bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf), which also include more detailed information about the work of the SRC. The following information is provided as an extra resource to help you understand the process of submitting records, and to help reduce errors in the preparation and submission of records.
 
 ## What to Include
 
-1. Session meeting minutes + congregational meeting minutes in chronological order in one PDF file. For more information, see the chapter on [Keeping Minutes].
+1. Session meeting minutes *and* congregational meeting minutes in chronological order in one PDF file. For more information, see the chapter on [Keeping Minutes].
 2. Annual statistical report as a separate PDF file. For more information, see the chapter on [Membership Records].
 3. Adopted annual budget as a separate PDF file.
 
@@ -13,7 +15,7 @@ Each session is required by the [BCO](https://evangel.pressbooks.com/chapter/43-
 * Adopted minutes from previous meetings as attachments to the minutes of meetings where they were adopted. Please only include one copy of each set of officially adopted minutes per meeting.
 * Monthly financial/treasurer reports.
 * Ministry proposals presented at session meetings (but do include resolutions, statements, or actions related to such proposals as adopted or acted on by the session).
-* Full committee/subcommittee/commission reports; just record actions taken regarding any proposals, or actions taken by a commission
+* Full committee/subcommittee/commission reports; just record actions taken regarding any proposals, or actions taken by a commission.
 * Deacons’ minutes.
 
 ## Formatting
@@ -25,9 +27,7 @@ Evangel's bylaws require that minutes be submitted in PDF format with numbered p
 3. Use the application's automatic page numbering feature to add page numbers to the entire document.
 4. Save (or Export, in some apps) the document as a PDF.
 
-## The Sessional Records Committee (SRC)
-
-Your records are due once per year to the SRC. The SRC sets a rotating schedule for when each church is assigned to submit its records and will commuicate with you about when your records are due.
+## After Review
 
 After the Sessional Records Committee has reviewed your records, they will return them to you with comments. These comments fall under three categories
 

@@ -53,11 +53,11 @@ blockquote {
     margin: 0;
 }
 
-.copyable p.indent1 {
+.copyable p.level2 {
     margin-left: 1em;
 }
 
-.copyable p.indent2 {
+.copyable p.level3 {
     margin-left: 2em;
 }
 
