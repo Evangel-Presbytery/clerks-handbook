@@ -27,7 +27,7 @@ As the clerk is charged with keeping the rolls and registers of the church, it f
 ### A typical membership removal (non-transfer) process {-}
 
 #. Member requests removal.
-#. Session determines whether removal valid (i.e., if discipline process underway) (see BCO 41.3 for other factors).
+#. Session determines whether removal is valid (i.e., if discipline process underway) (see BCO 41.3 for other factors).
 #. Session votes on removal.
 #. Clerk sends letter to former member.
 #. Clerk updates registers.
