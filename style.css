@@ -83,3 +83,21 @@ a:hover {
 .bg-primary {
     background-color: #686868 !important;
 }
+
+.folder-outline ul {
+list-style-type: none;
+}
+
+.folder-outline ul li:before {
+content: '\1f4c1';
+display: inline-block;
+width: 1em;
+margin-left: -1em;
+}
+
+.folder-outline ul li:before {
+    content: '\1f5ce';
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
