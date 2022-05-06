@@ -1,8 +1,8 @@
 # Robert's Rules of Order for Clerks
 
-It is common for a church's bylaws to specify that session meetings will be run according to the latest edition of Robert's Rules of Order. As clerk of session you will often be the de facto parliamentarian—the person who has enough familiarity with Robert's Rules to help the moderator navigate situations where he is unsure of the proper steps.
+It is common for a church's bylaws to specify that session meetings will be run according to "the latest edition of _Robert's Rules of Order_." As clerk of session you will often be the de facto parliamentarian—the person who has enough familiarity with Robert's Rules to help the moderator navigate situations where he is unsure of the proper steps.
 
-There is much groaning and gnashing of teeth about Robert's Rules of Order. But the purpose is not to put up unnecessary hurdles making it difficult for a board to accomplish what it is trying to do. The purpose—and it is an important one—is to protect the *will* of the majority and the *voice* of the minority. As clerk you have an important role in helping the moderator make this a reality.
+There is much groaning and gnashing of teeth about Robert's Rules of Order. But the purpose of Robert's Rules is not to put up unnecessary hurdles making it difficult for a board to accomplish what it is trying to do. The purpose—and it is an important one—is to protect the *will* of the majority and the *voice* of the minority. As clerk you have an important role in helping the moderator make this a reality.
 
 There are the normal things, and then there are the special situations.
 
@@ -15,22 +15,17 @@ During elders meetings, the clerk is responsible for recording several standard 
 * Who opened in prayer
 * ...
 
-As clerk you also have an important role in helping the moderator accomplish his work at the meeting. 
+As clerk you also have an important role in helping the moderator accomplish his work at the meeting:
 
 * During the meeting, pay attention to the meeting agenda (if there is one), and if an agenda item seems to have been missed bring it to the moderator's attention.
 * The moderator is trying to accomplish major themes; you make sure details aren't missed.
 * Be prepared to help with questions of parliamentary procedure. (More on this below.)
 
-You need to ask enough questions during the meeting to capture the details that need to be recorded for the minutes, and you also need to speak up when important items have been missed. Yet you must be careful to avoid usurping control over the meeting. It's a delicate dance. Give yourself to serving the needs of the moderator and the board and your helpfulness will grow over time.
+You need to ask enough questions during the meeting to capture the details that need to be recorded for the minutes, and you also need to speak up when important items have been missed---yet you must be careful to avoid usurping control over the meeting. It's a delicate dance. Give yourself to serving the needs of the moderator and the board and your helpfulness will grow over time.
 
 ## Special situations
 
 Here are helps for some situations that you may encounter:
-
-### Minutes and amended motions
-
-* For motions that are amended, you almost never need to record the original version of the motion in the minutes. You just record the version you ended up with just before the final vote, and then if it is adopted you say, "Adopted as amended." (cite)
-* Occasionally the elders board may have a motion with an amendment (and possibly an amendment of the amendment) pending and the board decides that it no longer wants to deal with the main motion or its amendments. In this case a motion is in order to "postpone to a definite time" (say next elders' meeting) or to "postpone indefinitely." If such a motion is approved, it dismisses the previous main motion *and all of its pending amendments* with that one vote. In such a case, the minutes will need to record the current state of the motion and all pending amendments. This is one of the only times you ever need to record the contents of amendments and other than the final version of a motion in the minutes.
 
 ### Approval of minutes
 Minutes of past meetings must be approved by the board. If you keep up with this, at each meeting you will be approving just the minutes of the most recent past meeting. Help the moderator to remember the approval. And note this:
@@ -48,6 +43,10 @@ The moderator should generally ask for a motion to adjourn rather than simply ad
 ### Agenda
 Members of the board generally have the privilege of introducing new items of business during the "New Business" section of a meeting (RONR (12th ed.) 41:27). If there is an agenda that determines what business is in order for the meeting, that agenda must be approved by the board (typically at the beginning of the meeting) to be binding (RONR (12th ed.) 41:61-62). The important thing here is you want to preserve the ability of a board member to bring up a topic (the voice of the minority). 
 
+### Minutes and amended motions
+* For motions that are amended, you almost never need to record the original version of the motion in the minutes. You just record the version you ended up with just before the final vote, and then if it is adopted you say, "Adopted as amended." (cite)
+* Occasionally the elders board may have a motion with an amendment (and possibly an amendment of the amendment) pending and the board decides that it no longer wants to deal with the main motion or its amendments. In this case a motion is in order to "postpone to a definite time" (say next elders' meeting) or to "postpone indefinitely." If such a motion is approved, it dismisses the previous main motion *and all of its pending amendments* with that one vote. In such a case, the minutes will need to record the current state of the motion and all pending amendments. This is one of the only times you ever need to record the contents of amendments and other than the final version of a motion in the minutes.
+
 ### Small boards
 You may be surprised to know that Robert's Rules explicitly calls for less formality when the size of the board is small...
 
@@ -62,7 +61,6 @@ For instance:
 This is all addressed in RONR (12th ed.) 49:21.
 
 ### Custom
-
 It is not against Robert's Rules for a board to have its own customs...
 
 > In some organizations, a particular practice may sometimes come to be followed as a matter of established custom so that it is treated practically as if it were prescribed by a rule. If there is no contrary provision in the parliamentary authority or written rules of the organization...  --RONR (12th ed.) 2:25
@@ -73,3 +71,6 @@ When a custom is called into question, it may sometimes make sense to take a vot
 
 ### Difficulties
 If on occasion the board gets tangled up in some element of parliamentary procedure and only finds its way out (if it ever does) after a toilsome and exhausting labor, made worse by the fact that no one is sure the proper procedure was followed---take note and talk to someone more versed in Robert's Rules than yourself to understand what the proper procedure would have been. (TODO: mention Daniel Meyer's willingness to be helpful in this way?). The proper procedure is also likely significantly simpler.
+
+### The parliamentarian
+Robert's Rules is actually a quick read for how thick it is. You can probably get through it in 4 hours. Some sections only apply to larger assemblies. Skim over those sections. But put the time in---no one else on the board is going to do it---and it will help you grow in helpfulness as the occasional parliamentarian of the board.
