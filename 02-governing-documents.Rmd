@@ -1,9 +1,28 @@
 # Governing Documents
 
-Particular churches within Evangel Presbytery are governed by the Evangel Presbytery [Book of Church Order](https://evangel.pressbooks.com) and their own bylaws. Whenever the bylaws of a particular church and the Evangel BCO conflict, the Evangel BCO controls.
+Particular churches within Evangel Presbytery are governed by the Evangel Presbytery [Book of Church Order](https://evangel.pressbooks.com) and their own bylaws. The process for amending our BCO can be found in [BCO 29](https://evangel.pressbooks.com/chapter/29-amending-the-constitution-of-the-church/). Evangel Presbytery, itself, is also governed by [its own set of bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf).
 
-However, it is common for church bylaws to be *more* specific than the BCO in areas where they do not conflict. Many churches, for example, specify that members must be a certain age to vote. The BCO is silent on that question.
+Whenever the bylaws of a particular church and the Evangel BCO conflict, the Evangel BCO controls. However, it is common for church bylaws to be *more* specific than the BCO in areas where they do not conflict. Many churches, for example, specify that members must be a certain age to vote. The BCO is silent on that question.
 
 There are additional governing documents required by the civil authorities. In general, each particular church must be incorporated in the state where it resides. Most states exempt churches and other non-profits from paying sales tax, but that exemption must be applied for and granted, and, often, renewed every year.
 
 Churches are automatically granted 501(c)3 status by the IRS without any forms being filed whatsoever. Still, many churches elect to officially apply for 501(c)3 status. Many companies offer benefits to non-profits which are not made available unless the church can produce that IRS determination letter as evidence of their non-profit status.
+
+----------------------------
+
+I have considered adding the following, but I don't think it really fits:
+
+Church Policies
+
+- weddings
+- building use
+- childcare
+- Compensation/pension plans
+- staff absence/vacation policies
+
+Titles, Deeds and Contracts
+
+- Financial agreements
+- Loans
+- Compensation plans
+- Insurance Policies
