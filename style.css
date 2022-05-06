@@ -95,7 +95,7 @@ width: 1em;
 margin-left: -1em;
 }
 
-.folder-outline ul li:before {
+.folder-outline ul ul ul ul li:before {
     content: '\1f5ce';
     display: inline-block;
     width: 1em;
