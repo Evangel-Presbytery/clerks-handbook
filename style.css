@@ -89,16 +89,15 @@ a:hover {
 }
 
 .folder-outline ul li::before {
-    content: '\f07b';
-    font-family: 'Font Awesome 6 Free';
     display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font: var(--fa-font-solid);
+    content: '\f07b';
     width: 1em;
     margin-left: -1em;
 }
 
 .folder-outline ul ul ul ul li::before {
     content: '\f15b';
-    display: inline-block;
-    width: 1em;
-    margin-left: -1em;
 }
