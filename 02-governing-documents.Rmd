@@ -1,10 +1,9 @@
 # Governing Documents
 
-Need to discuss:
+Particular churches within Evangel Presbytery are governed by the Evangel Presbytery [Book of Church Order](https://evangel.pressbooks.com) and their own bylaws. Whenever the bylaws of a particular church and the Evangel BCO conflict, the Evangel BCO controls.
 
-* Civil documents
-* Church documents
-* Relationship between church bylaws and the BCO
-  * bylaws are in addition to the BCO and are subordinate to it.
-  * May be worth mentioning kinds of areas where a church may be more specific: voting age, officer terms, etc.
-* Perhaps mention the clerk's responsibility to understand the process for updating any of these documents...
+However, it is common for church bylaws to be *more* specific than the BCO in areas where they do not conflict. Many churches, for example, specify that members must be a certain age to vote. The BCO is silent on that question.
+
+There are additional governing documents required by the civil authorities. In general, each particular church must be incorporated in the state where it resides. Most states exempt churches and other non-profits from paying sales tax, but that exemption must be applied for and granted, and, often, renewed every year.
+
+Churches are automatically granted 501(c)3 status by the IRS without any forms being filed whatsoever. Still, many churches elect to officially apply for 501(c)3 status. Many companies offer benefits to non-profits which are not made available unless the church can produce that IRS determination letter as evidence of their non-profit status.
