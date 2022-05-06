@@ -83,3 +83,21 @@ a:hover {
 .bg-primary {
     background-color: #686868 !important;
 }
+
+.folder-outline ul {
+    list-style-type: none;
+}
+
+.folder-outline ul li::before {
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    content: '\f07c';
+    font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Pro', FontAwesome, sans-serif;
+    width: 1.5em;
+    margin-left: -1.5em;
+}
+
+.folder-outline ul ul ul ul li::before {
+    content: '\f15b';
+}
