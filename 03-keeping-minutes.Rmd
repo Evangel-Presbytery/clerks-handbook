@@ -8,11 +8,11 @@ Meeting minutes must be kept with utmost care. They are the official record of t
 
 ### 1. Clarity {-}
 
-Put yourself in the shoes of a session member reading your minutes ten years from now. Will he have enough information to clearly understand what decision was made, who was involved, and why the decision was made?
+Put yourself in the shoes of an elder from another church reading your minutes. Will he have enough information to clearly understand what decision was made, who was involved, and why the decision was made? For example, use full names of individuals (i.e., not just first names) and organizations (i.e., not just abbreviations) at least the first time they appear in each set of minutes.
 
 ### 2. Concision {-}
 
-Minutes are intended to record essential information only. They should not be a detailed play-by-play of deliberation. The most important thing to record in minutes is any official action taken by the session.
+Minutes are intended to record essential information only. They should not be a detailed play-by-play of deliberation. The most important thing to record in minutes is any official action taken by the session. For example, it is not necessary to record every amendment that is made to a motion before it is finally voted on and approved. It is only necessary to record the motion in its final form. For more information on good order in session meetings, see [Robert's Rules of Order for Clerks].
 
 ### 3. Consistency {-}
 
@@ -46,7 +46,7 @@ We recommend using a consistent pattern in subject lines of emails with minutes.
 
 For example:
 
-> TPC Special Called Session Meeting Minutes 2022.03.30 - FOR REVIEW
+> TPC Special Called Session Meeting Minutes 2022-03-30 - FOR REVIEW
 
 Following a consistent pattern in subject lines will make it much easier to search for minutes in your email archives.
 
@@ -71,7 +71,7 @@ Once minutes are officially approved by the session, they need to be added to a 
 
 ### Basic Minutes Template
 
-We recommend clerks come to each meeting with a basic minutes outline already prepared. This will save time and distraction in the meeting itself. If the clerk has access to a meeting's agenda before the meeting, it is a good practice for him to prepare an outline for minutes based on that agenda.
+We recommend clerks come to each meeting with a basic minutes outline already prepared. This will save time and distraction during the actual meeting. If the clerk has access to a meeting's agenda before the meeting, it is a good practice for him to prepare an outline for minutes based on that agenda.
 
 The following template will be a helpful starting point:
 
