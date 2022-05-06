@@ -18,12 +18,13 @@ types-of-membership
 clerks-responsibilities
 statistical-reports
 church-discipline-records
+overview-1
+duties-of-the-clerk
 general-principles
 jurisdiction
 offenses
 church-censures
 the-parties-in-cases-of-process
-duties-of-the-clerk
 specific-steps-in-judicial-process
 the-first-meeting
 second-meeting
