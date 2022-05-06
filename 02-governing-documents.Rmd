@@ -1,28 +1,33 @@
 # Governing Documents
 
-Particular churches within Evangel Presbytery are governed by the Evangel Presbytery [Book of Church Order](https://evangel.pressbooks.com) and their own bylaws. The process for amending our BCO can be found in [BCO 29](https://evangel.pressbooks.com/chapter/29-amending-the-constitution-of-the-church/). Evangel Presbytery, itself, is also governed by [its own set of bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf).
+Clerks should be aware of the governing documents of their church and know how to access them when necessary.
 
-Whenever the bylaws of a particular church and the Evangel BCO conflict, the Evangel BCO controls. However, it is common for church bylaws to be *more* specific than the BCO in areas where they do not conflict. Many churches, for example, specify that members must be a certain age to vote. The BCO is silent on that question.
+## Church Government
 
-There are additional governing documents required by the civil authorities. In general, each particular church must be incorporated in the state where it resides. Most states exempt churches and other non-profits from paying sales tax, but that exemption must be applied for and granted, and, often, renewed every year.
+Particular churches within Evangel Presbytery are governed by:
 
-Churches are automatically granted 501(c)3 status by the IRS without any forms being filed whatsoever. Still, many churches elect to officially apply for 501(c)3 status. Many companies offer benefits to non-profits which are not made available unless the church can produce that IRS determination letter as evidence of their non-profit status.
+1. The Evangel Presbytery [Book of Church Order](https://evangel.pressbooks.com) and 
+2. their own bylaws. 
 
-----------------------------
+The process for amending our BCO can be found in [BCO 29](https://evangel.pressbooks.com/chapter/29-amending-the-constitution-of-the-church/). Whenever the bylaws of a particular church and the Evangel BCO conflict, the Evangel BCO controls. However, it is common for church bylaws to be *more* specific than the BCO in areas where they do not conflict. Many churches, for example, specify that members must be a certain age to vote. The BCO is silent on that question.
 
-I have considered adding the following, but I don't think it really fits:
+Evangel Presbytery, itself, is also governed by [its own set of bylaws](https://bylaws.evangelpresbytery.com).
 
-Church Policies
+## Civil Government
 
-- weddings
-- building use
-- childcare
-- Compensation/pension plans
-- staff absence/vacation policies
+1. Each particular church must file articles of incorporation in the state where it resides. **[REQUIRED]**,
+2. Most states exempt churches and other non-profits from paying sales tax, but that exemption must be applied for and granted, and, often, renewed every year. **[OPTIONAL, BUT RECOMMENDED]**
+3. Churches are automatically granted 501(c)3 status by the IRS without any forms being filed whatsoever. Still, many churches elect to officially apply for 501(c)3 status. Many companies offer benefits to non-profits which are not made available unless the church can produce that IRS determination letter as evidence of their non-profit status. **[OPTIONAL]**
 
-Titles, Deeds and Contracts
+## Church Policies
 
-- Financial agreements
-- Loans
-- Compensation plans
-- Insurance Policies
+It is common for churches to have internal policies governing many different topics. Depending on the needs of our church, you may consider establishing policies for the following topics:
+
+* Childcare
+* Building Use
+* Weddings
+* Staff Absences/Vacations
+
+## Position Papers
+
+Just as Evangel Presbytery itself has adopted [policies concerning sexuality](https://evangel.pressbooks.com/chapter/28-declaration-of-doctrine-and-policies-concerning-sexuality/), each particular church may adopt and publish their position on a given topic.
