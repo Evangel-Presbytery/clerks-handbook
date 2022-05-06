@@ -43,11 +43,12 @@ after-review
 roberts-rules-of-order-for-clerks
 normal-things
 special-situations
-minutes-and-amended-motions
 approval-of-minutes
 orders-of-the-day
 motion-to-adjourn
 agenda
+minutes-and-amended-motions
 small-boards
 custom
 difficulties
+the-parliamentarian
