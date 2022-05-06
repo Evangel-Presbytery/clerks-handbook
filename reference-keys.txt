@@ -51,4 +51,4 @@ minutes-and-amended-motions
 small-boards
 custom
 difficulties
-the-parliamentarian
+go-on-read-it
