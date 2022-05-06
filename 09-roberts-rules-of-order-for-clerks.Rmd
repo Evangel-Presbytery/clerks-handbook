@@ -4,7 +4,9 @@ It is common for a church's bylaws to specify that session meetings will be run 
 
 There is much groaning and gnashing of teeth about Robert's Rules of Order. But the purpose of Robert's Rules is not to put up unnecessary hurdles making it difficult for a board to accomplish what it is trying to do. The purpose—and it is an important one—is to protect the *will* of the majority and the *voice* of the minority. As clerk you have an important role in helping the moderator make this a reality.
 
-There are the normal things, and then there are the special situations.
+Not all of the following is strictly Robert's Rules. The parts that are from Robert's Rules are cited. All such citations are from _Robert's Rules of Order Newly Revised, 12th edition._ 
+
+There are the normal things, and then there are the special situations...
 
 ## Normal things
 
@@ -23,6 +25,23 @@ As clerk you also have an important role in helping the moderator accomplish his
 
 You need to ask enough questions during the meeting to capture the details that need to be recorded for the minutes, and you also need to speak up when important items have been missed---yet you must be careful to avoid usurping control over the meeting. It's a delicate dance. Give yourself to serving the needs of the moderator and the board and your helpfulness will grow over time.
 
+### Recording motions
+As clerk you are responsible to record motions in the minutes. Sometimes it can be a challenge to know exactly what the motion is, as several people may have been contributing ideas. If your board is operating informally, the clerk must work to discern between what is simply brainstorming (that doesn't need to be recorded) and what is a developing consensus decision on a matter. He must keep current on the changing text of the motion (typically this involves typing and editing on a laptop computer) so that when called upon to read the motion he may do so without delay.
+
+Don't become paralyzed if you are not sure what is in and what is out of the motion. You can speak up and ask for clarification if needed, but try not to do this too much as you don't want to dominate the discussion. Generally you just need to make a judgment call as to what you believe the current motion is. When called upon to read the motion you will be corrected if there is disagreement over what's being voted on.
+
+If the moderator calls for the vote on a motion that has had significant discussion and you *haven't* been asked to read the motion, interrupt before the vote to ask, "May I read the motion as I currently have it?" or a more particular "Did we end up proposing to send two of us or is just X being sent?"
+
+If you apply yourself to this work you will learn your elder's board and you'll get better at these judgment calls.
+
+### Pastoral care section of the minutes
+You want a proper level of detail here. Covering nakedness when possible, but also retaining enough detail to remind the board what was being dealt with. For instance, "The board discussed X and Y's marriage" may not be enough detail; "The board discussed the conflicts X and Y have been having in their marriage over schooling choices" might be better.
+
+Inherent in the work of pastoral care is the need to enter into situations involving others' sins and poor judgment and determine what actions should be taken. There is difficulty and struggle in this, and at times a statement may be made such as, "He'll never listen if we tell him that." The clerk must not be literal here: don't put "The elders believe that X will never listen." What you are hearing is fears and anxieties being worked through. You will need to 
+
+### Minutes: accessibility to people not on the board
+The minutes are a public record of the meeting that any member is usually entitled to receive a copy of these. (TODO: if your bylaws say so?) So you've got work to do - you and the board know what you mean by "CGELA", but nobody else does. You need to spell out what it means the first time in each minutes, "Chapel Glen Early Learning Academy (CGELA)". After that you can use CGELA.
+
 ## Special situations
 
 Here are helps for some situations that you may encounter:
@@ -30,27 +49,28 @@ Here are helps for some situations that you may encounter:
 ### Approval of minutes
 Minutes of past meetings must be approved by the board. If you keep up with this, at each meeting you will be approving just the minutes of the most recent past meeting. Help the moderator to remember the approval. And note this:
 
-> A formal motion to approve the minutes is not necessary, although such a motion is not out of order... --RONR (12th ed.) 41:10
+> A formal motion to approve the minutes is not necessary, although such a motion is not out of order... --RONR 41:10
 
-"Are there any \[further] corrections?" "There being no \[further] corrections, the minutes stand approved \[as corrected]." --See RONR (12th ed.) 41:11.
+"Are there any \[further] corrections?" "There being no \[further] corrections, the minutes stand approved \[as corrected]." --See RONR 41:11.
 
 ### Orders of the day
-Some boards have a standard ending time for their meetings. This is called "Orders of the Day" (RONR (12th ed.) 41:41). As clerk, don't necessarily yell it out the minute you reach "orders of the day". Be sensitive to the conversation that's going on and bring it up at the earliest opportune moment.
+Some boards have a standard ending time for their meetings. This is called "Orders of the Day" (RONR 41:41). As clerk, don't necessarily yell it out the minute you reach "orders of the day". Be sensitive to the conversation that's going on and bring it up at the earliest opportune moment.
 
 ### Motion to adjourn
-The moderator should generally ask for a motion to adjourn rather than simply adjourning the meeting on his own authority (see e.g. RONR (12th ed.) 21:14-15). Asking for a motion to adjourn gives anyone who needs to a chance to bring up important business before the meeting is over. A motion to adjourn is not debatable or amendable - if the body doesn't want to do it the motion simply gets voted down and you proceed with business.
+The moderator should generally ask for a motion to adjourn rather than simply adjourning the meeting on his own authority (see e.g. RONR 21:14-15). Asking for a motion to adjourn gives anyone who needs to a chance to bring up important business before the meeting is over. A motion to adjourn is not debatable or amendable - if the body doesn't want to do it the motion simply gets voted down and you proceed with business.
 
 ### Agenda
-Members of the board generally have the privilege of introducing new items of business during the "New Business" section of a meeting (RONR (12th ed.) 41:27). If there is an agenda that determines what business is in order for the meeting, that agenda must be approved by the board (typically at the beginning of the meeting) to be binding (RONR (12th ed.) 41:61-62). The important thing here is you want to preserve the ability of a board member to bring up a topic (the voice of the minority). 
+Members of the board generally have the privilege of introducing new items of business during the "New Business" section of a meeting (RONR 41:27). If there is an agenda that determines what business is in order for the meeting, that agenda must be approved by the board (typically at the beginning of the meeting) to be binding (RONR 41:61-62). The important thing here is you want to preserve the ability of a board member to bring up a topic (the voice of the minority). 
 
-### Minutes and amended motions
-* For motions that are amended, you almost never need to record the original version of the motion in the minutes. You just record the version you ended up with just before the final vote, and then if it is adopted you say, "Adopted as amended." (cite)
-* Occasionally the elders board may have a motion with an amendment (and possibly an amendment of the amendment) pending and the board decides that it no longer wants to deal with the main motion or its amendments. In this case a motion is in order to "postpone to a definite time" (say next elders' meeting) or to "postpone indefinitely." If such a motion is approved, it dismisses the previous main motion *and all of its pending amendments* with that one vote. In such a case, the minutes will need to record the current state of the motion and all pending amendments. This is one of the only times you ever need to record the contents of amendments and other than the final version of a motion in the minutes.
+### Recording amended motions
+For motions that are amended, you almost never need to record the original version of the motion in the minutes. You just record the version you ended up with just before the final vote, and then if it is adopted you say, "Adopted as amended." (RONR 48:4(6)(a); see 48:8 for an example.)
+
+Occasionally the elders board may have a motion with an amendment (and possibly an amendment of the amendment) pending and the board decides that it no longer wants to deal with the main motion or its amendments. In this case a motion is in order to "postpone to a definite time" (say next elders' meeting) or to "postpone indefinitely." If such a motion is approved, it dismisses the previous main motion *and all of its pending amendments* with that one vote. In such a case, the minutes will need to record the current state of the motion and all pending amendments (RONR 48:4(6)(b). This is one of the only times you ever need to record the contents of amendments and other than the final version of a motion in the minutes.
 
 ### Small boards
 You may be surprised to know that Robert's Rules explicitly calls for less formality when the size of the board is small...
 
-> In a board meeting where there are not more than about a dozen members present, some of the formality that is necessary in a large assembly would hinder business. The rules governing such meetings are different from the rules that hold in other assemblies, in the following repects... --RONR (12th ed.) 49:21
+> In a board meeting where there are not more than about a dozen members present, some of the formality that is necessary in a large assembly would hinder business. The rules governing such meetings are different from the rules that hold in other assemblies, in the following repects... --RONR 49:21
 
 For instance:
 
@@ -58,12 +78,12 @@ For instance:
 * Informally discussing subjects is allowable when there's not a motion currently pending
 * The chairman can participate in debates and in informal discussions and can vote on matters (unless your bylaws specify that he doesn't have a vote) -- all without leaving the chair (i.e. without temporarily stepping down as moderator as you do in a large assembly)
 
-This is all addressed in RONR (12th ed.) 49:21.
+This is all addressed in RONR 49:21.
 
 ### Custom
 It is not against Robert's Rules for a board to have its own customs...
 
-> In some organizations, a particular practice may sometimes come to be followed as a matter of established custom so that it is treated practically as if it were prescribed by a rule. If there is no contrary provision in the parliamentary authority or written rules of the organization...  --RONR (12th ed.) 2:25
+> In some organizations, a particular practice may sometimes come to be followed as a matter of established custom so that it is treated practically as if it were prescribed by a rule. If there is no contrary provision in the parliamentary authority or written rules of the organization...  --RONR 2:25
 
 For example, a small board might by custom require a second on formal motions. There may be no need to have this custom written down. You simply observe it.
 
@@ -78,3 +98,6 @@ One other thing. You haven't actually read _Robert's Rules of Order_, have you? 
 Make sure to get [the authoritative edition](https://robertsrules.com/books/newly-revised-12th-edition/) -- there are a lot of knockoffs out there.
 
 Robert's Rules is actually a pretty quick read for how thick it is. You can probably get through it in 4 hours. Some sections only apply to larger assemblies--skim over those sections. But put the time in---who else on the board is going to do it? And it will be _helpful_.
+
+## Clerk responsibilities at a congregational meeting
+**TODO**
