@@ -41,9 +41,13 @@ what-not-to-include
 formatting
 after-review
 roberts-rules-of-order-for-clerks
+normal-things
+special-situations
 minutes-and-amended-motions
+approval-of-minutes
 orders-of-the-day
 motion-to-adjourn
 agenda
-small-boards-under-about-12-men
-customs
+small-boards
+custom
+difficulties
