@@ -1,12 +1,6 @@
 # Church Discipline Records
 
-The Evangel Presbytery Book of Church Order addresses church discipline in [chapters 30-49](https://evangel.pressbooks.com/chapter/30-discipline-its-nature-subjects-and-ends/). This chapter exists to be a short-hand reference for clerks where *judicial process* is necessary (see [BCO 30.1](https://evangel.pressbooks.com/chapter/30-discipline-its-nature-subjects-and-ends/)). It pertains, in other words, to church discipline that is *formal* rather than *informal*. 
-
-Clerks have specific duties in cases of discipline, and those duties are outlined below. Aside from their specific duties, clerks will often be called upon to help others understand disciplinary procedure. Clerks must understand both the theoretical and practical aspects of church discipline, and there is no substitute for carefully reading the entire section on church discipline in our BCO. This page is only meant to be a help, and the BCO always takes precedence.
-
-## Overview
-
-Informal discipline happens all the time in a healthy church. Formal process is necessary when one of the [censures](https://clerks.evangelpresbytery.com/church-discipline-records.html#church-censures) of the church may be called for in a disciplinary matter. In general, the process of formal discipline goes like this:
+The Evangel Presbytery Book of Church Order addresses church discipline in [chapters 30-49](https://evangel.pressbooks.com/chapter/30-discipline-its-nature-subjects-and-ends/). This chapter exists to be a short-hand reference for clerks where *judicial process* is necessary (see [BCO 30.1](https://evangel.pressbooks.com/chapter/30-discipline-its-nature-subjects-and-ends/)). It pertains, in other words, to church discipline that is *formal* rather than *informal*. Informal discipline happens all the time in a healthy church. Formal process is necessary when one of the [censures](https://clerks.evangelpresbytery.com/church-discipline-records.html#church-censures) of the church may be called for in a disciplinary matter. In general, the process of formal discipline goes like this:
 
 1. The court of jurisdiction (the local session or the presbytery) should hear charges against the accused, or establish a judiciary committee to do so. All charges brought before either the session or presbytery must be reduced to writing.
 2. The judiciary should have their [first meeting](https://clerks.evangelpresbytery.com/church-discipline-records.html#the-first-meeting) and must send a written indictment to the accused.
@@ -15,6 +9,8 @@ Informal discipline happens all the time in a healthy church. Formal process is 
 5. [Appeals](https://clerks.evangelpresbytery.com/church-discipline-records.html#appeals), if any, must be made in writing within thirty days of notification of the last court's decision.
 
 ## Duties of the Clerk
+
+Aside from their specific duties, clerks will often be called upon to help others understand disciplinary procedure. Clerks must understand both the theoretical and practical aspects of church discipline, and there is no substitute for carefully reading the entire section on church discipline in our BCO. This page is only meant to be a help, and the BCO always takes precedence.
 
 It is common in judicial proceedings for the session to appoint a judicial committee to work through the whole disciplinary process. The clerk should work closely with the judicial committee to ensure that all written materials pertaining to the proceedings are recorded and stored properly.
 
