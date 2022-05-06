@@ -92,10 +92,10 @@ a:hover {
     display: inline-block;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
-    font: var(--fa-font-solid);
-    content: '\f07b';
-    width: 1em;
-    margin-left: -1em;
+    content: '\f07c';
+    font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Pro', FontAwesome, sans-serif;
+    width: 1.5em;
+    margin-left: -1.5em;
 }
 
 .folder-outline ul ul ul ul li::before {
