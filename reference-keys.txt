@@ -18,7 +18,6 @@ types-of-membership
 clerks-responsibilities
 statistical-reports
 church-discipline-records
-overview-1
 duties-of-the-clerk
 general-principles
 jurisdiction
