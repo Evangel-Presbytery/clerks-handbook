@@ -96,10 +96,7 @@ a:hover {
     font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Pro', FontAwesome, sans-serif;
     width: 1.5em;
     margin-left: -1.5em;
-}
-
-.folder-outline ul li.open::before {
-    content: '\f07c';
+    color: #686868;
 }
 
 .folder-outline ul ul ul ul li::before {
