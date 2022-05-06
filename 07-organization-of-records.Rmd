@@ -21,9 +21,9 @@ Using the date format YYYY-MM-DD at the *beginning* of your file name means that
 To organize your files on your computer, we suggest the following:
 
 <div class="folder-outline">
-* Meeting Minutes {.open}
-  * Session Minutes {.open}
-    * 2020 {.open}
+* Meeting Minutes
+  * Session Minutes
+    * 2020
       * 2020-01-14 FPC Session Meeting Minutes
       * 2020-02-11 FPC Session Meeting Minutes
       * …
