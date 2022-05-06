@@ -6,27 +6,32 @@ Keeping church records well organized is one of the clerk's most important dutie
 
 It's important to be consistent with your files names. We suggest the following: 
 
-> YYYY.MM.DD - Church Name or Abbreviation Body and Meeting
+> YYYY-MM-DD Church Name or Abbreviation Body and Meeting
 
 So, for instance:
 
-> 2022.02.03 - TRC Session Meeting Minutes
+> 2022-02-03 TRC Session Meeting Minutes
 
 or
 
-> 2021.09.23 - TRC Special Called Session Meeting Minutes
+> 2021-09-23 TRC Special Called Session Meeting Minutes
 
-Using the date format YYYY.MM.DD at the *beginning* of your file name means that when your minutes files are sorted alphabetically, they will *also* be sorted chronologically.
+Using the date format YYYY-MM-DD at the *beginning* of your file name means that when your minutes files are sorted alphabetically, they will *also* be sorted chronologically.
 
 To organize your files on your computer, we suggest the following:
 
+<div class="folder-outline">
 * Meeting Minutes 
   * Session Minutes
     * 2020
+      * 2020-01-14 FPC Session Meeting Minutes
+      * 2020-02-11 FPC Session Meeting Minutes
+      * …
     * 2019
     * 2018
   * Deacons Meeting Minutes
   * Congregational Meeting Minutes
+</div>
 
 To ensure that there is one and only one *official* version of any minutes, we discourage including temporary folders such as "Waiting for Session Approval" in the file structure listed above for the permanent record. 
 

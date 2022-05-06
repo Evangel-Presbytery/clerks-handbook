@@ -3,6 +3,8 @@ bookdown::bs4_book:
     base: https://github.com/Evangel-Presbytery/clerks-handbook
     branch: main
   css: "style.css"
+  includes:
+    in_header: in_header.html
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
