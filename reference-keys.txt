@@ -32,7 +32,6 @@ the-parties-in-cases-of-process
 evangel-presbytery-rules-of-discipline
 organization-of-records
 meeting-minutes
-attachments
 trials
 miscellaneous
 backups
