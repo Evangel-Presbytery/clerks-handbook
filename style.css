@@ -93,9 +93,10 @@ a:hover {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Pro', FontAwesome, sans-serif;
-    width: 1.5em;
-    margin-left: -1.5em;
+    width: 2em;
+    margin-left: -2em;
     color: #686868;
+    text-align: center;
 }
 
 .folder-outline ul li.open-folder::before {
