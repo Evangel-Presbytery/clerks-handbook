@@ -20,18 +20,23 @@ Using the date format YYYY-MM-DD at the *beginning* of your file name means that
 
 To organize your files on your computer, we suggest the following:
 
-<div class="folder-outline">
-* Meeting Minutes
-  * Session Minutes
-    * 2020
-      * 2020-01-14 FPC Session Meeting Minutes
-      * 2020-02-11 FPC Session Meeting Minutes
-      * …
-    * 2019
-    * 2018
-  * Deacons Meeting Minutes
-  * Congregational Meeting Minutes
-</div>
+<ul class="folder-outline">
+<li class="open-folder">Meeting Minutes</li>
+<ul>
+<li class="open-folder">Session Minutes</li>
+<ul>
+<li class="open-folder">2020</li>
+<ul>
+<li class="doc">2020-01-14 FPC Session Meeting Minutes</li>
+<li class="doc">2020-02-11 FPC Session Meeting Minutes</li>
+<li class="doc">…</li>
+</ul>
+<li class="closed-folder">2019</li>
+<li class="closed-folder">2018</li>
+</ul>
+<li class="closed-folder">Deacons Meeting Minutes</li>
+<li class="closed-folder">Congregational Meeting Minutes</li>
+</ul>
 
 To ensure that there is one and only one *official* version of any minutes, we discourage including temporary folders such as "Waiting for Session Approval" in the file structure listed above for the permanent record. 
 
