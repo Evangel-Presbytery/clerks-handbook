@@ -92,13 +92,21 @@ a:hover {
     display: inline-block;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
-    content: '\e185';
     font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Pro', FontAwesome, sans-serif;
-    width: 1.5em;
-    margin-left: -1.5em;
+    width: 2em;
+    margin-left: -2em;
     color: #686868;
+    text-align: center;
 }
 
-.folder-outline ul ul ul ul li::before {
+.folder-outline ul li.open-folder::before {
+    content: '\f07c';
+}
+
+.folder-outline ul li.closed-folder::before {
+    content: '\f07b';
+}
+
+.folder-outline ul li.doc::before {
     content: '\f15b';
 }
