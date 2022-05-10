@@ -37,12 +37,13 @@ To organize your files on your computer, we suggest the following:
 <li class="closed-folder">Deacons Meeting Minutes</li>
 <li class="closed-folder">Congregational Meeting Minutes</li>
 </ul>
+</ul>
 
 To ensure that there is one and only one *official* version of any minutes, we discourage including temporary folders such as "Waiting for Session Approval" in the file structure listed above for the permanent record. 
 
 If you follow our [guidelines for keeping minutes](keeping-minutes.html), then minutes which are in the process of being approved will be sent out by email. Everyone who had a part in the meeting will then have a time-stamped record of the minutes. Once final changes are made and minutes have been approved, however, they should be added to the permanent record.
 
-### Attachments
+### Attachments {-}
 
 At times, attachments will need to be added to approved minutes. When added to the permanent record, those attachments should be included in the file containing the minutes and *not* left as a separate file.
 
