@@ -206,3 +206,36 @@ For clerks (or moderators) who want to follow a more thorough set of standards f
 19. Separate the minutes proper from any supplemental appended documents with a row of asterisks or hyphens.
 
 -->
+
+# DANIEL'S ADDITIONS
+During elders meetings, the clerk is responsible for recording several standard elements of the meeting:
+
+* Meeting start time
+* Who's present, who's absent
+* Who opened in prayer
+* ...
+
+As clerk you also have an important role in helping the moderator accomplish his work at the meeting:
+
+* During the meeting, pay attention to the meeting agenda (if there is one), and if an agenda item seems to have been missed bring it to the moderator's attention.
+* The moderator is trying to accomplish major themes; you make sure details aren't missed.
+* Be prepared to help with questions of parliamentary procedure. (More on this below.)
+
+You need to ask enough questions during the meeting to capture the details that need to be recorded for the minutes, and you also need to speak up when important items have been missed---yet you must be careful to avoid usurping control over the meeting. It's a delicate dance. Give yourself to serving the needs of the moderator and the board and your helpfulness will grow over time.
+
+### Recording motions
+As clerk you are responsible to record motions in the minutes. Sometimes it can be a challenge to know exactly what the motion is, as several people may have been contributing ideas. If your board is operating informally, the clerk must work to discern between what is simply brainstorming (that doesn't need to be recorded) and what is a developing consensus decision on a matter. He must keep current on the changing text of the motion (typically this involves typing and editing on a laptop computer) so that when called upon to read the motion he may do so without delay.
+
+Don't become paralyzed if you are not sure what is in and what is out of the motion. You can speak up and ask for clarification if needed, but try not to do this too much as you don't want to dominate the discussion. Generally you just need to make a judgment call as to what you believe the current motion is. When called upon to read the motion you will be corrected if there is disagreement over what's being voted on.
+
+If the moderator calls for the vote on a motion that has had significant discussion and you *haven't* been asked to read the motion, interrupt before the vote to ask, "May I read the motion as I currently have it?" or a more particular "Did we end up proposing to send two of us or is just X being sent?"
+
+If you apply yourself to this work you will learn your elder's board and you'll get better at these judgment calls.
+
+### Pastoral care section of the minutes
+You want a proper level of detail here. Covering nakedness when possible, but also retaining enough detail to remind the board what was being dealt with. For instance, "The board discussed X and Y's marriage" may not be enough detail; "The board discussed the conflicts X and Y have been having in their marriage over schooling choices" might be better.
+
+* Leave out all but the barest level of detail. If during discussion someone expresses the worry, "He'll never listen if we tell him that," DON'T write down "The board believes X will never listen if we tell him Y." Just leave it out.
+
+### Minutes: accessibility to people not on the board
+Be aware that your church's bylaws may specify that the minutes are a public record of the meeting that any member of the church is entitled to receive a copy of. So the first time you use an acronym in the minutes of a meeting you should spell it out. For instance, you and your board may know what you mean by "CGELA", but nobody else does. You should spell out "Chapel Glen Early Learning Academy (CGELA)" the first time it occurs in the minutes of a meeting. After that you can use CGELA.
