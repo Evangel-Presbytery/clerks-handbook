@@ -18,7 +18,6 @@ examples
 basic-minutes-template
 sample-sets-of-meeting-minutes-from-churches-in-evangel-presbytery
 daniels-additions
-recording-motions
 pastoral-care-section-of-the-minutes
 minutes-accessibility-to-people-not-on-the-board
 membership-records
@@ -46,7 +45,7 @@ formatting
 after-review
 roberts-rules-of-order-for-clerks
 normal-things
-recording-motions-1
+recording-motions
 pastoral-care-section-of-the-minutes-1
 minutes-accessibility-to-people-not-on-the-board-1
 special-situations
