@@ -17,6 +17,10 @@ the-permanent-record
 examples
 basic-minutes-template
 sample-sets-of-meeting-minutes-from-churches-in-evangel-presbytery
+daniels-additions
+recording-motions
+pastoral-care-section-of-the-minutes
+minutes-accessibility-to-people-not-on-the-board
 membership-records
 types-of-membership
 clerks-responsibilities
@@ -42,9 +46,9 @@ formatting
 after-review
 roberts-rules-of-order-for-clerks
 normal-things
-recording-motions
-pastoral-care-section-of-the-minutes
-minutes-accessibility-to-people-not-on-the-board
+recording-motions-1
+pastoral-care-section-of-the-minutes-1
+minutes-accessibility-to-people-not-on-the-board-1
 special-situations
 approval-of-minutes
 orders-of-the-day
