@@ -3,17 +3,15 @@
 It is common for a church's bylaws to specify that session meetings will be run according to "the latest edition of _Robert's Rules of Order_." As clerk of session you will often be the de facto parliamentarian—the person who has enough familiarity with Robert's Rules to help the moderator navigate situations where he is unsure of the proper steps.
 
 ## Get it, read it
-The following is a mix of Robert's Rules and advice. The parts that are from Robert's Rules are cited. All such citations are from _Robert's Rules of Order Newly Revised, 12th edition._ 
-
-Get [the authoritative edition](https://robertsrules.com/books/newly-revised-12th-edition/) and read it, it will help you.
+The following is a mix of Robert's Rules and advice. The parts that are from Robert's Rules are cited. All such citations are from _Robert's Rules of Order Newly Revised, 12th edition._ Get [the authoritative edition](https://robertsrules.com/books/newly-revised-12th-edition/) and read it, it will help you.
 
 ## Important Terms for Sessions
 
 * **M/S/A**: Motion Seconded and Approved.
-* **Call the Question**: If successful, this puts an end to debate and causes a vote on the motion being discussed.
-* **Orders of the Day**: Agenda items that are pre-agreed on to happen at certain time. Commonly used to set a standard meeting end time.
+* **Call the Question**: If successful, this puts an end to debate and causes a vote on the motion being discussed. Also called "Previous Question." --RONR 16:1.
+* **Orders of the Day**: Agenda items that are pre-agreed on to happen at certain time. Commonly used to set a standard meeting end time. --RONR 41:41.
 * **Adjournment**: Ending the meeting. You'll need to set a time you're adjourning to, unless you've already approved a meeting schedule.
-* **Quorum**: The minimum number of members who must be present in order to conduct business.
+* **Quorum**: The minimum number of members who must be present in order to conduct business. --RONR 3:3.
 
 ## Important Situations
 
@@ -30,7 +28,7 @@ Minutes of past meetings must be approved by the board. If you keep up with this
 Members of the board generally have the privilege of introducing new items of business during the "New Business" section of a meeting (RONR 41:27). If there is an agenda that determines what business is in order for the meeting, that agenda must be approved by the board (typically at the beginning of the meeting) to be binding (RONR 41:61-62). The important thing here is you want to preserve the ability of a board member to bring up a topic (the voice of the minority).
 
 ### Orders of the Day
-Some boards have a standard ending time for their meetings. This is called "Orders of the Day" (RONR 41:41). As clerk, don't necessarily yell it out the minute you reach "orders of the day". Be sensitive to the conversation that's going on and bring it up at the earliest opportune moment.
+Some boards have a standard ending time for their meetings. This is called "Orders of the day" (RONR 41:41). As clerk, don't necessarily yell it out the minute you reach "orders of the day". Be sensitive to the conversation that's going on and bring it up at the earliest opportune moment.
 
 ### Recording Motions
 As clerk you are responsible to record motions in the minutes. Sometimes it can be a challenge to know exactly what the motion is, as several people may have been contributing ideas. If your board is operating informally, the clerk must work to discern between what is simply brainstorming (that doesn't need to be recorded) and what is a developing consensus decision on a matter. He must keep current on the changing text of the motion (typically this involves typing and editing on a laptop computer) so that when called upon to read the motion he may do so without delay.
