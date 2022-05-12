@@ -207,7 +207,7 @@ For clerks (or moderators) who want to follow a more thorough set of standards f
 
 -->
 
-# DANIEL'S ADDITIONS
+## DANIEL'S ADDITIONS
 During elders meetings, the clerk is responsible for recording several standard elements of the meeting:
 
 * Meeting start time
