@@ -1,6 +1,6 @@
 # Keeping Minutes
 
-Evangel Presbytery's official standards for keeping minutes can be found in [Appendix\ 1 of the presbytery's bylaws](https://docs.google.com/document/d/1WZ4PrWPCNPNsUEmfXLPNXCNJz5qaB09T3HXnCkPh2ak/edit?usp=sharing). The information included in this section of the handbook is intended to supplement the presbytery's standards without adding further requirements.
+Evangel Presbytery's official standards for keeping minutes can be found in [Appendix\ 1 of the presbytery's bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf). The information included in this section of the handbook is intended to supplement the presbytery's standards without adding further requirements.
 
 Meeting minutes must be kept with utmost care. They are the official record of the decisions of a deliberative body. Once approved, they are the final word on what happened and what was decided at a meeting. Good minutes help promote integrity and accountability, and they act as a practical reference for future discussions and decisions of the session. The keeping of minutes is also typically the stated clerk’s most consistent and frequent area of responsibility.
 
@@ -12,7 +12,7 @@ Put yourself in the shoes of an elder from another church reading your minutes. 
 
 ### 2. Concision {-}
 
-Minutes are intended to record essential information only. They should not be a detailed play-by-play of deliberation. The most important thing to record in minutes is any official action taken by the session. For example, it is not necessary to record every amendment that is made to a motion before it is finally voted on and approved. It is only necessary to record the motion in its final form. For more information on good order in session meetings, see [Robert's Rules of Order for Clerks].
+Minutes are intended to record essential information only. They should not be a detailed play-by-play of deliberation. The most important thing to record in minutes is any official action taken by the session. For example, it is not necessary to record every amendment that is made to a motion before it is finally voted on and approved; it is only necessary to record the motion in its final form. (For more information on recording motions in the minutes, see [Recording Motions] in the chapter on [Robert's Rules of Order for Clerks].)
 
 ### 3. Consistency {-}
 
@@ -27,11 +27,11 @@ A clerk of session should be sure to have a permanent record of both regular and
 * **The board of deacons**. While deacons' minutes do not need to be submitted to the presbytery for review, they do need to be submitted to the *session* ([BCO 11.4](https://evangel.pressbooks.com/chapter/11-the-deacon/)). The clerk of session will most often rely on the secretary of the board of deacons to keep minutes for deacons meetings, but it is still the clerk's responsibility to ensure these minutes are accurate, well organized, and available for review.
 * **The congregation**. Because of the size of the body meeting, congregational meetings are often more formal in their proceedings than session meetings. Minutes for congregational meetings are just as important as session meetings and should adhere to the same principles as session minutes.
 
-A church may have many committees that meet regularly, and many of those committees will choose to take minutes. However, it is not necessary for the clerk of session to have a permanent record of all committees' minutes.
+A church may have many committees that meet regularly, and those committees may choose to take minutes. However, it is not necessary for the clerk of session to have a permanent record of all committees' minutes.
 
 ## Where to Take Minutes
 
-We strongly recommend taking and circulating minutes for review and approval in the body of an email.
+We strongly recommend taking and circulating minutes for review in the body of an email.
 
 - Email programs allow basic text formatting (bold, italics, lists, etc.) without the problems associated with attachments. Attachments clutter up hard drives and can't be searched as easily as email can be.
 - Taking minutes in the body of an email helps reduce conflicting versions of minutes.
@@ -46,7 +46,7 @@ We recommend using a consistent pattern in subject lines of emails with minutes.
 
 For example:
 
-> TPC Special Called Session Meeting Minutes 2022-03-30 - FOR REVIEW
+> TPC Special Called Session Meeting Minutes 2022-03-30 FOR REVIEW
 
 Following a consistent pattern in subject lines will make it much easier to search for minutes in your email archives.
 
@@ -59,7 +59,7 @@ The following is a recommended (but not required) process for ensuring that minu
 3. **Send moderator-reviewed minutes to session members for review before the meeting at which they will be adopted.** Provide sufficient time for review. Avoid sending minutes out the day of the meeting where they are to be adopted. It is best to give a few days or a week for session members to review minutes and to provide you with any additional corrections prior to the meeting where they are to be adopted. When exactly you send minutes may depend on the preferences of the members and/or the moderator of your particular session.
 4. **Provide a copy of the reviewed minutes to the session at the meeting where they are to be adopted.**
 5. **Help ensure that the session votes to adopt the reviewed minutes.** This most often happens at the beginning of a session meeting. It may occasionally happen via email.
-6. **File newly adopted minutes with the permanent record of minutes immediately after the meeting where they are officially adopted.** For good filing practices, see [Organization of Records].
+6. **File newly adopted minutes with the [permanent record](The Permanent Record) of minutes immediately after the meeting where they are officially adopted.** For good filing practices, see [Organization of Records].
 
 The same process outlined above can be used by the session to review and approve congregational meeting minutes as well.
 
@@ -93,7 +93,7 @@ Location (and/or virtual app used for meeting remotely)<br /><br /></p>
 
 <p class="level2">b.\ Adoption of previous meeting minutes<br /><br /></p>
 
-<p class="level2">c.\ Recording of any actions taken by email between meetings, if applicable<br /><br /></p>
+<p class="level2">c.\ Recording of any actions taken by email between meetings (if applicable)<br /><br /></p>
 
 <p class="level2">d.\ Attendance, membership, statistics, etc.<br /><br /></p>
 
