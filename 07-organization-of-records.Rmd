@@ -4,6 +4,8 @@ Keeping church records well organized is one of the clerk's most important dutie
 
 ## Meeting Minutes
 
+### File Names {-}
+
 It's important to be consistent with your files names. We suggest the following: 
 
 > YYYY-MM-DD Church Name or Abbreviation Body and Meeting
@@ -17,6 +19,8 @@ or
 > 2021-09-23 TRC Special Called Session Meeting Minutes
 
 Using the date format YYYY-MM-DD at the *beginning* of your file name means that when your minutes files are sorted alphabetically, they will *also* be sorted chronologically.
+
+### Folder Structue {-}
 
 To organize your files on your computer, we suggest the following:
 
@@ -41,13 +45,13 @@ To organize your files on your computer, we suggest the following:
 
 To ensure that there is one and only one *official* version of any minutes, we discourage including temporary folders such as "Waiting for Session Approval" in the file structure listed above for the permanent record. 
 
-If you follow our [guidelines for keeping minutes](keeping-minutes.html), then minutes which are in the process of being approved will be sent out by email. Everyone who had a part in the meeting will then have a time-stamped record of the minutes. Once final changes are made and minutes have been approved, however, they should be added to the permanent record.
+If you follow our [guidelines for keeping minutes](keeping-minutes.html#where-to-take-minutes), then minutes which are in the process of being approved will be sent out by email. Everyone who had a part in the meeting will then have a time-stamped record of the minutes. Once final changes are made and minutes have been approved, however, they should be added to the permanent record.
 
 ### Attachments {-}
 
 At times, attachments will need to be added to approved minutes. When added to the permanent record, those attachments should be included in the file containing the minutes and *not* left as a separate file.
 
-## Trials
+## Trial Records
 
 The overall duties of a clerk of session regarding official church discipline are described [here](church-discipline-records.html). As stated [here](church-discipline-records.html#duties-of-the-clerk), the clerk must ensure that there is a permanent, official record of the following:
 
@@ -64,28 +68,27 @@ The minutes of a court proceeding should include:
 * all such acts, orders, and decisions of the court relating to the case, as either party may desire, and
 * the judgment.
 
-## Miscellaneous
+## Other Important Documents
 
 A clerk of session should work closely with a member of the church staff to organize and maintain the following additional documents:
 
-* Bylaws
-* Annual Clerks Reports
+* Bylaws (see [Governing Documents])
+* Annual [Statistical Reports]
 * Church Budgets
-* Church Position Papers
-* Membership Records and Forms
-* Legal and Tax Documents
-* Annual Budgets
-* Documents Submitted to Evangel Presbytery for Review
+* Church [Position Papers]
+* [Membership Records] and Forms
+* Legal and Tax Documents (see Civil Government)
+* Documents Submitted to Evangel Presbytery for Review (see [Submission of Records to Presbytery])
 * *Etc.*
 
 ## Backups
 
-Most minutes are kept digitally these days, so it's important that you maintain backups of your important files. A good backup plan ensures that there are always 3 copies of your files at all times.
+Most minutes are kept digitally these days, so it's important that you maintain backups of your important files. A good backup plan ensures that there are always three copies of your files at all times.
 
 For instance:
 
-1. Files are on your computer, *and*
-2. Files are being synced regularly with a cloud service like [Google Drive](https://drive.google.com) or [Dropbox](https://dropbox.com), *and*
-3. Files are being backed up regularly with a service like [Backblaze](https://www.backblaze.com).
+1. files are on your computer, *and*
+2. files are being synced regularly with a cloud service like [Google Drive](https://drive.google.com) or [Dropbox](https://dropbox.com), *and*
+3. files are being backed up regularly with a service like [Backblaze](https://www.backblaze.com).
 
 For added security, you can also connect to a hard drive on your local network to run regular backups.
