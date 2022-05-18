@@ -1,18 +1,20 @@
 # Membership Records
 
-NOTE: Include annual statistical reports in this section.
+The clerk is responsible for keeping the rolls and registers of the church. The rolls are the official lists of members and the nature of their membership status. The registers are official lists of important occurrences in the life of the church and its members.
 
-## Types of membership 
+## Types of Membership 
 
-Church membership in congregations of Evangel Presbytery consists of two types: communicant and non-communicant membership. The former is all those who have been made a credible profession of faith, been baptized, and been accepted by the session for membership; the latter comprises the children of communicant members. 
+Church membership in congregations of Evangel Presbytery consists of two types:
 
-Within these, individual congregations may specify further distinctions through their bylaws; for example, commonly a church will restrict voting to communicant members over the age of 18. Or, churches may provide for associate members who have all the privileges of full members except for voting.
+>**Communing** members are those who have made a profession of faith in Christ, have been baptized, and have been admitted by the Session to the Lord’s Table. The children of communing members are, through the covenant and by right of birth, **non-communing** members of the church. ([BCO 7](https://evangel.pressbooks.com/chapter/7-church-members/), emphasis added) 
 
-## Clerk's responsibilities
+Beyond this, individual congregations may specify further distinctions through their bylaws; for example, a church will commonly restrict voting privileges to communicant members over the age of 18. Or, churches may provide for *associate* members who have all the privileges of full members except for voting.
 
-As the clerk is charged with keeping the rolls and registers of the church, it falls to him to handle many membership processes. One such common process is the adding or removal of members to the rolls of the church. Particular steps will differ by individual church, but a good guideline for procedure is as follows:
+## Adding and Removing Members
 
-### A typical membership approval process {-}
+As the clerk is charged with keeping the rolls and registers of the church, it falls to him to handle many membership processes. One such common process is the adding or removing of members to the rolls of the church. Particular steps will differ by individual church, but good guidelines for common procedures are as follows:
+
+### A typical membership approval process
 
 #. Individual expresses interest in membership.
 #. Inquiry sent by individual to former church, asking for letter of good standing.
@@ -22,17 +24,17 @@ As the clerk is charged with keeping the rolls and registers of the church, it f
 #. Office notified; either office or interviewing elders inform member of decision.
 #. Members give vows in front of congregation.
 #. Letter of transfer sent to former church.
-#. Clerk updates registers.
+#. Clerk updates rolls and registers.
 
-### A typical membership removal (non-transfer) process {-}
+### A typical membership removal (non-transfer) process
 
 #. Member requests removal.
-#. Session determines whether removal is valid (i.e., if discipline process underway) (see BCO 41.3 for other factors).
+#. Session determines whether removal is valid (i.e., if discipline process underway) (see [BCO 41.3](https://evangel.pressbooks.com/chapter/41-cases-without-process/) for other factors).
 #. Session votes on removal.
-#. Clerk sends letter to former member.
+#. Clerk sends letter of dismissal to former member.
 #. Clerk updates registers.
     
-### Membership removal in case of excommunication {-}
+### Membership removal process in case of excommunication
 
 #. Judicatory recommends excommunication to full session (or carries it out itself, as a commission).
 #. If required, session votes on excommunication.
@@ -40,38 +42,39 @@ As the clerk is charged with keeping the rolls and registers of the church, it f
 #. Clerk updates the register.
 #. Announcement made to congregation.
 
-### Membership removal without process in cases of non-attendance (BCO 41.4) {-}
+### Membership removal without process in cases of non-attendance ([BCO 41.4](https://evangel.pressbooks.com/chapter/41-cases-without-process/))
 
 #. Session reminds member of his vows and warn him of erasure from roll.
 #. If no response after inquiry and due delay, session votes to erase member from roll.
-#. Clerk sends letter to former member.
+#. Clerk sends letter of dismissal to former member.
 #. Clerk updates the register.  
 
-### Sending letters {-}
+### Sending Letters
 
-To speed the process of sending letters in the above procedure, a clerk may wish to use templates for commonly sent letters such as inquiries about [good standing](https://github.com/Evangel-Presbytery/clerks-handbook/files/8682841/Good.standing.pdf), [transfer letters](https://github.com/Evangel-Presbytery/clerks-handbook/files/8682848/Transfer.notification.letter.pdf), [dismissal letters](https://github.com/Evangel-Presbytery/clerks-handbook/files/8682850/Membership.removal.for.non.attendance.template.pdf), [inquiries about membership status for members who relocate](https://github.com/Evangel-Presbytery/clerks-handbook/files/8682852/Member.relocated.attendance.inquiry.pdf), or [exhortations toward church attendance](https://github.com/Evangel-Presbytery/clerks-handbook/files/8682853/Attendance.inquiry.pdf). 
+To speed the process of sending letters in the above procedures, a clerk may wish to use templates for commonly sent letters such as [responses to inquiries about good standing](https://github.com/Evangel-Presbytery/clerks-handbook/files/8682841/Good.standing.pdf), [transfer letters](https://github.com/Evangel-Presbytery/clerks-handbook/files/8682848/Transfer.notification.letter.pdf), [dismissal letters](https://github.com/Evangel-Presbytery/clerks-handbook/files/8682850/Membership.removal.for.non.attendance.template.pdf), [inquiries about membership status for members who relocate](https://github.com/Evangel-Presbytery/clerks-handbook/files/8682852/Member.relocated.attendance.inquiry.pdf), or [exhortations toward church attendance](https://github.com/Evangel-Presbytery/clerks-handbook/files/8682853/Attendance.inquiry.pdf). 
 
-### Note {-}
+## Synchronization of Membership Records
 
-A variety of methods may be used for keeping the rolls and registers. In all cases, however, care must be taken that the various methods are synchronized: that is, that changes are made among them all. If, for example, a church's roll is kept in a Microsoft Excel file but the church also uses a person management software, the clerk must ensure that a change to the roll in one location is carried out in the other as well. Changes are also to be kept in the minutes, which serve as the final and most authoritative record. 
+A variety of methods may be used for keeping the rolls and registers. In all cases, however, care must be taken that the various methods are synchronized: that is, that changes are made among them all. If, for example, a church's roll is kept in a Microsoft Excel file but the church also uses a church management software (ChMS) or constituent relationship management software (CRM), the clerk must ensure that a change to the roll in one location is carried out in the others as well. Changes to membership are also to be kept in the minutes, which serve as the final and most authoritative record.
 
-## Statistical reports
+## Statistical Reports
 
-Evangel's BCO requires that, once per year, each member church send along with its complete session minutes and annual budget a statistical report. This report must include the following items:
+Evangel's BCO requires that, once per year, each member church send along with its complete session minutes and annual budget a statistical report. (See [Submission of Records to Presbytery] and [Appendix\ 1 of the presbytery's bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf) for more information.) This report should include the following items, as applicable:
 
 * Officers of the church
-* Baptisms (with credo- and paedobaptisms distinguished)
-* Infant dedications
-* Admissions to the Lord's Supper
-* Dates of administration of the Lord's Supper
-* New communicant members
-* Dismissals
-* Excommunications
 * All communicant members (with voting and non-voting members distinguished)
-* All non-communicant members
+* All non-communicant members<br />*All the following should include dates:*
+* All new communicant and non-communicant members
 * Births of members
+* Baptisms (with infant baptisms and baptisms of those professing faith distinguished)
+* Infant dedications
+* Admissions of non-communing members to the Lord's Supper
+* Dates of celebration of the Lord's Supper
+* Dismissals from membership, including the reason (transfer, excommunication, etc.)
 * Marriages of members
 * Deaths of members
 * Marriages and baptisms of non-members but performed by pastors of the church or on church grounds
 
-If, as often, this statistical report is presented for a congregation's annual meeting, it is also useful to give statistics regarding the demographic change of the congregation over the previous year (e.g., percent of growth, a breakdown of the church by age group, etc.).
+If, as often, this report is presented for a congregation's annual meeting, it may also be useful to give statistics regarding the demographic change of the congregation over the previous year (e.g., percentage growth, a breakdown of the church by age group, etc.).
+
+Click [here](https://clerks.evangelpresbytery.com/Church-Annual-Statistical-Report-Template.docx) to download a template which can be used for building your annual statistical report. It will most likely need to be adapted to meet the needs of your particular church.
