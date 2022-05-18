@@ -1,80 +1,96 @@
 # Robert's Rules of Order for Clerks
 
-It is common for a church's bylaws to specify that session meetings will be run according to "the latest edition of _Robert's Rules of Order_." As clerk of session you will often be the de facto parliamentarian—the person who has enough familiarity with Robert's Rules to help the moderator navigate situations where he is unsure of the proper steps.
+It is common for a church's bylaws to specify that session meetings will be run according to "the latest edition of _Robert's Rules of Order_." As clerk of session you will often be the de facto parliamentarian—the person who has enough familiarity with Robert's Rules (and general rules of parliamentary procedure) to help the moderator navigate situations where he is unsure of the proper steps.
 
-## Get it, read it
-The following is a mix of Robert's Rules and advice. The parts that are from Robert's Rules are cited. All such citations are from _Robert's Rules of Order Newly Revised, 12th edition._ Get [the authoritative edition](https://robertsrules.com/books/newly-revised-12th-edition/) and read it, it will help you.
+In general, the goal of following Robert's Rules of Order is to promote peace within the session. This is accomplished by preserving the *will of the majority* while also preserving the *voice of the minority*.
+
+The following is a mix of Robert's Rules and general advice regarding good order. The parts that are from Robert's Rules are cited. All such citations are from the 12th edition of *Robert's Rules of Order Newly Revised* (RONR). You can get the authoritative edition [here](https://robertsrules.com/books/newly-revised-12th-edition/). We encourage clerks to get it and read it. There is also an abbreviated edition, [*Robert's Rules of Order In Brief*](https://robertsrules.com/books/newly-revised-3rd-in-brief-edition/).
 
 ## Important Terms for Sessions
 
-* **M/S/A**: Motion Seconded and Approved.
-* **Call the Question**: If successful, this puts an end to debate and causes a vote on the motion being discussed. Also called "Previous Question." --RONR 16:1.
-* **Orders of the Day**: Agenda items that are pre-agreed on to happen at certain time. Commonly used to set a standard meeting end time. --RONR 41:41.
-* **Adjournment**: Ending the meeting. You'll need to set a time you're adjourning to, unless you've already approved a meeting schedule.
-* **Quorum**: The minimum number of members who must be present in order to conduct business. --RONR 3:3.
+* **M/S/A, short for Moved, Seconded, Approved** – This tends to be the most frequent application of Robert's Rules in session meetings. The normal process is for a member of the session to move that the board take some action. The motion then requires a second from another member of the session (but see [Small Boards] below); only after a second can the motion be discussed. After discussion (if there is any), the session votes on whether or not to approve the motion.
+* **Consensus** – This is the generally expressed will of the session, and can be used to take official action. Which is to say, not every action needs to be M/S/A, especially in [Small Boards].
+* **Call the Question** – If successful, a motion to call the question puts an end to debate and causes an immediate vote on the motion being discussed. Also called "Previous Question" (see RONR 16:1).
+* **Orders of the Day** – This helps ensure that [agenda](Following the Agenda) items that are pre-agreed on happen at a certain time. It is commonly used to set a standard meeting end time. If an end time has been set, and that time is reached, a member may move to extend orders of the day by a certain amount of time in order for discussion to continue (see RONR 41:41). (See [Orders of the Day] below.)
+* **Adjournment** – This means ending the meeting, but technically with the intention of reconvening as a body at a later time. A motion to adjourn requires a set time you're adjourning *to*, most likely the next meeting. If the session has a regular meeting schedule, it is implied that the motion to adjourn is proposing adjournment to the next regular scheduled meeting. (See [Motion to Adjourn] below.)
+* **Quorum** – A quorum is the minimum number of members who must be present in order to conduct business (RONR 3:3). See [BCO 14.1](https://evangel.pressbooks.com/chapter/14-the-church-session/) for Evangel Presbytery's definition of a quorum for session meetings.
 
-## Important Situations
+## Handling Common Situations
 
-Here are helps for some situations that you may encounter:
+### Approval of Minutes
 
-### Approval of minutes
-Minutes of past meetings must be approved by the board. If you keep up with this, at each meeting you will be approving just the minutes of the most recent past meeting. Help the moderator to remember the approval. And note this:
-
-> A formal motion to approve the minutes is not necessary, although such a motion is not out of order... --RONR 41:10
-
-"Are there any \[further] corrections?" "There being no \[further] corrections, the minutes stand approved \[as corrected]." --See RONR 41:11.
+Minutes of past meetings must be approved by the board. If you keep up with this, at each meeting you will be approving just the minutes of the most recent past meeting. Note that "A formal motion to approve the minutes is not necessary, although such a motion is not out of order" (RONR 41:10). Minutes are often simply approved by consensus. For a recommended approval process, see [Adoption Process for Session Minutes].
 
 ### Following the Agenda
-Members of the board generally have the privilege of introducing new items of business during the "New Business" section of a meeting (RONR 41:27). If there is an agenda that determines what business is in order for the meeting, that agenda must be approved by the board (typically at the beginning of the meeting) to be binding (RONR 41:61-62). The important thing here is you want to preserve the ability of a board member to bring up a topic (the voice of the minority).
+
+An agenda exists for the purpose of disciplining a board to stay on task. If there is an agenda that determines what business is in order for the meeting, that agenda must be approved by the board (typically at the beginning of the meeting) in order to be binding (RONR 41:61–62). Members of the board generally have the privilege of introducing new items of business during the "New Business" section of a meeting (RONR 41:27).
 
 ### Orders of the Day
-Some boards have a standard ending time for their meetings. This is called "Orders of the day" (RONR 41:41). As clerk, don't necessarily yell it out the minute you reach "orders of the day". Be sensitive to the conversation that's going on and bring it up at the earliest opportune moment.
+
+As stated [above](Important Terms for Sessions), some boards have a standard ending time for their meetings. This is called "orders of the day" (RONR 41:41). It may fall to you as the clerk to help the session conduct its business within its own agreed-upon time limits. However, it is important that you do so while being sensitive to the conversation that's going on, and that you wait for an appropriate moment to bring up orders of the day. That moment is probably not the very second the clock strikes 9 p.m.
 
 ### Recording Motions
-As clerk you are responsible to record motions in the minutes. Sometimes it can be a challenge to know exactly what the motion is, as several people may have been contributing ideas. If your board is operating informally, the clerk must work to discern between what is simply brainstorming (that doesn't need to be recorded) and what is a developing consensus decision on a matter. He must keep current on the changing text of the motion (typically this involves typing and editing on a laptop computer) so that when called upon to read the motion he may do so without delay.
 
-Don't become paralyzed if you are not sure what is in and what is out of the motion. You can speak up and ask for clarification if needed, but try not to do this too much as you don't want to dominate the discussion. Generally you just need to make a judgment call as to what you believe the current motion is. When called upon to read the motion you will be corrected if there is disagreement over what's being voted on.
+As clerk you are responsible to record motions in the minutes. Sometimes it can be a challenge to know exactly what the motion is, especially if there has been extended discussion about the motion. The clerk must pay close attention, and he is often looked to as the source for the current state of the motion. Feel free to speak up and ask for clarification (but avoid dominating the discussion with requests for clarifications). It is always a good idea to read a motion before proceeding to a vote. The importance of doing so is heightened by the length of discussion, as well as the gravity, complexity, and nuance of the motion being voted on. (For general information on keeping good minutes, see [Keeping Minutes].)
 
-If the moderator calls for the vote on a motion that has had significant discussion and you *haven't* been asked to read the motion, interrupt before the vote to ask, "May I read the motion as I currently have it?" or a more particular "Did we end up proposing to send two of us or is just X being sent?"
+#### Amended Motions {-}
 
-If you apply yourself to this work you will learn your elder's board and you'll get better at these judgment calls.
+Motions will often be amended before they are finally voted on. This commonly takes place in the following order of events:
 
-#### Amended Motions
-For motions that are amended, you almost never need to record the original version of the motion in the minutes. You just record the version you ended up with just before the final vote, and then if it is adopted you say, "Adopted as amended." (RONR 48:4(6)(a); see 48:8 for an example.)
+1. Member A makes a motion.
+2. Member B seconds Member A's motion.
+3. The session discusses Member A's motion.
+   1. Member C makes a motion to amend Member A's motion.
+   2. Member D seconds Member C's motion to amend Member A's motion. (If there is consensus that the amendment enhances the original motion, the amendment can be considered a "friendly amendment," and the session can skip to the final step of approving the original motion, as amended, without having to formally vote on the amendment.)
+   3. The session discusses Member C's proposed amendment to Member A's motion.
+   4. The session votes on Member C's amendment to Member A's motion.
+4. If necessary, the session continues to discuss the motion as amended (if the amendment was approved).
+5. The session votes on Member A's motion (as amended, if the amendment was approved).
 
-Occasionally the elders board may have a motion with an amendment (and possibly an amendment of the amendment) pending and the board decides that it no longer wants to deal with the main motion or its amendments. In this case a motion is in order to "postpone to a definite time" (say next elders' meeting) or to "postpone indefinitely." If such a motion is approved, it dismisses the previous main motion *and all of its pending amendments* with that one vote. In such a case, the minutes will need to record the current state of the motion and all pending amendments (RONR 48:4(6)(b). This is one of the only times you ever need to record the contents of amendments and other than the final version of a motion in the minutes.
+For amended motions, you almost never need to record the original version of the motion in the minutes. You just record the version you ended up with and which was finally voted on. Then, if it is approved, you record, "Approved as amended." (See RONR 48:4(6)(a); see 48:8 for an example.)
+
+Occasionally, the elders board may have a motion with an amendment (and possibly an amendment of the amendment) pending, and the board decides that it no longer wants to deal with the main motion or its amendments. In this case a motion is in order to "postpone to a definite time" (say, the next session meeting) or to "postpone indefinitely." If such a motion is approved, it dismisses the previous main motion *and all of its pending amendments* with that one vote. In such a case, the minutes will need to record the current state of the motion and all pending amendments (RONR 48:4(6)(b)). This is one of the only times you ever need to record the contents of amendments and something other than the final version of a motion in the minutes.
 
 ### Motion to Adjourn
-The moderator should generally ask for a motion to adjourn rather than simply adjourning the meeting on his own authority (see e.g. RONR 21:14-15). Asking for a motion to adjourn gives anyone who needs to a chance to bring up important business before the meeting is over. A motion to adjourn is not debatable or amendable - if the body doesn't want to do it the motion simply gets voted down and you proceed with business.
 
-## Be Free!
+The moderator should generally ask for a motion to adjourn rather than simply adjourning the meeting on his own authority (see RONR 21:14–15). Asking for a motion to adjourn gives anyone who needs to a chance to bring up important business before the meeting is over. A motion to adjourn is not debatable or amendable; if the body doesn't want to adjourn, the motion simply gets voted down and you proceed with business.
+
+## Robert's Rules Was Made for Man, and Not Man for Robert's Rules
+
+Remember that Robert's Rules of Order is intended to enhance and not to hamper the work of a deliberative body. Here are some liberating provisions straight from Robert's Rules which you might not know about:
 
 ### Small Boards
+
 Robert's Rules explicitly calls for less formality when the size of the board is small:
 
-> In a board meeting where there are not more than about a dozen members present, some of the formality that is necessary in a large assembly would hinder business. The rules governing such meetings are different from the rules that hold in other assemblies, in the following repects... --RONR 49:21
+> In a board meeting where there are not more than about a dozen members present, some of the formality that is necessary in a large assembly would hinder business. The rules governing such meetings are different from the rules that hold in other assemblies… (RONR 49:21)
 
 For instance:
 
-* Motions do not need a second (though see below about custom) 
-* Informally discussing subjects is allowable when there's not a motion currently pending
-* The chairman can participate in debates and in informal discussions and can vote on matters (unless your bylaws specify that he doesn't have a vote) -- all without leaving the chair (i.e. without temporarily stepping down as moderator as you do in a large assembly)
+* Motions do not need a second (though see below about [custom](Custom)).
+* Informally discussing subjects is allowable when there's not a motion currently pending.
+* The moderator can participate in debates and in informal discussions and can vote on matters (unless your bylaws specify that he doesn't have a vote)—all without leaving the chair (i.e., without temporarily stepping down as moderator as you do in a large assembly).
 
-This is all addressed in RONR 49:21.
+See RONR 49:21 for more information.
 
 ### Custom
-It is not against Robert's Rules for a board to have its own customs...
 
-> In some organizations, a particular practice may sometimes come to be followed as a matter of established custom so that it is treated practically as if it were prescribed by a rule. If there is no contrary provision in the parliamentary authority or written rules of the organization...  --RONR 2:25
+It is not against Robert's Rules for a board to have its own customs. After all, Robert's Rules itself is just a commonly accepted custom which a board may opt to follow.
+
+> In some organizations, a particular practice may sometimes come to be followed as a matter of established custom so that it is treated practically as if it were prescribed by a rule. If there is no contrary provision in the parliamentary authority or written rules of the organization, such an established custom is adhered to unless the assembly, by  majority vote, agrees in a particular instance to do otherwise. (RONR 2:25)
 
 For example, a small board might by custom require a second on formal motions. There may be no need to have this custom written down. You simply observe it.
 
-When a custom is called into question, it may sometimes make sense to take a vote on it that's then entered in the minutes and documented as a decision of the board.
+When a custom is called into question, it may sometimes make sense to take a vote on it that's then entered into the minutes and documented as a decision of the board.
 
 ## Congregational Meetings
-Congregational meetings are necessarily more formal than session meetings because they involve more people. Here are some things to know:
 
-* **Who's clerk?**: Depending on your church bylaws, you may automatically be clerk of congregational meetings by virtue of being clerk of session; or a clerk may need to be elected. Know your bylaws and help the moderator know what is supposed to be done.
-* **What's a quorum?**: The clerk of the meeting will need to establish a quorum in order to conduct business at the meeting. Consult your church bylaws beforehand to know how many members constitute a quorum.
-* **Ballots**: If your church bylaws call for voting by secret ballot, ensure that such ballots are prepared for the meeting.
-* **Minutes**: The clerk is responsible for taking minutes of the congregational meeting.
+Many of the above principles for good order apply equally to congregational meetings. However, congregational meetings are necessarily more formal than session meetings because they involve more people. For instance, informal discussion, while appropriate in many session meetings, is almost always unhelpful in the context of a congregational meeting.
+
+Here are some questions regarding congregational meetings to make sure you know the answers to:
+
+* **Who's the clerk?** Depending on your church bylaws, you may automatically be the clerk of congregational meetings by virtue of being the clerk of session; or a clerk may need to be elected. Know your bylaws and help the moderator know what is supposed to be done.
+* **Who takes minutes?** The clerk is responsible for taking minutes for the congregational meeting. For more information on who takes minutes, see [The Clerk's Help].
+* **What's a quorum?** The clerk of the meeting will need to establish a quorum in order for business to be conducted at the meeting. Consult your church bylaws beforehand to know how many members constitute a quorum.
+* **What about ballots?** If your church bylaws call for voting by secret ballot, ensure that such ballots are prepared for the meeting. Also make sure there's a process in place for collecting and counting ballots.
+* **What constitutes a majority?** Know what your bylaws require in order for a vote to pass. In some cases, a supermajority, i.e., *more* than a 50% majority, is required to take action, especially on significant matters like amending the church's constitution. Also know what your bylaws say about whether the majority required is a majority of all members, a majority of those present at a meeting, or a majority of the votes cast. The last is the most common and is recommended for most procedures.
