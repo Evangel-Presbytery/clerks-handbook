@@ -57,7 +57,7 @@ The [censures](https://evangel.pressbooks.com/chapter/33-church-censures/) which
 
 For more information, see [BCO 33](https://evangel.pressbooks.com/chapter/33-church-censures/), [39](https://evangel.pressbooks.com/chapter/39-the-infliction-of-church-censures/), and [40](https://evangel.pressbooks.com/chapter/40-the-removal-of-censure/).
 
-<--! TOC of Evangel Rules of Discipline…
+<!--- TOC of Evangel Rules of Discipline…
 ## Evangel Presbytery Rules of Discipline
 
 30. [Discipline—Its Nature, Subjects, and Ends](https://evangel.pressbooks.com/chapter/30-discipline-its-nature-subjects-and-ends/)
@@ -80,4 +80,4 @@ For more information, see [BCO 33](https://evangel.pressbooks.com/chapter/33-chu
 47. [Voting in Appeals and Complaints](https://evangel.pressbooks.com/chapter/47-voting-in-appeals-and-complaints/)
 48. [Dissents, Protests, and Objections](https://evangel.pressbooks.com/chapter/48-dissents-protests-and-objections/)
 49. [Jurisdiction](https://evangel.pressbooks.com/chapter/49-jurisdiction/)
--->
+--->
