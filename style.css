@@ -84,6 +84,10 @@ a:hover {
     background-color: #686868 !important;
 }
 
+main ul > li > ul {
+    list-style-type: circle;
+}
+
 ul.folder-outline, .folder-outline ul {
     list-style-type: none;
     margin-left: .1em;
