@@ -63,9 +63,7 @@ Evangel's BCO requires that, once per year, each member church send along with i
 
 * Officers of the church
 * All communicant members (with voting and non-voting members distinguished)
-* All non-communicant members  
-  
-*All the following should include dates:*
+* All non-communicant members<br /><br />*All the following should include dates:*
 * All new communicant and non-communicant members along with dates of their reception
 * Births of members
 * Baptisms (with infant baptisms and baptisms of those professing faith distinguished)
