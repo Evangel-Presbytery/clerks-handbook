@@ -36,6 +36,9 @@ offenses
 church-censures
 organization-of-records
 meeting-minutes
+file-names
+folder-structure
+attachments
 trial-records
 other-important-documents
 backups
@@ -44,6 +47,9 @@ what-to-include
 what-not-to-include
 formatting
 after-review
+types-of-exception
+correcting-exceptions
+recommendations
 roberts-rules-of-order-for-clerks
 important-terms-for-sessions
 handling-common-situations
