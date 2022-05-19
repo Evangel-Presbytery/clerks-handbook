@@ -10,7 +10,7 @@ description: "This is a handbook for Evangel Presbytery clerks of session."
 
 # Overview
 
-Welcome to Evangel Presbytery's handbook for clerks of session. This resource is not part of Evangel's officially adopted governing documents; it is simply intended to make the work of clerks of session easier, more efficient, and more reliable. It consolidates information from Evangel's [Book of Church Order](https://evangel.pressbooks.com/) (BCO) and [Bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf) as they pertain specifically to clerks of session. Additionally, this handbook offers practical resources and guidance for carrying out the clerk's duties.
+Welcome to Evangel Presbytery's handbook for clerks of session. This resource is not part of Evangel's officially adopted governing documents; it is simply intended to make the work of clerks of session easier, more efficient, and more reliable. It consolidates information from Evangel's [Book of Church Order](https://evangel.pressbooks.com/) (BCO) and [bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf) as they pertain specifically to clerks of session. Additionally, this handbook offers practical resources and guidance for carrying out the clerk's duties.
 
 ## The Importance of Keeping Good Records
 
@@ -50,7 +50,7 @@ This handbook is organized according to the stated clerk's areas of responsibili
 * [Church Discipline Records]
 * [Organization of Records]
 * [Submission of Records to Presbytery]
-* [Rules of Order for Sessions](Robert's Rules of Order for Clerks)
+* [Rules of Order for Sessions](https://clerks.evangelpresbytery.com/roberts-rules-of-order-for-clerks.html)
 
 ## The Clerk's Help
 

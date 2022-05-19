@@ -63,8 +63,10 @@ Evangel's BCO requires that, once per year, each member church send along with i
 
 * Officers of the church
 * All communicant members (with voting and non-voting members distinguished)
-* All non-communicant members<br />*All the following should include dates:*
-* All new communicant and non-communicant members
+* All non-communicant members  
+  
+*All the following should include dates:*
+* All new communicant and non-communicant members along with dates of their reception
 * Births of members
 * Baptisms (with infant baptisms and baptisms of those professing faith distinguished)
 * Infant dedications
@@ -77,4 +79,6 @@ Evangel's BCO requires that, once per year, each member church send along with i
 
 If, as often, this report is presented for a congregation's annual meeting, it may also be useful to give statistics regarding the demographic change of the congregation over the previous year (e.g., percentage growth, a breakdown of the church by age group, etc.).
 
-Click [here](https://clerks.evangelpresbytery.com/Church-Annual-Statistical-Report-Template.docx) to download a template which can be used for building your annual statistical report. It will most likely need to be adapted to meet the needs of your particular church.
+### Statistical Report Template {-}
+
+To download a template which can be used for building your annual statistical report, choose one of the following file types: [.docx](https://clerks.evangelpresbytery.com/Church-Annual-Statistical-Report-Template.docx), [.doc], [.rtf], [.odt], [.pdf]. The template will need to be adapted to meet the needs of your particular church.

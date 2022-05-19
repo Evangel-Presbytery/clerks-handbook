@@ -10,16 +10,16 @@ In general, the process of formal discipline is as follows:
 
 #. The court of jurisdiction (the local session or the presbytery) should **hear charges** against the accused, or establish a judiciary committee to do so. All charges brought before either the session or presbytery must be reduced to writing.
 #. The judiciary should have their **first meeting** and must send a written indictment to the accused.
-#. No less than ten days after the indictment is served, the judiciary should meet a **second time** with the accused present to read the charges and hear whether or not the accused pleads guilty.
+#. No less than ten days after the indictment is served, the judiciary should **meet a second time** with the accused present to read the charges and hear whether or not the accused pleads guilty.
 #. No less than fourteen days later, the judiciary, along with the accused and all witnesses, should meet together for a **trial**.
-#. Once the trial is complete, the clerk must assemble the **[Record of the Case](The Record of the Case)**.
+#. Once the trial is complete, the clerk must assemble the **record of the case** (see below).
 #. **Appeals**, if any, must be made in writing within thirty days of notification of the court's decision.
 
 ## The Record of the Case
 
 It is common in judicial proceedings for the session to appoint a judicial committee to work through the whole disciplinary process. The clerk should work closely with the judicial committee to ensure that all written materials pertaining to the proceedings are recorded and stored properly.
 
-The Clerk's primary responsibility is to assemble the **Record of the Case**. It should include:
+The Clerk's primary responsibility is to assemble the record of the case. It should include:
 
 * the charges, 
 * the answer, 
@@ -27,6 +27,7 @@ The Clerk's primary responsibility is to assemble the **Record of the Case**. It
 * the minutes of all meetings required in the process of formal discipline.
 
 The minutes of a trial should include the items listed above as well as the following:
+
 * all the testimony,
 * all such acts, orders, and decisions of the court relating to the case, as either party may desire, and 
 * the judgment.
@@ -41,13 +42,13 @@ As [stated earlier](https://clerks.evangelpresbytery.com/index.html#the-stated-c
 
 ### Offenses
 
-As stated in [BCO 32.1](https://evangel.pressbooks.com/chapter/32-offenses/):
+As stated in [BCO 32.1](https://evangel.pressbooks.com/chapter/32-offenses/),
 
 >An offense, the proper object of judicial process, is anything in the principles or practice of a church member professing faith in Christ, which is contrary to the Word of God.
 
 ### Church Censures
 
-The [censures](https://evangel.pressbooks.com/chapter/33-church-censures/) which may be inflicted by church courts are:
+The censures which may be inflicted by church courts are:
 
 * admonition, 
 * suspension from the Sacraments, 

@@ -4,32 +4,32 @@ Clerks should be aware of the governing documents of their church and know how t
 
 ## Church Government
 
-Churches within Evangel Presbytery are governed by:
+Each church within Evangel Presbytery is governed by:
 
 1. Evangel Presbytery's [Book of Church Order (BCO)](https://evangel.pressbooks.com) and 
-2. their own bylaws. 
+2. its own bylaws. 
 
 Whenever the bylaws of a particular church and the BCO conflict, the BCO takes precedence. However, it is common for church bylaws to be *more* specific than the BCO in areas where they do not conflict. For example, many churches specify that members must be a certain age to vote, whereas the BCO is silent on that question. If a church finds that its bylaws are in conflict with the BCO, it should work to bring those bylaws into conformity with the BCO.
 
 The process for amending Evangel's BCO can be found in [BCO 29](https://evangel.pressbooks.com/chapter/29-amending-the-constitution-of-the-church/).
 
-Evangel Presbytery itself is also governed by [its own set of bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf). These are separate from the BCO and do not apply to churches, since they pertain only to the presbytery's governance of its own procedures.
+Evangel Presbytery itself is also governed by [its own bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf). These are separate from the BCO and do not apply to churches, since they pertain only to the presbytery's governance of its own procedures.
 
 ## Civil Government
 
 1. Each particular church must file **articles of incorporation** in the state where it resides. **[REQUIRED]**
-2. Most states exempt churches and other non-profits from paying sales tax, but that exemption must be applied for and granted, and often renewed every year. Check with your own state's laws. **[OPTIONAL, BUT RECOMMENDED]**
-3. Churches are automatically granted 501(c)(3) status by the IRS without any forms being filed whatsoever. Still, many churches elect to officially apply for 501(c)(3) status. One reason is that many companies offer benefits to non-profits which are not made available unless the church can produce an IRS determination letter as evidence of their non-profit status. **[OPTIONAL]**
+2. Most states **exempt** churches and other non-profits from paying **sales tax**, but that exemption must be applied for and granted, and often renewed every year. Check with your own state's laws. **[OPTIONAL, BUT RECOMMENDED]**
+3. Churches are automatically granted **501(c)(3)** status by the IRS without any forms being filed whatsoever. Still, many churches elect to officially apply for 501(c)(3) status. One reason is that many companies offer benefits to non-profits which are not made available unless the church can produce an IRS determination letter as evidence of their non-profit status. **[OPTIONAL]**
 
 ## Church Policies
 
 It is common for churches to have internal policies governing many different areas. Depending on the needs of our church, you may consider establishing policies for the following topics:
 
-* Childcare
-* Building Use
-* Weddings
-* Staff Absences/Vacations
-* *Etc.*
+* childcare
+* building use
+* weddings
+* staff absences/vacations
+* *etc.*
 
 ## Position Papers
 
