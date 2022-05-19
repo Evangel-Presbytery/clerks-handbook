@@ -127,8 +127,8 @@ Name of Body Meeting</p>
 
 ### Sample Sets of Meeting Minutes from Churches in Evangel Presbytery
 
-1. Click **here** to download a sample set of **session meeting minutes**.
-2. Click **here** to download a sample set of **congregational meeting minutes**.
+1. Click [**here**](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Evangel%20Sample%20Session%20Meeting%20Minutes.pdf) to download a sample set of **session meeting minutes**.
+2. Click [**here**](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Evangel%20Sample%20Congregational%20Meeting%20Minutes.pdf) to download a sample set of **congregational meeting minutes**.
 
 <!--- 
 
