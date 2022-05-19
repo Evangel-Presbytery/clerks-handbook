@@ -119,3 +119,11 @@ ul.folder-outline, .folder-outline ul {
 main ol, main ul {
     margin-bottom: 1rem;
 }
+
+.nb {
+    white-space: nowrap;
+}
+
+.sc {
+    font-variant: small-caps;
+}

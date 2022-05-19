@@ -13,13 +13,13 @@ Whenever the bylaws of a particular church and the BCO conflict, the BCO takes p
 
 The process for amending Evangel's BCO can be found in [BCO 29](https://evangel.pressbooks.com/chapter/29-amending-the-constitution-of-the-church/).
 
-Evangel Presbytery itself is also governed by [its own bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf). These are separate from the BCO and do not apply to churches, since they pertain only to the presbytery's governance of its own procedures.
+Evangel Presbytery itself is also governed by [its own bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf), which mostly pertain to the presbytery's governance of its own procedures, though some of its provisions necessarily affect member churches as far as their participation in the presbytery is concerned.
 
 ## Civil Government
 
 1. Each particular church must file **articles of incorporation** in the state where it resides. **[REQUIRED]**
 2. Most states **exempt** churches and other non-profits from paying **sales tax**, but that exemption must be applied for and granted, and often renewed every year. Check with your own state's laws. **[OPTIONAL, BUT RECOMMENDED]**
-3. Churches are automatically granted **501(c)(3)** status by the IRS without any forms being filed whatsoever. Still, many churches elect to officially apply for 501(c)(3) status. One reason is that many companies offer benefits to non-profits which are not made available unless the church can produce an IRS determination letter as evidence of their non-profit status. **[OPTIONAL]**
+3. Churches are automatically granted **[501(c)(3)]{.nb} status** by the IRS without any forms being filed whatsoever. Still, many churches elect to officially apply for [501(c)(3)]{.nb} status. One reason is that many companies offer benefits to non-profits which are not made available unless the church can produce an IRS determination letter as evidence of their non-profit status. **[OPTIONAL]**
 
 ## Church Policies
 

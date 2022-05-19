@@ -41,18 +41,18 @@ Comments from the SRC will generally be to indicate "exceptions," of which there
 
 ### Correcting Exceptions
 
-* Whenever possible, **notations** should be corrected in the minutes. Such corrections typically do not require review or action by the session, since they are typically typographical in nature and therefore do not affect the meaning of what was recorded.
+* **Notations**, whenever possible, should be corrected in the minutes. Such corrections typically do not require review or action by the session, since they are typically typographical in nature and therefore do not affect the meaning of what was recorded.
 * **Exceptions of form** should also be corrected in the minutes when possible. These corrections may sometimes require review and action from the board, especially if the corrections will substantially change the meaning of something which was recorded in the minutes. Use discretion.
-* **Exceptions of substance** are referred by the SRC to the presbytery so that the presbytery as a whole can decide how to address the error, and whether to pursue a more formal process of discipline. Exceptions of substance *must* be corrected by the session, unless the session can demonstrate that the exception of substance was given in error. See section\ 6 of [Evangel's bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf) for more information.
+* **Exceptions of substance** are referred by the SRC to the presbytery so that the presbytery as a whole can decide how to address the error, and whether to pursue a more formal process of discipline. Exceptions of substance *must* be corrected by the session, unless the session can demonstrate that the exception of substance was given in error. See [section\ 6 of Evangel's bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf) for more information.
 
-#### When *Not* to Correct Minutes {-}
+### When *Not* to Correct Minutes
 
 When an exception of form or an exception of substance results from an **error on the part of the session**, and the minutes accurately record the session's error, there is nothing to correct in the minutes. Depending on the circumstances, official action on the part of the session *may* be required to correct its error, but that might not always be possible. For example, if a session failed to give the congregation adequate notice about a congregational meeting, and yet the meeting still took place, this would be an exception of form, but the session cannot go back and undo the violation of good order. An exception of form from the SRC in this case is a reminder to the session to make sure that it does its work properly in the future. (In cases where good order has been violated, it is often prudent for the session to acknowledge its failure to at least those directly affected by the violation. Furthermore, it is wise to record such an acknowledgment in the minutes.)
 
-#### Apparent Violations {-}
+### Apparent Violations
 
 At other times, the minutes, due to a lack of clarity, might indicate an **apparent exception** where no violation was actually committed by the session. If this is the case, the SRC will typically recommend clarifying the minutes so that they more accurately reflect what happened. It's ultimately up to the session to decide whether to correct its minutes in this case, but the session should understand that leaving the records unclear may result in problems for itself down the road. Since this kind of error is usually more than just typographical, it is a good idea for the session to formally adopt an amendment to its previously approved minutes.
 
 ### Recommendations
 
-Occasionally, the SRC will provide **recommendations** on how you can improve the [clarity](#clarity), [concision](#concision), or [consistency](#concistency) of your minutes. These are merely recommendations and do not require correction. They are offered as an aid to making your minutes more useful to your own session.
+Occasionally, the SRC will provide **recommendations** on how you can improve the [clarity](#clarity), [concision](#concision), or [consistency](#consistency) of your minutes. These are merely recommendations and do not require correction. They are offered as an aid to making your minutes more useful to your own session.

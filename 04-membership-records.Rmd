@@ -58,10 +58,11 @@ To speed the process of sending letters in the above procedures, a clerk may wis
 * [dismissal letters](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Membership%20removal%20for%20non%20attendance%2C%20template.pdf)
 * [inquiries about membership status for members who relocate](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Member%20relocated%2C%20attendance%20inquiry.pdf)
 * [exhortations toward church attendance](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Attendance%20inquiry.pdf)
+* *etc.*
 
 ## Synchronization of Membership Records
 
-A variety of methods may be used for keeping the rolls and registers. In all cases, however, care must be taken that the various methods are synchronized: that is, that changes are made among them all. If, for example, a church's roll is kept in a Microsoft Excel file but the church also uses a church management software (ChMS) or constituent relationship management software (CRM), the clerk must ensure that a change to the roll in one location is carried out in the others as well. Changes to membership are also to be kept in the minutes, which serve as the final and most authoritative record.
+A variety of methods may be used for keeping the rolls and registers. In all cases, however, care must be taken that the various methods are synchronized: that is, that changes are made among them all. If, for example, a church's roll is kept in a Microsoft Excel file but the church also uses church management software (ChMS) or constituent relationship management software (CRM), the clerk must ensure that a change to the roll in one location is carried out in the others as well. Changes to membership are also to be kept in the minutes, which serve as the final and most authoritative record.
 
 ## Statistical Reports
 
