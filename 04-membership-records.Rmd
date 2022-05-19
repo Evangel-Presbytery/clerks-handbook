@@ -51,7 +51,13 @@ As the clerk is charged with keeping the rolls and registers of the church, it f
 
 ### Sending Letters
 
-To speed the process of sending letters in the above procedures, a clerk may wish to use templates for commonly sent letters such as [responses to inquiries about good standing](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Good%20standing.pdf), [transfer letters](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Transfer%20notification%20letter.pdf), [dismissal letters](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Membership%20removal%20for%20non%20attendance%2C%20template.pdf), [inquiries about membership status for members who relocate](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Member%20relocated%2C%20attendance%20inquiry.pdf), or [exhortations toward church attendance](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Attendance%20inquiry.pdf). 
+To speed the process of sending letters in the above procedures, a clerk may wish to use templates for commonly sent letters such as:
+
+* [responses to inquiries about good standing](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Good%20standing.pdf)
+* [transfer letters](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Transfer%20notification%20letter.pdf)
+* [dismissal letters](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Membership%20removal%20for%20non%20attendance%2C%20template.pdf)
+* [inquiries about membership status for members who relocate](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Member%20relocated%2C%20attendance%20inquiry.pdf)
+* [exhortations toward church attendance](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Attendance%20inquiry.pdf)
 
 ## Synchronization of Membership Records
 

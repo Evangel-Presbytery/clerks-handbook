@@ -55,4 +55,4 @@ At other times, the minutes, due to a lack of clarity, might indicate an **appar
 
 ### Recommendations
 
-Occasionally, the SRC will provide **recommendations** on how you can improve the [clarity](keeping-minutes.html#clarity), [concision](keeping-minutes.html#concision), or [consistency](keeping-minutes.html#concistency) of your minutes. These are merely recommendations and do not require correction. They are offered as an aid to making your minutes more useful to your own session.
+Occasionally, the SRC will provide **recommendations** on how you can improve the [clarity](#clarity), [concision](#concision), or [consistency](#concistency) of your minutes. These are merely recommendations and do not require correction. They are offered as an aid to making your minutes more useful to your own session.

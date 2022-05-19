@@ -12,7 +12,7 @@ The following is a mix of Robert's Rules and general advice regarding good order
 * **Call the Question** – If successful, a motion to call the question puts an end to debate and causes an immediate vote on the motion being discussed. Also called "Previous Question" (see RONR 16:1).
 * **Consensus** – This is the generally expressed will of the session, and can be used to take official action. Which is to say, not every action required the formality of M/S/A.
 * **M/S/A, i.e., Moved, Seconded, Approved** – This tends to be the most frequent application of Robert's Rules in session meetings. The normal process is for a member of the session to *move* that the board take some action. The motion then requires a *second* from another member of the session (but see [Small Boards] below); only after a second can the motion be discussed. After discussion (if there is any), the session votes on whether or not to *approve* the motion.
-* **Orders of the Day** – This helps ensure that [agenda](roberts-rules-of-order-for-clerks.html#following-the-agenda) items that are pre-agreed on happen at a certain time. It is commonly used to set a standard meeting end time. If an end time has been set, and that time is reached, a member may move to extend orders of the day by a certain amount of time in order for discussion to continue (see RONR 41:41; see also [Orders of the Day] below.)
+* **Orders of the Day** – This helps ensure that [agenda](#following-the-agenda) items that are pre-agreed on happen at a certain time. It is commonly used to set a standard meeting end time. If an end time has been set, and that time is reached, a member may move to extend orders of the day by a certain amount of time in order for discussion to continue (see RONR 41:41; see also [Orders of the Day] below.)
 * **Quorum** – A quorum is the minimum number of members who must be present in order to conduct business (RONR 3:3). See [BCO 14.1](https://evangel.pressbooks.com/chapter/14-the-church-session/) for Evangel Presbytery's definition of a quorum for session meetings.
 
 ## Handling Common Situations
@@ -27,7 +27,7 @@ An agenda exists for the purpose of disciplining a board to stay on task. If the
 
 ### Orders of the Day
 
-As stated [above](roberts-rules-of-order-for-clerks.html#important-terms-for-sessions), some boards have a standard ending time for their meetings. This is called "orders of the day" (RONR 41:41). It may fall to you as the clerk to help the session conduct its business within its own agreed-upon time limits. However, it is important that you do so while being sensitive to the conversation that's going on, and that you wait for an appropriate moment to bring up orders of the day. That moment is probably not the very moment the clock strikes 9 p.m.
+As stated [above][Important Terms for Sessions], some boards have a standard ending time for their meetings. This is called "orders of the day" (RONR 41:41). It may fall to you as the clerk to help the session conduct its business within its own agreed-upon time limits. However, it is important that you do so while being sensitive to the conversation that's going on, and that you wait for an appropriate moment to bring up orders of the day. That moment is probably not the very moment the clock strikes 9 p.m.
 
 ### Recording Motions
 
@@ -67,7 +67,7 @@ Robert's Rules explicitly calls for less formality when the size of the board is
 
 For instance:
 
-* Motions do not need a second (though see below about [custom](roberts-rules-of-order-for-clerks.html#custom)).
+* Motions do not need a second (though see below about [custom](#custom)).
 * Informally discussing subjects is allowable when there's not a motion currently pending.
 * The moderator can participate in debates and in informal discussions and can vote on matters (unless your bylaws specify that he doesn't have a vote)—all without leaving the chair (i.e., without temporarily stepping down as moderator as you do in a large assembly).
 
