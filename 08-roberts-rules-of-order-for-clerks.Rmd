@@ -36,7 +36,7 @@ Motions will often be amended before they are finally voted on. This commonly ta
    2. Member D seconds Member C's motion to amend Member A's motion. (If there is general consensus that the amendment enhances the original motion, the amendment can be considered a "friendly amendment," and the session can skip to the final step of approving the original motion, as amended, without having to formally vote on the amendment.)
    3. The session discusses Member C's proposed amendment to Member A's motion.
    4. The session votes on Member C's amendment to Member A's motion.
-4. If necessary, the session continues to discuss the motion (as amended, if the amendment was approved).
+4. If necessary, the session continues to discuss Member A's motion (as amended, if the amendment was approved).
 5. The session votes on Member A's motion (as amended, if the amendment was approved).
 
 For amended motions, you almost never need to record the original version of the motion in the minutes. You just record the version you ended up with and which was finally voted on. Then, if it is approved, you record, "Approved as amended." (See RONR 48:4(6)(a); see 48:8 for an example.)

@@ -41,7 +41,7 @@ Comments from the SRC will generally be to indicate "exceptions," of which there
 
 ### Correcting Exceptions
 
-* **Notations**, whenever possible, should be corrected in the minutes. Such corrections typically do not require review or action by the session, since they are typically typographical in nature and therefore do not affect the meaning of what was recorded.
+* **Notations**, whenever possible, should be corrected in the minutes. Such corrections typically do not require review or action by the session, since they are usually typographical in nature and therefore do not affect the meaning of what was recorded.
 * **Exceptions of form** should also be corrected in the minutes when possible. These corrections may sometimes require review and action from the board, especially if the corrections will substantially change the meaning of something which was recorded in the minutes. Use discretion.
 * **Exceptions of substance** are referred by the SRC to the presbytery so that the presbytery as a whole can decide how to address the error, and whether to pursue a more formal process of discipline. Exceptions of substance *must* be corrected by the session, unless the session can demonstrate that the exception of substance was given in error. See [section\ 6 of Evangel's bylaws](https://evangelpresbytery.com/wp-content/uploads/2021/06/EvangelPresbyteryBylaws_2021_06_03.pdf) for more information.
 
