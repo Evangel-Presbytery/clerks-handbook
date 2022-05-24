@@ -37,7 +37,7 @@ Comments from the SRC will generally be to indicate "exceptions," of which there
 
 * **Notations**, defined in Evangel's bylaws as "typographical errors, misspellings, improper punctuation, and other minor variations in form and clarity" (6(D)(6)).
 * **Exceptions of Form**, defined in Evangel's bylaws as "violations of Evangel Presbytery's Guidelines for Keeping Session Minutes or violations of rules of order" (ibid.).
-* **Exceptions of Substance**, defined in Evangel's bylaws as "apparent violations of the Scripture or serious irregularities from the Constitution of Evangel Presbytery, actions out of accord with the deliverances of the Presbytery, and matters of impropriety and important delinquencies" (ibid.).
+* **Exceptions of Substance**, defined in Evangel's bylaws as "[apparent violations](#apparent-violations) of the Scripture or serious irregularities from the Constitution of Evangel Presbytery, actions out of accord with the deliverances of the Presbytery, and matters of impropriety and important delinquencies" (ibid.).
 
 ### Correcting Exceptions
 
