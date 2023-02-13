@@ -13,7 +13,7 @@ This chapter is a mix of Robert's Rules and general advice regarding good order.
 * **Consensus** – This is the generally expressed will of the session, and can be used to take official action. Which is to say, not every action requires the formality of M/S/A.
 * **M/S/A, i.e., Moved, Seconded, Approved** – This tends to be the most frequent application of Robert's Rules in session meetings. The normal process is for a member of the session to *move* that the board take some action. The motion then requires a *second* from another member of the session (but see [Small Boards] below); only after a second can the motion be discussed. After discussion (if there is any), the session votes on whether or not to *approve* the motion.
 * **Orders of the Day** – This helps ensure that [agenda](#following-the-agenda) items that are pre-agreed on happen at a certain time. It is commonly used to set a standard meeting end time. If an end time has been set, and that time is reached, a member may move to extend orders of the day by a certain amount of time in order for discussion to continue (see RONR 41:41; see also [Orders of the Day] below.)
-* **Quorum** – A quorum is the minimum number of members who must be present in order to conduct business (RONR 3:3). See [BCO 14.1](https://evangel.pressbooks.com/chapter/14-the-church-session/) for Evangel Presbytery's definition of a quorum for session meetings.
+* **Quorum** – A quorum is the minimum number of members who must be present in order to conduct business (RONR 3:3). See [BCO 14.1](https://bco.evangelpresbytery.com/form-of-government.html#the-church-session) for Evangel Presbytery's definition of a quorum for session meetings.
 
 ## Handling Common Situations
 
