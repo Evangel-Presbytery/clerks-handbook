@@ -1,18 +1,3 @@
----
-title: "Handbook for Evangel Presbytery Clerks"
-author: "Office of the Stated Clerk of Evangel Presbytery"
-description: "This is a handbook for Evangel Presbytery clerks of session."
----
----
-title: "Handbook for Evangel Presbytery Clerks"
-author: "Office of the Stated Clerk of Evangel Presbytery"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-documentclass: book
-github-repo: Evangel-Presbytery/clerks-handbook
-description: "This is a handbook for Evangel Presbytery clerks of session."
----
-
 # Overview
 
 Welcome to Evangel Presbytery's handbook for clerks of session. This resource is not part of Evangel's officially adopted governing documents; it is simply intended to make the work of clerks of session easier, more efficient, and more reliable. It consolidates information from Evangel's [Book of Church Order](https://bco.evangelpresbytery.com/index.html) (BCO) and [bylaws](https://bylaws.evangelpresbytery.com/index.html) as they pertain specifically to clerks of session. Additionally, this handbook offers practical resources and guidance for carrying out the clerk's duties.
@@ -22,15 +7,15 @@ Welcome to Evangel Presbytery's handbook for clerks of session. This resource is
 The officers of Christ's church are called by the Lord to carry out justice among His people. Central to this work is the keeping of faithful records. The prophet Isaiah gives us a glimpse of the importance of this in the church:
 
 ::::: {.poetry}
->Woe to those who enact evil statutes
+>Woe to those who enact evil statutes  
 >
->And to those who constantly record unjust decisions,
+>And to those who constantly record unjust decisions,  
 >
->So as to deprive the needy of justice
+>So as to deprive the needy of justice  
 >
->And rob the poor of My people of their rights,
+>And rob the poor of My people of their rights,  
 >
->So that widows may be their spoil
+>So that widows may be their spoil  
 >
 >And that they may plunder the orphans.
 >
@@ -49,13 +34,13 @@ The BCO organizes Evangel Presbytery's government into two types of "court": chu
 
 This handbook is organized according to the stated clerk's areas of responsibility. These typically include (but are not necessarily limited to) the following:
 
-* [Governing Documents]
-* [Keeping Minutes]
-* [Membership Records]
-* [Church Discipline Records]
-* [Organization of Records]
-* [Submission of Records to Presbytery]
-* [Rules of Order for Sessions][Robert's Rules of Order for Clerks]
+* [Governing Documents](#sec-governing-documents)
+* [Keeping Minutes](#sec-keeping-minutes)
+* [Membership Records](#sec-membership-records)
+* [Church Discipline Records](#sec-church-discipline-records)
+* [Organization of Records](#sec-organization-of-records)
+* [Submission of Records to Presbytery](#sec-submission-of-records-to-presbytery)
+* [Rules of Order for Sessions](#sec-rro-for-clerks)
 
 ## The Clerk's Help
 

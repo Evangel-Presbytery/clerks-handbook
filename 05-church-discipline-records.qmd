@@ -1,4 +1,4 @@
-# Church Discipline Records
+# Church Discipline Records {#sec-church-discipline-records}
 
 The Evangel Presbytery Book of Church Order addresses church discipline in its Rules of Discipline ([chapters 30–49](https://bco.evangelpresbytery.com/the-rules-of-discipline.html)). This chapter exists to be a shorthand reference for clerks where *judicial process* is necessary. It pertains, in other words, to church discipline that is *formal* rather than *informal*. Informal discipline happens all the time in a healthy church. Formal process is necessary when one of the [censures](#church-censures) of the church is used to discipline a member.
 
@@ -21,15 +21,15 @@ It is common in judicial proceedings for the session to appoint a judicial commi
 
 The Clerk's primary responsibility is to assemble the record of the case. It should include:
 
-* the charges,
-* the answer,
-* the citations and returns thereto, and
+* the charges, 
+* the answer, 
+* the citations and returns thereto, and 
 * the minutes of all meetings required in the process of formal discipline.
 
 The minutes of a trial should include the items listed above as well as the following:
 
 * all the testimony,
-* all such acts, orders, and decisions of the court relating to the case, as either party may desire, and
+* all such acts, orders, and decisions of the court relating to the case, as either party may desire, and 
 * the judgment.
 
 For more information, see [BCO 35.18](https://bco.evangelpresbytery.com/the-rules-of-discipline.html#general-provisions-applicable-to-all-cases-of-process).
@@ -50,10 +50,10 @@ As stated in [BCO 32.1](https://bco.evangelpresbytery.com/the-rules-of-disciplin
 
 The censures which may be inflicted by church courts are:
 
-* admonition,
-* suspension from the Sacraments,
-* suspension from office,
-* deposition from office, and
+* admonition, 
+* suspension from the Sacraments, 
+* suspension from office, 
+* deposition from office, and 
 * excommunication.
 
 For more information, see [BCO 33](https://bco.evangelpresbytery.com/the-rules-of-discipline.html#church-censures), [39](https://bco.evangelpresbytery.com/the-rules-of-discipline.html#the-infliction-of-church-censures), and [40](https://bco.evangelpresbytery.com/the-rules-of-discipline.html#the-removal-of-censure).

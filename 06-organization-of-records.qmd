@@ -1,4 +1,4 @@
-# Organization of Records
+# Organization of Records {#sec-organization-of-records}
 
 Keeping church records well organized is one of the clerk's most important duties. First of all, good organization helps ensure the accuracy of the records kept. In addition, the time you spend organizing records *now* will save you time hunting down records *later* when they are needed for reference.
 
@@ -6,7 +6,7 @@ Keeping church records well organized is one of the clerk's most important dutie
 
 ### File Names
 
-It's important to be consistent with your files names. We suggest the following:
+It's important to be consistent with your files names. We suggest the following: 
 
 > YYYY-MM-DD Church Name or Abbreviation Body and Meeting
 
@@ -43,7 +43,7 @@ To organize your files on your computer, we suggest the following:
 </ul>
 </ul>
 
-To ensure that there is one and only one *official* version of any minutes, we discourage including temporary folders such as "Waiting for Session Approval" in the file structure listed above for the permanent record.
+To ensure that there is one and only one *official* version of any minutes, we discourage including temporary folders such as "Waiting for Session Approval" in the file structure listed above for the permanent record. 
 
 If you follow our [guidelines for keeping minutes](#where-to-take-minutes), then minutes which are in the process of being approved will be sent out by email. Everyone who had a part in the meeting will then have a time-stamped record of the minutes. Once final changes are made and minutes have been approved, however, they should be added to the permanent record.
 
