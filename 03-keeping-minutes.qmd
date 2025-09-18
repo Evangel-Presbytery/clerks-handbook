@@ -130,7 +130,7 @@ Name of Body Meeting</p>
 1. Click [here](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Evangel%20Sample%20Session%20Meeting%20Minutes.pdf) to download a sample set of **session meeting minutes**.
 2. Click [here](https://github.com/Evangel-Presbytery/clerks-handbook/raw/main/Download%20Files/Evangel%20Sample%20Congregational%20Meeting%20Minutes.pdf) to download a sample set of **congregational meeting minutes**.
 
-<!--- 
+<!---
 
 ## Optional Guidelines
 
@@ -138,16 +138,16 @@ For clerks (or moderators) who want to follow a more thorough set of standards f
 
 1. At the beginning of each set of minutes, place a header on the left side, in the following format:
 
-      > Name of Institution  
-      Type of Meeting (including the specific body meeting)  
-      Month, Date, YYYY, Time  
+      > Name of Institution
+      Type of Meeting (including the specific body meeting)
+      Month, Date, YYYY, Time
       Location of meeting (or name of software used if meeting was held virtually, e.g., "via Zoom")
 
    For a regular session meeting at Holy Trinity Reformed Church, the header would be as follows:
 
-      > Holy Trinity Reformed Church  
-      Regular Scheduled Session Meeting  
-      October 11, 2012, 7:00pm  
+      > Holy Trinity Reformed Church
+      Regular Scheduled Session Meeting
+      October 11, 2012, 7:00pm
       at Holy Trinity Reformed Church
 
 3. Below the header (one line intervening), type “Present:”, followed by a list of all individuals in attendance at some point during the meeting. After each individual, put in parentheses his position/function in relation to the body meeting; for men with the same position, this may be put after all their names. Separate entries with a semicolon where it separates distinct positions; use a comma between names of the same position. Note these practices in the following example:
@@ -198,9 +198,9 @@ For clerks (or moderators) who want to follow a more thorough set of standards f
 
 18. Below the body of the minutes, but before any supplemental documents, write the closing signature as follows:
 
-    > Respectfully submitted,  
+    > Respectfully submitted,
     Your Name
-    Clerk of Session (or Clerk pro tem) 
+    Clerk of Session (or Clerk pro tem)
     Name of Body Meeting
    
 19. Separate the minutes proper from any supplemental appended documents with a row of asterisks or hyphens.

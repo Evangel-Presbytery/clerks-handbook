@@ -1,4 +1,9 @@
---- 
+---
+title: "Handbook for Evangel Presbytery Clerks"
+author: "Office of the Stated Clerk of Evangel Presbytery"
+description: "This is a handbook for Evangel Presbytery clerks of session."
+---
+---
 title: "Handbook for Evangel Presbytery Clerks"
 author: "Office of the Stated Clerk of Evangel Presbytery"
 date: "`r Sys.Date()`"
@@ -17,15 +22,15 @@ Welcome to Evangel Presbytery's handbook for clerks of session. This resource is
 The officers of Christ's church are called by the Lord to carry out justice among His people. Central to this work is the keeping of faithful records. The prophet Isaiah gives us a glimpse of the importance of this in the church:
 
 ::::: {.poetry}
->Woe to those who enact evil statutes  
+>Woe to those who enact evil statutes
 >
->And to those who constantly record unjust decisions,  
+>And to those who constantly record unjust decisions,
 >
->So as to deprive the needy of justice  
+>So as to deprive the needy of justice
 >
->And rob the poor of My people of their rights,  
+>And rob the poor of My people of their rights,
 >
->So that widows may be their spoil  
+>So that widows may be their spoil
 >
 >And that they may plunder the orphans.
 >

@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Handbook for Evangel Presbytery Clerks"
+  author: "Office of the Stated Clerk of Evangel Presbytery"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - 02-governing-documents.qmd
+    - 03-keeping-minutes.qmd
+    - 04-membership-records.qmd
+    - 05-church-discipline-records.qmd
+    - 06-organization-of-records.qmd
+    - 07-submission-of-records-to-presbytery.qmd
+    - 08-roberts-rules-of-order-for-clerks.qmd
+  repo-url: https://github.com/Evangel-Presbytery/clerks-handbook
+  repo-branch: main
+  favicon: evangel-favicon-196.png
+  sidebar:
+    logo: logo.png
+    style: docked
+
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    include-in-header: in_header.html
+  pdf:
+    documentclass: book
+    include-in-header: preamble.tex
+    latex-engine: xelatex
+    citation-package: natbib
+    keep-tex: true
+  epub:
+    css: style.css

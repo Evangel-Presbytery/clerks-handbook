@@ -3,5 +3,10 @@
 .RData
 _book
 _bookdown_files
+_quarto_files
+/.quarto/
 rsconnect
 .DS_Store
+*.html
+/.luarc.json
+**/*.quarto_ipynb

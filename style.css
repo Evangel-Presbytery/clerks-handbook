@@ -1,3 +1,11 @@
+/* Logo in the sidebar */
+.sidebar-logo {
+    max-width: 150px;
+    margin: 0 auto 1rem;
+    display: block;
+}
+
+/* For backward compatibility with bookdown */
 header div h1 a[href="index.html"]::before {
     display: block;
     content: '';
