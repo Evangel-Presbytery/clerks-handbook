@@ -2,15 +2,10 @@ project:
   type: book
 
 book:
-  sidebar:
-    header: TOCheader.qmd
-    title: false
-    search: true
   title: "Handbook for Evangel Presbytery Clerks"
   author: "Office of the Stated Clerk of Evangel Presbytery"
   date: today
   repo-url: https://github.com/Evangel-Presbytery/clerks-handbook
-  favicon: "evangel-favicon-196.png"
   chapters:
     - index.qmd
     - 02-governing-documents.qmd
@@ -20,10 +15,13 @@ book:
     - 06-organization-of-records.qmd
     - 07-submission-of-records-to-presbytery.qmd
     - 08-roberts-rules-of-order-for-clerks.qmd
+  sidebar:
+    header: TOCheader.qmd
+    search: true
+  favicon: "evangel-favicon-196.png"
 
 format:
   html:
     css: "style.css"
     include-in-header:
-      - file: in_header.html
-
+      - text: <script src="https://kit.fontawesome.com/c2565ebea9.js" crossorigin="anonymous"></script>
