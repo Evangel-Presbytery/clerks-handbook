@@ -4,7 +4,6 @@ project:
 book:
   title: "Handbook for Evangel Presbytery Clerks"
   author: "Office of the Stated Clerk of Evangel Presbytery"
-  date: false
   repo-url: https://github.com/Evangel-Presbytery/clerks-handbook
   chapters:
     - index.qmd
